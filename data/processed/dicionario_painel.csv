@@ -100,3 +100,7 @@ uf_pas_pessoal_ocupado,Pessoal ocupado em serviços em 31/12 (valor da UF),pesso
 uf_pas_receita_bruta,Receita bruta de serviços (valor da UF),mil R$,SIDRA 2715 (2007–2023) e 10762 (2024) – PAS,UF
 uf_pas_salarios,"Salários, retiradas e outras remunerações em serviços (valor da UF)",mil R$,SIDRA 2715 (2007–2023) e 10762 (2024) – PAS,UF
 uf_serie_nova_pia_pas,1 quando PIA/PAS vêm da série nova do IBGE (2024),0/1,Calculado,UF
+br_pib,PIB do Brasil a preços correntes (soma dos 4 trimestres),milhões R$,SIDRA 1846 – Contas Nacionais Trimestrais,Brasil
+br_vab_agro,VAB da agropecuária do Brasil a preços correntes (soma dos 4 trimestres),milhões R$,SIDRA 1846 – Contas Nacionais Trimestrais,Brasil
+br_vab_industria,VAB da indústria do Brasil a preços correntes (soma dos 4 trimestres),milhões R$,SIDRA 1846 – Contas Nacionais Trimestrais,Brasil
+br_vab_servicos,VAB dos serviços do Brasil a preços correntes (soma dos 4 trimestres),milhões R$,SIDRA 1846 – Contas Nacionais Trimestrais,Brasil

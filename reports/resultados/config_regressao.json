@@ -1,0 +1,44 @@
+{
+  "melhor_modelo": "Ensemble (Ridge + RF + LightGBM)",
+  "inicio_janela": 2016,
+  "hiperparametros": {
+    "Ridge": {
+      "alpha": 1000
+    },
+    "Huber": {
+      "alpha": 1,
+      "epsilon": 2.0
+    },
+    "Random Forest": {
+      "min_samples_leaf": 5,
+      "max_features": 0.6
+    },
+    "LightGBM": {
+      "objective": "l2",
+      "num_leaves": 15,
+      "min_child_samples": 20,
+      "colsample_bytree": 0.6,
+      "subsample": 0.8,
+      "reg_lambda": 0.0
+    },
+    "Ensemble (Ridge + RF + LightGBM)": {
+      "Ridge": {
+        "alpha": 1000
+      },
+      "Random Forest": {
+        "min_samples_leaf": 5,
+        "max_features": 0.6
+      },
+      "LightGBM": {
+        "objective": "l2",
+        "num_leaves": 15,
+        "min_child_samples": 20,
+        "colsample_bytree": 0.6,
+        "subsample": 0.8,
+        "reg_lambda": 0.0
+      }
+    }
+  },
+  "criterio": "MAPE médio na validação temporal 2019–2022",
+  "variaveis_brasil_no_modelo": false
+}

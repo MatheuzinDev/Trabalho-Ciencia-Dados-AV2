@@ -29,9 +29,20 @@ TINTA_SUAVE = "#898781"
 GRADE = "#e1e0d9"
 EIXO = "#c3c2b7"
 
-# Categórica (ordem fixa; nunca reciclar)
-CATEGORICA = ["#2a78d6", "#eb6834", "#1baf7a"]
+# Categórica (ordem fixa; nunca reciclar). As 3 primeiras valem para qualquer par de cores
+# (dispersão, facetas); as 8 valem para pares adjacentes (linhas, barras).
+CATEGORICA_8 = ["#2a78d6", "#eb6834", "#1baf7a", "#eda100", "#e87ba4", "#008300", "#6250d6", "#e34948"]
+CATEGORICA = CATEGORICA_8[:3]
 CORES_UF = {"PR": CATEGORICA[0], "SC": CATEGORICA[1], "RS": CATEGORICA[2]}
+# Modelos: baselines em cinza (referência), modelos treinados na ordem categórica
+CORES_MODELOS = {
+    "Persistência (PIB_t = PIB_t-1)": "#898781",
+    "Ridge": CATEGORICA_8[0],
+    "Huber": CATEGORICA_8[1],
+    "Random Forest": CATEGORICA_8[2],
+    "LightGBM": CATEGORICA_8[3],
+    "Ensemble (Ridge + RF + LightGBM)": CATEGORICA_8[4],
+}
 
 # Divergente: categorias de crescimento (retração → crescimento)
 CORES_CATEGORIAS = {

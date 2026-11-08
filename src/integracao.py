@@ -288,6 +288,26 @@ def uf_contexto() -> pd.DataFrame:
     return uf
 
 
+COLUNAS_BRASIL = {
+    90707: ("br_pib", "PIB do Brasil a preços correntes (soma dos 4 trimestres)"),
+    90687: ("br_vab_agro", "VAB da agropecuária do Brasil a preços correntes (soma dos 4 trimestres)"),
+    90691: ("br_vab_industria", "VAB da indústria do Brasil a preços correntes (soma dos 4 trimestres)"),
+    90696: ("br_vab_servicos", "VAB dos serviços do Brasil a preços correntes (soma dos 4 trimestres)"),
+}
+
+
+def brasil_anual() -> pd.DataFrame:
+    """Contas Nacionais Trimestrais agregadas por ano (só anos com os 4 trimestres publicados)."""
+    df = pd.read_csv(DIR_RAW / "pib_brasil_trimestral.csv", dtype={"valor_raw": str})
+    df["valor"] = para_numerico(df["valor_raw"])
+    anual = df.groupby(["ano", "cod_setor"])["valor"].sum(min_count=4).unstack("cod_setor")
+    anual = anual.rename(columns={c: nome for c, (nome, _) in COLUNAS_BRASIL.items()})
+    for nome, desc in COLUNAS_BRASIL.values():
+        _registra(nome, desc, "milhões R$", "SIDRA 1846 – Contas Nacionais Trimestrais", "Brasil")
+    anual.columns.name = None
+    return anual[[n for n, _ in COLUNAS_BRASIL.values()]].reset_index()
+
+
 # ---------------------------------------------------------------------------
 # Montagem
 # ---------------------------------------------------------------------------
@@ -307,6 +327,7 @@ def monta_painel() -> tuple[pd.DataFrame, pd.DataFrame]:
 
     painel = painel.reset_index().merge(mun, on="cod_ibge", how="left", validate="many_to_one")
     painel = painel.merge(uf_contexto().reset_index(), on=["cod_uf", "ano"], how="left", validate="many_to_one")
+    painel = painel.merge(brasil_anual(), on="ano", how="left", validate="many_to_one")
 
     # Ordem das colunas: identificação, depois as variáveis na ordem em que foram registradas.
     ordem = [d["coluna"] for d in _DICIONARIO]

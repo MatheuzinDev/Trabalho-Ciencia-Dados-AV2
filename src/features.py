@@ -248,6 +248,20 @@ def constroi_dataset(painel: pd.DataFrame) -> tuple[pd.DataFrame, pd.DataFrame]:
     reg("var_pam_valor", "Variação do valor da produção agrícola: log(1+PAM_t) - log(1+PAM_t-1)", "explicativa", "t", "log")
     reg("var_ppm_valor", "Variação do valor da produção de origem animal (log1p)", "explicativa", "t", "log")
 
+    # Choque agropecuário agregado da UF e da região imediata: uma quebra de safra afeta
+    # também o comércio e os serviços dos municípios vizinhos, não só quem planta.
+    for nivel, nome in [("cod_uf", "uf"), ("regiao_imediata", "reg_imediata")]:
+        for fonte, rotulo in [("pam_valor_total", "pam"), ("ppm_valor_total", "ppm")]:
+            agg = p.groupby([nivel, "ano"])[[fonte, "pib"]].sum(min_count=1)
+            agg_l1 = agg.groupby(level=0).shift(1)
+            choque = (agg[fonte] - agg_l1[fonte]) / agg_l1["pib"]
+            chave = pd.MultiIndex.from_arrays([p[nivel], p["ano"]])
+            out[f"choque_{rotulo}_{nome}"] = choque.reindex(chave).to_numpy()
+            reg(f"choque_{rotulo}_{nome}",
+                f"Variação do valor da {'PAM' if rotulo == 'pam' else 'PPM'} agregada da "
+                f"{'UF' if nome == 'uf' else 'região imediata'} (t vs t-1) como fração do PIB agregado de t-1",
+                "explicativa", "t", "fração")
+
     for cultura in PRINCIPAIS_LAVOURAS:
         col = f"pam_valor_{cultura}"
         out[f"choque_{cultura}"] = (p[col] - lag(col, 1)) / base
@@ -287,6 +301,15 @@ def constroi_dataset(painel: pd.DataFrame) -> tuple[pd.DataFrame, pd.DataFrame]:
         out[novo] = np.log(p[col] / lag(col, 1))
         reg(novo, f"Variação (log, t vs t-1) da {desc} da UF", "explicativa", "t", "log")
 
+    # ----- Contexto nacional do ano t (Contas Nacionais Trimestrais) ---------------
+    # O PIB trimestral do Brasil sai bem antes do PIB municipal: em 2026 os 4 trimestres de
+    # 2024 já são conhecidos. Funciona como termômetro do crescimento nominal do ano.
+    for col, desc in [("br_pib", "PIB"), ("br_vab_agro", "VAB da agropecuária"),
+                      ("br_vab_industria", "VAB da indústria"), ("br_vab_servicos", "VAB dos serviços")]:
+        novo = col.replace("br_", "var_br_")
+        out[novo] = np.log(p[col] / lag(col, 1))
+        reg(novo, f"Variação nominal (log, t vs t-1) do {desc} do Brasil", "explicativa", "t", "log")
+
     out["agro_imputado"] = p["agro_imputado"]
     reg("agro_imputado", "1 se algum dado de PAM/PPM do município no ano t foi imputado", "indicador", "t", "0/1")
 
@@ -307,12 +330,20 @@ def constroi_dataset(painel: pd.DataFrame) -> tuple[pd.DataFrame, pd.DataFrame]:
     return out, dicionario
 
 
-def colunas_modelo(dataset: pd.DataFrame) -> tuple[list[str], list[str]]:
-    """Listas de variáveis explicativas numéricas e categóricas usadas pelos modelos."""
+def colunas_modelo(dataset: pd.DataFrame, incluir_brasil: bool = False) -> tuple[list[str], list[str]]:
+    """Listas de variáveis explicativas numéricas e categóricas usadas pelos modelos.
+
+    As variações do PIB do Brasil (``var_br_*``) ficam no dataset, mas fora do modelo
+    padrão: no experimento do notebook 03 elas não melhoraram a validação. Como são
+    iguais para todos os municípios num ano, há só tantos valores distintos quanto anos
+    de treino.
+    """
     excluir = {"cod_ibge", "ano", "municipio", "cod_uf", "pib", "cresc_pib_pct", "cresc_pib_log",
                "categoria_crescimento", "pib_l1", "amostra_padrao", "conjunto", "regiao_imediata"}
     categoricas = ["uf", "regiao_intermediaria", "porte"]
     numericas = [c for c in dataset.columns if c not in excluir and c not in categoricas]
+    if not incluir_brasil:
+        numericas = [c for c in numericas if not c.startswith("var_br_")]
     return numericas, categoricas
 
 

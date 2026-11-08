@@ -302,6 +302,30 @@ def coleta_pas_uf() -> pd.DataFrame:
     return pd.concat([antiga, nova], ignore_index=True)
 
 
+SETORES_CONTAS_NACIONAIS = {
+    90707: "PIB a preços de mercado",
+    90687: "Agropecuária",
+    90691: "Indústria",
+    90696: "Serviços",
+}
+
+
+def coleta_pib_brasil_trimestral() -> pd.DataFrame:
+    """Contas Nacionais Trimestrais (tabela 1846): PIB e VAB por grande setor do Brasil,
+    a preços correntes (milhões de R$), por trimestre.
+
+    Usado como termômetro nominal do ano: o PIB do Brasil de 2024 já foi publicado
+    (4 trimestres) antes do PIB municipal de 2024.
+    """
+    df = consulta_sidra(1846, [585], "all", nivel="n1/all",
+                        classificacoes={11255: list(SETORES_CONTAS_NACIONAIS)})
+    df = df.rename(columns={"Trimestre (Código)": "trimestre", "Setores e subsetores": "setor",
+                            "Setores e subsetores (Código)": "cod_setor", "Valor": "valor_raw",
+                            "Unidade de Medida": "unidade"})
+    df["ano"] = df["trimestre"].str[:4].astype(int)
+    return df[["ano", "trimestre", "cod_setor", "setor", "unidade", "valor_raw"]]
+
+
 # Nome do arquivo em data/raw/ -> função de coleta
 FONTES = {
     "municipios_sul": coleta_municipios,
@@ -312,6 +336,7 @@ FONTES = {
     "populacao": coleta_populacao,
     "pia_empresa_uf": coleta_pia_uf,
     "pas_uf": coleta_pas_uf,
+    "pib_brasil_trimestral": coleta_pib_brasil_trimestral,
 }
 
 
