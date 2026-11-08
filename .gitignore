@@ -1,0 +1,18 @@
+# Ambiente
+.venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Dados brutos (regenerados pelo notebook 01 / src/coleta.py)
+data/raw/*
+!data/raw/.gitkeep
+
+# Sistema
+.DS_Store
+Thumbs.db
+
+# Arquivos internos (não vão para o repositório entregue)
+PLANO.md
+*.pdf
+!reports/relatorio.pdf
