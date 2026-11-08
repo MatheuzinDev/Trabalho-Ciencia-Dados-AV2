@@ -88,7 +88,7 @@ ppm_qtd_la,Quantidade produzida – Lã,kg,SIDRA 74 – Pesquisa da Pecuária Mu
 populacao,"População residente (estimativa, contagem ou censo, conforme o ano)",pessoas,"SIDRA 6579 (estimativas), 793 (Contagem 2007), 202 (Censo 2010), 4709 (Censo 2022)",Município
 populacao_fonte,Origem do valor de população do ano,-,"SIDRA 6579 (estimativas), 793 (Contagem 2007), 202 (Censo 2010), 4709 (Censo 2022)",Município
 populacao_interpolada,"1 se a população do ano foi interpolada (2023, sem estimativa oficial)",0/1,Calculado,Município
-populacao_quebra_serie,"1 nos anos de contagem/censo (2007, 2010, 2022), em que a série muda de base",0/1,Calculado,Município
+populacao_quebra_serie,"1 nos anos em que a série muda de base: contagem/censo (2007, 2010, 2022), recalibração das estimativas (2008, 2013) ou ajuste de cobertura do Censo 2022 (2023, 2024)",0/1,Calculado,Município
 uf_pia_unidades_locais,Unidades locais industriais (empresas com 5+ pessoas ocupadas) (valor da UF),unidades,SIDRA 5603 (2007–2023) e 10455 (2024) – PIA-Empresa,UF
 uf_pia_pessoal_ocupado,Pessoal ocupado na indústria em 31/12 (valor da UF),pessoas,SIDRA 5603 (2007–2023) e 10455 (2024) – PIA-Empresa,UF
 uf_pia_salarios,"Salários, retiradas e outras remunerações na indústria (valor da UF)",mil R$,SIDRA 5603 (2007–2023) e 10455 (2024) – PIA-Empresa,UF

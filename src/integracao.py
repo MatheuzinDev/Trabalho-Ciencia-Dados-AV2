@@ -27,10 +27,13 @@ ARQ_DICIONARIO = DIR_PROCESSED / "dicionario_painel.csv"
 
 ANOS = list(range(ANO_INICIAL, ANO_FINAL + 1))
 
-# Anos em que a série de população muda de base: o valor vem de uma contagem ou de um censo,
-# e não da projeção usada nos anos anteriores. A variação em relação ao ano anterior
-# mistura crescimento real e correção de base.
-ANOS_QUEBRA_POPULACAO = [2007, 2010, 2022]
+# Anos em que a série de população muda de base, e a variação em relação ao ano anterior
+# mistura crescimento real e correção de base:
+# * 2007, 2010, 2022: valor de contagem ou censo, e não da projeção dos anos anteriores;
+# * 2008, 2013: as estimativas voltam a ser projeções, recalibradas pela contagem e pelo censo;
+# * 2023, 2024: a estimativa de 2024 incorpora o ajuste de cobertura (subenumeração) do Censo 2022,
+#   e 2023 é interpolado entre o censo e essa estimativa.
+ANOS_QUEBRA_POPULACAO = [2007, 2008, 2010, 2013, 2022, 2023, 2024]
 
 # Dicionário de variáveis: preenchido à medida que as colunas são criadas.
 _DICIONARIO: list[dict] = []
@@ -222,7 +225,9 @@ def populacao(grade: pd.MultiIndex) -> pd.DataFrame:
     _registra("populacao_interpolada", "1 se a população do ano foi interpolada (2023, sem estimativa oficial)",
               "0/1", "Calculado")
     _registra("populacao_quebra_serie",
-              "1 nos anos de contagem/censo (2007, 2010, 2022), em que a série muda de base", "0/1", "Calculado")
+              "1 nos anos em que a série muda de base: contagem/censo (2007, 2010, 2022), "
+              "recalibração das estimativas (2008, 2013) ou ajuste de cobertura do Censo 2022 (2023, 2024)",
+              "0/1", "Calculado")
     return pop
 
 
