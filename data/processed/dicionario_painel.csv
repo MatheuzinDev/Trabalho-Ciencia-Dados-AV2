@@ -1,0 +1,102 @@
+coluna,descricao,unidade,fonte,nivel
+cod_ibge,Código IBGE do município (7 dígitos),-,IBGE – API de Localidades,Município
+ano,Ano de referência,-,-,Município
+municipio,Nome do município,-,IBGE – API de Localidades,Município
+cod_uf,Código IBGE da UF,-,IBGE – API de Localidades,Município
+uf,Sigla da UF,-,IBGE – API de Localidades,Município
+cod_mesorregiao,Código da mesorregião geográfica (divisão de 1989),-,IBGE – API de Localidades,Município
+mesorregiao,Mesorregião geográfica,-,IBGE – API de Localidades,Município
+cod_microrregiao,Código da microrregião geográfica (divisão de 1989),-,IBGE – API de Localidades,Município
+microrregiao,Microrregião geográfica,-,IBGE – API de Localidades,Município
+cod_regiao_intermediaria,Código da região geográfica intermediária (divisão de 2017),-,IBGE – API de Localidades,Município
+regiao_intermediaria,Região geográfica intermediária,-,IBGE – API de Localidades,Município
+cod_regiao_imediata,Código da região geográfica imediata (divisão de 2017),-,IBGE – API de Localidades,Município
+regiao_imediata,Região geográfica imediata,-,IBGE – API de Localidades,Município
+pib,Produto Interno Bruto a preços correntes.,mil R$,SIDRA 5938 – PIB dos Municípios,Município
+impostos,"Impostos, líquidos de subsídios, sobre produtos, a preços correntes. Disponível até 2021 (o IBGE publicou só o PIB total para 2022–2023).",mil R$,SIDRA 5938 – PIB dos Municípios,Município
+vab_total,"Valor adicionado bruto total, a preços correntes. Disponível até 2021 (o IBGE publicou só o PIB total para 2022–2023).",mil R$,SIDRA 5938 – PIB dos Municípios,Município
+vab_agro,"VAB da agropecuária, a preços correntes. Disponível até 2021 (o IBGE publicou só o PIB total para 2022–2023).",mil R$,SIDRA 5938 – PIB dos Municípios,Município
+vab_industria,"VAB da indústria, a preços correntes. Disponível até 2021 (o IBGE publicou só o PIB total para 2022–2023).",mil R$,SIDRA 5938 – PIB dos Municípios,Município
+vab_servicos,"VAB dos serviços, exceto administração pública, a preços correntes. Disponível até 2021 (o IBGE publicou só o PIB total para 2022–2023).",mil R$,SIDRA 5938 – PIB dos Municípios,Município
+vab_adm_publica,"VAB da administração, defesa, educação e saúde públicas e seguridade social. Disponível até 2021 (o IBGE publicou só o PIB total para 2022–2023).",mil R$,SIDRA 5938 – PIB dos Municípios,Município
+pam_valor_total,Valor da produção – total das lavouras temporárias e permanentes,mil R$,SIDRA 5457 – Produção Agrícola Municipal,Município
+pam_valor_soja,Valor da produção – Soja,mil R$,SIDRA 5457 – Produção Agrícola Municipal,Município
+pam_valor_milho,Valor da produção – Milho,mil R$,SIDRA 5457 – Produção Agrícola Municipal,Município
+pam_valor_trigo,Valor da produção – Trigo,mil R$,SIDRA 5457 – Produção Agrícola Municipal,Município
+pam_valor_fumo,Valor da produção – Fumo,mil R$,SIDRA 5457 – Produção Agrícola Municipal,Município
+pam_valor_arroz,Valor da produção – Arroz,mil R$,SIDRA 5457 – Produção Agrícola Municipal,Município
+pam_valor_feijao,Valor da produção – Feijão,mil R$,SIDRA 5457 – Produção Agrícola Municipal,Município
+pam_valor_mandioca,Valor da produção – Mandioca,mil R$,SIDRA 5457 – Produção Agrícola Municipal,Município
+pam_valor_uva,Valor da produção – Uva,mil R$,SIDRA 5457 – Produção Agrícola Municipal,Município
+pam_valor_maca,Valor da produção – Maçã,mil R$,SIDRA 5457 – Produção Agrícola Municipal,Município
+pam_valor_erva_mate,Valor da produção – Erva-mate,mil R$,SIDRA 5457 – Produção Agrícola Municipal,Município
+pam_area_plantada_total,Área plantada ou destinada à colheita – total das lavouras temporárias e permanentes,ha,SIDRA 5457 – Produção Agrícola Municipal,Município
+pam_area_plantada_soja,Área plantada ou destinada à colheita – Soja,ha,SIDRA 5457 – Produção Agrícola Municipal,Município
+pam_area_plantada_milho,Área plantada ou destinada à colheita – Milho,ha,SIDRA 5457 – Produção Agrícola Municipal,Município
+pam_area_plantada_trigo,Área plantada ou destinada à colheita – Trigo,ha,SIDRA 5457 – Produção Agrícola Municipal,Município
+pam_area_plantada_fumo,Área plantada ou destinada à colheita – Fumo,ha,SIDRA 5457 – Produção Agrícola Municipal,Município
+pam_area_plantada_arroz,Área plantada ou destinada à colheita – Arroz,ha,SIDRA 5457 – Produção Agrícola Municipal,Município
+pam_area_plantada_feijao,Área plantada ou destinada à colheita – Feijão,ha,SIDRA 5457 – Produção Agrícola Municipal,Município
+pam_area_plantada_mandioca,Área plantada ou destinada à colheita – Mandioca,ha,SIDRA 5457 – Produção Agrícola Municipal,Município
+pam_area_plantada_uva,Área plantada ou destinada à colheita – Uva,ha,SIDRA 5457 – Produção Agrícola Municipal,Município
+pam_area_plantada_maca,Área plantada ou destinada à colheita – Maçã,ha,SIDRA 5457 – Produção Agrícola Municipal,Município
+pam_area_plantada_erva_mate,Área plantada ou destinada à colheita – Erva-mate,ha,SIDRA 5457 – Produção Agrícola Municipal,Município
+pam_area_colhida_total,Área colhida – total das lavouras temporárias e permanentes,ha,SIDRA 5457 – Produção Agrícola Municipal,Município
+pam_area_colhida_soja,Área colhida – Soja,ha,SIDRA 5457 – Produção Agrícola Municipal,Município
+pam_area_colhida_milho,Área colhida – Milho,ha,SIDRA 5457 – Produção Agrícola Municipal,Município
+pam_area_colhida_trigo,Área colhida – Trigo,ha,SIDRA 5457 – Produção Agrícola Municipal,Município
+pam_area_colhida_fumo,Área colhida – Fumo,ha,SIDRA 5457 – Produção Agrícola Municipal,Município
+pam_area_colhida_arroz,Área colhida – Arroz,ha,SIDRA 5457 – Produção Agrícola Municipal,Município
+pam_area_colhida_feijao,Área colhida – Feijão,ha,SIDRA 5457 – Produção Agrícola Municipal,Município
+pam_area_colhida_mandioca,Área colhida – Mandioca,ha,SIDRA 5457 – Produção Agrícola Municipal,Município
+pam_area_colhida_uva,Área colhida – Uva,ha,SIDRA 5457 – Produção Agrícola Municipal,Município
+pam_area_colhida_maca,Área colhida – Maçã,ha,SIDRA 5457 – Produção Agrícola Municipal,Município
+pam_area_colhida_erva_mate,Área colhida – Erva-mate,ha,SIDRA 5457 – Produção Agrícola Municipal,Município
+pam_qtd_soja,Quantidade produzida – Soja,t,SIDRA 5457 – Produção Agrícola Municipal,Município
+pam_qtd_milho,Quantidade produzida – Milho,t,SIDRA 5457 – Produção Agrícola Municipal,Município
+pam_qtd_trigo,Quantidade produzida – Trigo,t,SIDRA 5457 – Produção Agrícola Municipal,Município
+pam_qtd_fumo,Quantidade produzida – Fumo,t,SIDRA 5457 – Produção Agrícola Municipal,Município
+pam_qtd_arroz,Quantidade produzida – Arroz,t,SIDRA 5457 – Produção Agrícola Municipal,Município
+pam_qtd_feijao,Quantidade produzida – Feijão,t,SIDRA 5457 – Produção Agrícola Municipal,Município
+pam_qtd_mandioca,Quantidade produzida – Mandioca,t,SIDRA 5457 – Produção Agrícola Municipal,Município
+pam_qtd_uva,Quantidade produzida – Uva,t,SIDRA 5457 – Produção Agrícola Municipal,Município
+pam_qtd_maca,Quantidade produzida – Maçã,t,SIDRA 5457 – Produção Agrícola Municipal,Município
+pam_qtd_erva_mate,Quantidade produzida – Erva-mate,t,SIDRA 5457 – Produção Agrícola Municipal,Município
+ppm_reb_bovino,Efetivo do rebanho – Bovino,cabeças,SIDRA 3939 – Pesquisa da Pecuária Municipal,Município
+ppm_reb_bubalino,Efetivo do rebanho – Bubalino,cabeças,SIDRA 3939 – Pesquisa da Pecuária Municipal,Município
+ppm_reb_equino,Efetivo do rebanho – Equino,cabeças,SIDRA 3939 – Pesquisa da Pecuária Municipal,Município
+ppm_reb_suino_total,Efetivo do rebanho – Suíno – total,cabeças,SIDRA 3939 – Pesquisa da Pecuária Municipal,Município
+ppm_reb_suino_matrizes,Efetivo do rebanho – Suíno – matrizes,cabeças,SIDRA 3939 – Pesquisa da Pecuária Municipal,Município
+ppm_reb_caprino,Efetivo do rebanho – Caprino,cabeças,SIDRA 3939 – Pesquisa da Pecuária Municipal,Município
+ppm_reb_ovino,Efetivo do rebanho – Ovino,cabeças,SIDRA 3939 – Pesquisa da Pecuária Municipal,Município
+ppm_reb_galinaceos_total,Efetivo do rebanho – Galináceos – total,cabeças,SIDRA 3939 – Pesquisa da Pecuária Municipal,Município
+ppm_reb_galinaceos_galinhas,Efetivo do rebanho – Galináceos – galinhas,cabeças,SIDRA 3939 – Pesquisa da Pecuária Municipal,Município
+ppm_reb_codornas,Efetivo do rebanho – Codornas,cabeças,SIDRA 3939 – Pesquisa da Pecuária Municipal,Município
+ppm_valor_total,Valor da produção de origem animal – Total,mil R$,SIDRA 74 – Pesquisa da Pecuária Municipal,Município
+ppm_valor_leite,Valor da produção de origem animal – Leite,mil R$,SIDRA 74 – Pesquisa da Pecuária Municipal,Município
+ppm_valor_ovos_galinha,Valor da produção de origem animal – Ovos de galinha,mil R$,SIDRA 74 – Pesquisa da Pecuária Municipal,Município
+ppm_valor_ovos_codorna,Valor da produção de origem animal – Ovos de codorna,mil R$,SIDRA 74 – Pesquisa da Pecuária Municipal,Município
+ppm_valor_mel,Valor da produção de origem animal – Mel de abelha,mil R$,SIDRA 74 – Pesquisa da Pecuária Municipal,Município
+ppm_valor_casulos,Valor da produção de origem animal – Casulos do bicho-da-seda,mil R$,SIDRA 74 – Pesquisa da Pecuária Municipal,Município
+ppm_valor_la,Valor da produção de origem animal – Lã,mil R$,SIDRA 74 – Pesquisa da Pecuária Municipal,Município
+ppm_qtd_leite,Quantidade produzida – Leite,mil litros,SIDRA 74 – Pesquisa da Pecuária Municipal,Município
+ppm_qtd_ovos_galinha,Quantidade produzida – Ovos de galinha,mil dúzias,SIDRA 74 – Pesquisa da Pecuária Municipal,Município
+ppm_qtd_ovos_codorna,Quantidade produzida – Ovos de codorna,mil dúzias,SIDRA 74 – Pesquisa da Pecuária Municipal,Município
+ppm_qtd_mel,Quantidade produzida – Mel de abelha,kg,SIDRA 74 – Pesquisa da Pecuária Municipal,Município
+ppm_qtd_casulos,Quantidade produzida – Casulos do bicho-da-seda,kg,SIDRA 74 – Pesquisa da Pecuária Municipal,Município
+ppm_qtd_la,Quantidade produzida – Lã,kg,SIDRA 74 – Pesquisa da Pecuária Municipal,Município
+populacao,"População residente (estimativa, contagem ou censo, conforme o ano)",pessoas,"SIDRA 6579 (estimativas), 793 (Contagem 2007), 202 (Censo 2010), 4709 (Censo 2022)",Município
+populacao_fonte,Origem do valor de população do ano,-,"SIDRA 6579 (estimativas), 793 (Contagem 2007), 202 (Censo 2010), 4709 (Censo 2022)",Município
+populacao_interpolada,"1 se a população do ano foi interpolada (2023, sem estimativa oficial)",0/1,Calculado,Município
+populacao_quebra_serie,"1 nos anos de contagem/censo (2007, 2010, 2022), em que a série muda de base",0/1,Calculado,Município
+uf_pia_unidades_locais,Unidades locais industriais (empresas com 5+ pessoas ocupadas) (valor da UF),unidades,SIDRA 5603 (2007–2023) e 10455 (2024) – PIA-Empresa,UF
+uf_pia_pessoal_ocupado,Pessoal ocupado na indústria em 31/12 (valor da UF),pessoas,SIDRA 5603 (2007–2023) e 10455 (2024) – PIA-Empresa,UF
+uf_pia_salarios,"Salários, retiradas e outras remunerações na indústria (valor da UF)",mil R$,SIDRA 5603 (2007–2023) e 10455 (2024) – PIA-Empresa,UF
+uf_pia_receita_liquida,Receita líquida de vendas da indústria (valor da UF),mil R$,SIDRA 5603 (2007–2023) e 10455 (2024) – PIA-Empresa,UF
+uf_pia_valor_bruto_producao,Valor bruto da produção industrial (valor da UF),mil R$,SIDRA 5603 (2007–2023) e 10455 (2024) – PIA-Empresa,UF
+uf_pia_valor_transformacao,Valor da transformação industrial (valor da UF),mil R$,SIDRA 5603 (2007–2023) e 10455 (2024) – PIA-Empresa,UF
+uf_pas_empresas,Número de empresas de serviços não financeiros (valor da UF),unidades,SIDRA 2715 (2007–2023) e 10762 (2024) – PAS,UF
+uf_pas_pessoal_ocupado,Pessoal ocupado em serviços em 31/12 (valor da UF),pessoas,SIDRA 2715 (2007–2023) e 10762 (2024) – PAS,UF
+uf_pas_receita_bruta,Receita bruta de serviços (valor da UF),mil R$,SIDRA 2715 (2007–2023) e 10762 (2024) – PAS,UF
+uf_pas_salarios,"Salários, retiradas e outras remunerações em serviços (valor da UF)",mil R$,SIDRA 2715 (2007–2023) e 10762 (2024) – PAS,UF
+uf_serie_nova_pia_pas,1 quando PIA/PAS vêm da série nova do IBGE (2024),0/1,Calculado,UF
