@@ -268,3 +268,161 @@ def busca_hiperparametros(nome: str, dataset: pd.DataFrame, inicio: int, grade: 
         if verbose:
             print(f"  {nome} {params} -> MAPE médio {linhas[-1]['MAPE_%']:.2f}%  ({linhas[-1]['segundos']:.0f}s)")
     return pd.DataFrame(linhas).sort_values(criterio).reset_index(drop=True)
+
+
+# ===========================================================================
+# Classificação (Fase 5): categoria de crescimento do PIB
+# ===========================================================================
+#
+# Duas abordagens, avaliadas com a mesma validação temporal da regressão:
+#
+# 1. **Regressão → categoria**: o crescimento previsto pelo modelo de regressão
+#    escolhido na Fase 4 é convertido nas 5 faixas do enunciado. A categoria fica
+#    coerente, por construção, com o PIB previsto.
+# 2. **Classificadores diretos**: aprendem a categoria diretamente (Regressão
+#    Logística multinomial, Random Forest e LightGBM), com a opção de pesar as
+#    classes pelo inverso da frequência (``class_weight="balanced"``), já que
+#    "Forte crescimento" domina e "Estabilidade" é rara.
+#
+# Critério de escolha: **F1 macro** médio em 2019–2022 (média simples do F1 das
+# 5 classes, para que as classes raras contem tanto quanto as frequentes).
+#
+# Etapa B: ao prever 2024, o ano de 2023 já é conhecido. A escolha é refeita com o
+# mesmo protocolo, mas validando em 2019–2023 (``ANOS_VALIDACAO_ETAPA_B``).
+
+from src.features import CATEGORIAS, categoriza_crescimento  # noqa: E402
+
+N_CLASSES = len(CATEGORIAS)
+ANOS_VALIDACAO_ETAPA_B = ANOS_VALIDACAO + [ANO_TESTE]
+NOME_REG_CATEGORIA = "Regressão → categoria (Ensemble)"
+
+
+def codigos_categoria(cat) -> np.ndarray:
+    """Categoria ordenada -> inteiro 0 (Forte retração) ... 4 (Forte crescimento)."""
+    return pd.Categorical(cat, categories=CATEGORIAS, ordered=True).codes.astype(int)
+
+
+def categoria_de_log(cresc_log) -> np.ndarray:
+    """Crescimento em log -> código da categoria (pelas faixas em % do enunciado)."""
+    pct = (np.exp(np.asarray(cresc_log, float)) - 1) * 100
+    return codigos_categoria(categoriza_crescimento(pct))
+
+
+def metricas_classificacao(y, y_prev) -> dict:
+    """Métricas da classificação, com y e y_prev em códigos 0–4.
+
+    * ``F1_macro``: média simples do F1 das 5 classes (exigido; critério de escolha).
+    * ``F1_ponderado``: média do F1 ponderada pela frequência de cada classe.
+    * ``Acuracia``: fração de acertos exatos.
+    * ``Acuracia_adjacente``: acerto exato ou erro de uma só categoria vizinha.
+      As classes são ordenadas, e confundir "Forte crescimento" com "Crescimento
+      moderado" é bem menos grave do que com "Forte retração".
+    """
+    from sklearn.metrics import accuracy_score, f1_score
+    y, y_prev = np.asarray(y, int), np.asarray(y_prev, int)
+    rotulos = list(range(N_CLASSES))
+    return {
+        "F1_macro": f1_score(y, y_prev, labels=rotulos, average="macro", zero_division=0),
+        "F1_ponderado": f1_score(y, y_prev, labels=rotulos, average="weighted", zero_division=0),
+        "Acuracia": accuracy_score(y, y_prev),
+        "Acuracia_adjacente": float(np.mean(np.abs(y - y_prev) <= 1)),
+    }
+
+
+def fabrica_logistica(numericas, categoricas, C=1.0, class_weight=None):
+    from sklearn.linear_model import LogisticRegression
+    return _pipeline(LogisticRegression(C=C, class_weight=class_weight, max_iter=3000), numericas, categoricas)
+
+
+def fabrica_rf_classificador(numericas, categoricas, **params):
+    from sklearn.ensemble import RandomForestClassifier
+    base = dict(n_estimators=300, n_jobs=-1, random_state=SEMENTE)
+    return _pipeline(RandomForestClassifier(**{**base, **params}), numericas, categoricas)
+
+
+def fabrica_lgbm_classificador(numericas, categoricas, **params):
+    from lightgbm import LGBMClassifier
+    base = dict(n_estimators=300, learning_rate=0.05, random_state=SEMENTE, n_jobs=-1, verbose=-1,
+                subsample_freq=1, subsample=0.8, colsample_bytree=0.6)
+    return _pipeline(LGBMClassifier(**{**base, **params}), numericas, categoricas)
+
+
+FABRICAS_CLASSIFICACAO: dict[str, Callable] = {
+    "Regressão Logística": fabrica_logistica,
+    "Random Forest (clf)": fabrica_rf_classificador,
+    "LightGBM (clf)": fabrica_lgbm_classificador,
+}
+
+GRADES_CLASSIFICACAO: dict[str, dict[str, list]] = {
+    "Regressão Logística": {"C": [0.01, 0.1, 1.0], "class_weight": [None, "balanced"]},
+    "Random Forest (clf)": {"min_samples_leaf": [5, 20], "max_features": [0.33, 0.6],
+                            "class_weight": [None, "balanced_subsample"]},
+    "LightGBM (clf)": {"num_leaves": [15, 31], "min_child_samples": [20, 60],
+                       "class_weight": [None, "balanced"]},
+}
+
+
+def baseline_classe_majoritaria(treino: pd.DataFrame, alvo: pd.DataFrame) -> np.ndarray:
+    """Prevê sempre a classe mais frequente no treino."""
+    return np.full(len(alvo), np.bincount(codigos_categoria(treino["categoria_crescimento"])).argmax())
+
+
+def baseline_categoria_anterior(treino: pd.DataFrame, alvo: pd.DataFrame) -> np.ndarray:
+    """Prevê a categoria do próprio município no ano anterior."""
+    l1 = alvo["cresc_pib_l1"].fillna(alvo["cresc_pib_l1"].median())
+    return categoria_de_log(l1)
+
+
+BASELINES_CLASSIFICACAO = {
+    "Classe majoritária do treino": baseline_classe_majoritaria,
+    "Categoria do ano anterior": baseline_categoria_anterior,
+}
+
+
+def treina_preve_classificador(nome: str, params: dict, treino: pd.DataFrame, alvo: pd.DataFrame,
+                               numericas: list[str], categoricas: list[str]):
+    """Treina um classificador direto e devolve (códigos previstos, probabilidades, modelo)."""
+    modelo = FABRICAS_CLASSIFICACAO[nome](numericas, categoricas, **params)
+    modelo.fit(treino[numericas + categoricas], codigos_categoria(treino["categoria_crescimento"]))
+    X = alvo[numericas + categoricas]
+    return modelo.predict(X).astype(int), modelo.predict_proba(X), modelo
+
+
+def preve_categoria(nome: str, params: dict, treino: pd.DataFrame, alvo: pd.DataFrame,
+                    numericas: list[str], categoricas: list[str]) -> np.ndarray:
+    """Códigos de categoria previstos por qualquer abordagem (baseline, regressão ou classificador)."""
+    if nome in BASELINES_CLASSIFICACAO:
+        return BASELINES_CLASSIFICACAO[nome](treino, alvo)
+    if nome == NOME_REG_CATEGORIA:
+        cresc, _ = treina_preve_modelo(NOME_ENSEMBLE, params, treino, alvo, numericas, categoricas)
+        return categoria_de_log(cresc)
+    return treina_preve_classificador(nome, params, treino, alvo, numericas, categoricas)[0]
+
+
+def valida_temporal_classificacao(nome: str, params: dict, dataset: pd.DataFrame, inicio: int,
+                                  anos_validacao: list[int] = ANOS_VALIDACAO) -> ResultadoValidacao:
+    """Janela expansiva, como na regressão: treina com [inicio, v-1] e avalia em v."""
+    numericas, categoricas = colunas_modelo(dataset)
+    linhas = []
+    for v in anos_validacao:
+        treino = amostra_modelagem(dataset, inicio, v - 1)
+        val = amostra_modelagem(dataset, v, v)
+        prev = preve_categoria(nome, params, treino, val, numericas, categoricas)
+        linhas.append({"ano_validacao": v, "n_treino": len(treino),
+                       **metricas_classificacao(codigos_categoria(val["categoria_crescimento"]), prev)})
+    return ResultadoValidacao(nome, params, pd.DataFrame(linhas).set_index("ano_validacao"))
+
+
+def busca_classificacao(nome: str, dataset: pd.DataFrame, inicio: int, grade: dict | None = None,
+                        anos_validacao: list[int] = ANOS_VALIDACAO, verbose: bool = True) -> pd.DataFrame:
+    """Avalia a grade do classificador na validação temporal e ordena pelo F1 macro médio (maior primeiro)."""
+    grade = GRADES_CLASSIFICACAO[nome] if grade is None else grade
+    linhas = []
+    for params in combinacoes(grade):
+        t0 = time.time()
+        res = valida_temporal_classificacao(nome, params, dataset, inicio, anos_validacao)
+        linhas.append({"modelo": nome, "params": params, **res.media.drop("n_treino").to_dict(),
+                       "F1_macro_pior_ano": res.por_ano["F1_macro"].min(), "segundos": time.time() - t0})
+        if verbose:
+            print(f"  {nome} {params} -> F1 macro {linhas[-1]['F1_macro']:.3f}  ({linhas[-1]['segundos']:.0f}s)")
+    return pd.DataFrame(linhas).sort_values("F1_macro", ascending=False).reset_index(drop=True)

@@ -1,0 +1,38 @@
+{
+  "melhor_modelo": "Regressão → categoria (Ensemble)",
+  "inicio_janela": 2013,
+  "hiperparametros": {
+    "Regressão Logística": {
+      "C": 0.1,
+      "class_weight": null
+    },
+    "Random Forest (clf)": {
+      "min_samples_leaf": 5,
+      "max_features": 0.6,
+      "class_weight": "balanced_subsample"
+    },
+    "LightGBM (clf)": {
+      "num_leaves": 31,
+      "min_child_samples": 60,
+      "class_weight": "balanced"
+    },
+    "Regressão → categoria (Ensemble)": {
+      "Ridge": {
+        "alpha": 1000
+      },
+      "Random Forest": {
+        "min_samples_leaf": 5,
+        "max_features": 0.6
+      },
+      "LightGBM": {
+        "objective": "l2",
+        "num_leaves": 15,
+        "min_child_samples": 20,
+        "colsample_bytree": 0.6,
+        "subsample": 0.8,
+        "reg_lambda": 0.0
+      }
+    }
+  },
+  "criterio": "F1 macro médio na validação temporal 2019–2023 (Etapa B)"
+}

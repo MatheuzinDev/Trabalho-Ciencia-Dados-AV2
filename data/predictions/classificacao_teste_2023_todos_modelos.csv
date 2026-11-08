@@ -1,0 +1,1192 @@
+cod_ibge,municipio,uf,ano,cresc_pib_pct,categoria_crescimento,cat_prev_majoritaria,cat_prev_ano_anterior,cat_prev_logistica,cat_prev_random_forest,cat_prev_lightgbm,cat_prev_regressao_ensemble
+4100103,Abatiá,PR,2023,5.190387358718307,Forte crescimento,Forte crescimento,Forte crescimento,Forte retração,Forte retração,Forte retração,Retração
+4100202,Adrianópolis,PR,2023,5.500072271306489,Forte crescimento,Forte crescimento,Forte crescimento,Forte retração,Forte retração,Forte retração,Estabilidade
+4100301,Agudos do Sul,PR,2023,17.11189822480246,Forte crescimento,Forte crescimento,Forte crescimento,Estabilidade,Crescimento moderado,Estabilidade,Crescimento moderado
+4100400,Almirante Tamandaré,PR,2023,8.10026540388533,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento,Crescimento moderado,Forte crescimento
+4100459,Altamira do Paraná,PR,2023,8.93684041760583,Forte crescimento,Forte crescimento,Forte crescimento,Retração,Crescimento moderado,Crescimento moderado,Crescimento moderado
+4100509,Altônia,PR,2023,23.382861013887315,Forte crescimento,Forte crescimento,Retração,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento
+4100608,Alto Paraná,PR,2023,43.65623627692277,Forte crescimento,Forte crescimento,Forte retração,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento
+4100707,Alto Piquiri,PR,2023,28.21398300081086,Forte crescimento,Forte crescimento,Forte retração,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento
+4100806,Alvorada do Sul,PR,2023,-2.980111103948213,Retração,Forte crescimento,Forte crescimento,Forte retração,Forte retração,Forte retração,Forte retração
+4100905,Amaporã,PR,2023,33.297819562936624,Forte crescimento,Forte crescimento,Crescimento moderado,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento
+4101002,Ampére,PR,2023,22.888368998725905,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento
+4101051,Anahy,PR,2023,12.03096276538227,Forte crescimento,Forte crescimento,Retração,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento
+4101101,Andirá,PR,2023,2.237737497684966,Crescimento moderado,Forte crescimento,Crescimento moderado,Estabilidade,Crescimento moderado,Estabilidade,Crescimento moderado
+4101150,Ângulo,PR,2023,5.626255860683194,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento
+4101200,Antonina,PR,2023,5.563482996867908,Forte crescimento,Forte crescimento,Forte crescimento,Estabilidade,Forte retração,Forte retração,Crescimento moderado
+4101309,Antônio Olinto,PR,2023,15.406069812645985,Forte crescimento,Forte crescimento,Crescimento moderado,Estabilidade,Forte crescimento,Forte crescimento,Forte crescimento
+4101408,Apucarana,PR,2023,12.100307474964755,Forte crescimento,Forte crescimento,Forte crescimento,Crescimento moderado,Forte crescimento,Forte crescimento,Forte crescimento
+4101507,Arapongas,PR,2023,12.009638110318921,Forte crescimento,Forte crescimento,Crescimento moderado,Estabilidade,Forte crescimento,Forte crescimento,Forte crescimento
+4101606,Arapoti,PR,2023,-2.5977798588701306,Retração,Forte crescimento,Forte crescimento,Forte retração,Forte retração,Crescimento moderado,Retração
+4101655,Arapuã,PR,2023,15.538132039300256,Forte crescimento,Forte crescimento,Forte retração,Estabilidade,Forte crescimento,Forte crescimento,Forte crescimento
+4101705,Araruna,PR,2023,33.66842476653438,Forte crescimento,Forte crescimento,Forte retração,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento
+4101804,Araucária,PR,2023,8.8362299430226,Forte crescimento,Forte crescimento,Forte crescimento,Forte retração,Forte retração,Forte retração,Estabilidade
+4101853,Ariranha do Ivaí,PR,2023,26.249009413834234,Forte crescimento,Forte crescimento,Forte retração,Estabilidade,Forte crescimento,Forte crescimento,Forte crescimento
+4101903,Assaí,PR,2023,3.863457062194775,Crescimento moderado,Forte crescimento,Forte crescimento,Forte retração,Crescimento moderado,Crescimento moderado,Estabilidade
+4102000,Assis Chateaubriand,PR,2023,25.726142874452584,Forte crescimento,Forte crescimento,Estabilidade,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento
+4102109,Astorga,PR,2023,4.90378848055506,Crescimento moderado,Forte crescimento,Forte crescimento,Estabilidade,Crescimento moderado,Estabilidade,Estabilidade
+4102208,Atalaia,PR,2023,25.20925386191948,Forte crescimento,Forte crescimento,Forte crescimento,Estabilidade,Forte crescimento,Forte crescimento,Forte crescimento
+4102307,Balsa Nova,PR,2023,2.3167946789633964,Crescimento moderado,Forte crescimento,Forte crescimento,Forte retração,Forte retração,Crescimento moderado,Crescimento moderado
+4102406,Bandeirantes,PR,2023,21.264369862501532,Forte crescimento,Forte crescimento,Forte crescimento,Estabilidade,Crescimento moderado,Retração,Crescimento moderado
+4102505,Barbosa Ferraz,PR,2023,47.02811175949879,Forte crescimento,Forte crescimento,Forte retração,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento
+4102604,Barracão,PR,2023,10.825180482520791,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento
+4102703,Barra do Jacaré,PR,2023,0.45897908021665934,Estabilidade,Forte crescimento,Forte crescimento,Forte retração,Forte retração,Forte retração,Forte retração
+4102752,Bela Vista da Caroba,PR,2023,38.45942681453827,Forte crescimento,Forte crescimento,Forte retração,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento
+4102802,Bela Vista do Paraíso,PR,2023,-10.934435703661126,Forte retração,Forte crescimento,Forte crescimento,Forte retração,Forte retração,Forte retração,Retração
+4102901,Bituruna,PR,2023,24.396756928861674,Forte crescimento,Forte crescimento,Retração,Estabilidade,Crescimento moderado,Forte crescimento,Crescimento moderado
+4103008,Boa Esperança,PR,2023,22.186552460085295,Forte crescimento,Forte crescimento,Retração,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento
+4103024,Boa Esperança do Iguaçu,PR,2023,35.23362341642493,Forte crescimento,Forte crescimento,Forte retração,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento
+4103040,Boa Ventura de São Roque,PR,2023,7.149260421335724,Forte crescimento,Forte crescimento,Forte crescimento,Forte retração,Forte retração,Forte retração,Retração
+4103057,Boa Vista da Aparecida,PR,2023,15.676679217024114,Forte crescimento,Forte crescimento,Crescimento moderado,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento
+4103107,Bocaiúva do Sul,PR,2023,5.674644491565006,Forte crescimento,Forte crescimento,Crescimento moderado,Estabilidade,Crescimento moderado,Forte crescimento,Forte crescimento
+4103156,Bom Jesus do Sul,PR,2023,12.678708472779343,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento
+4103206,Bom Sucesso,PR,2023,23.28785409563432,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento
+4103222,Bom Sucesso do Sul,PR,2023,5.491858315274301,Forte crescimento,Forte crescimento,Crescimento moderado,Estabilidade,Forte retração,Forte crescimento,Crescimento moderado
+4103305,Borrazópolis,PR,2023,9.810392660169875,Forte crescimento,Forte crescimento,Forte crescimento,Estabilidade,Forte crescimento,Forte crescimento,Forte crescimento
+4103354,Braganey,PR,2023,1.446250476123856,Crescimento moderado,Forte crescimento,Forte crescimento,Estabilidade,Forte retração,Forte retração,Estabilidade
+4103370,Brasilândia do Sul,PR,2023,26.94810853550189,Forte crescimento,Forte crescimento,Forte retração,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento
+4103404,Cafeara,PR,2023,29.547077697120862,Forte crescimento,Forte crescimento,Forte retração,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento
+4103453,Cafelândia,PR,2023,11.907919489702667,Forte crescimento,Forte crescimento,Forte crescimento,Estabilidade,Forte crescimento,Forte crescimento,Crescimento moderado
+4103479,Cafezal do Sul,PR,2023,43.219204697551916,Forte crescimento,Forte crescimento,Forte retração,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento
+4103503,Califórnia,PR,2023,4.501927672720307,Crescimento moderado,Forte crescimento,Forte retração,Retração,Crescimento moderado,Crescimento moderado,Crescimento moderado
+4103602,Cambará,PR,2023,1.6383636577401939,Crescimento moderado,Forte crescimento,Forte crescimento,Estabilidade,Retração,Estabilidade,Estabilidade
+4103701,Cambé,PR,2023,10.661183268116648,Forte crescimento,Forte crescimento,Forte crescimento,Estabilidade,Crescimento moderado,Forte crescimento,Forte crescimento
+4103800,Cambira,PR,2023,11.023649571943373,Forte crescimento,Forte crescimento,Forte crescimento,Estabilidade,Forte crescimento,Crescimento moderado,Forte crescimento
+4103909,Campina da Lagoa,PR,2023,11.337241455591185,Forte crescimento,Forte crescimento,Crescimento moderado,Estabilidade,Forte crescimento,Forte crescimento,Forte crescimento
+4103958,Campina do Simão,PR,2023,15.931695839720517,Forte crescimento,Forte crescimento,Forte crescimento,Estabilidade,Forte retração,Forte retração,Estabilidade
+4104006,Campina Grande do Sul,PR,2023,15.000814922165917,Forte crescimento,Forte crescimento,Forte crescimento,Estabilidade,Forte crescimento,Forte crescimento,Forte crescimento
+4104055,Campo Bonito,PR,2023,14.095712698359254,Forte crescimento,Forte crescimento,Forte retração,Estabilidade,Forte crescimento,Forte crescimento,Forte crescimento
+4104105,Campo do Tenente,PR,2023,-2.285827170564003,Retração,Forte crescimento,Forte crescimento,Forte retração,Forte retração,Forte retração,Retração
+4104204,Campo Largo,PR,2023,15.558168045578702,Forte crescimento,Forte crescimento,Forte crescimento,Estabilidade,Forte crescimento,Crescimento moderado,Forte crescimento
+4104253,Campo Magro,PR,2023,18.36151653739393,Forte crescimento,Forte crescimento,Forte crescimento,Estabilidade,Crescimento moderado,Crescimento moderado,Forte crescimento
+4104303,Campo Mourão,PR,2023,5.163295199937945,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento
+4104402,Cândido de Abreu,PR,2023,1.7555391875572868,Crescimento moderado,Forte crescimento,Forte crescimento,Retração,Estabilidade,Estabilidade,Estabilidade
+4104428,Candói,PR,2023,-1.89484796378121,Retração,Forte crescimento,Forte crescimento,Forte retração,Forte retração,Forte retração,Forte retração
+4104451,Cantagalo,PR,2023,5.300527681472267,Forte crescimento,Forte crescimento,Forte crescimento,Estabilidade,Forte crescimento,Forte crescimento,Crescimento moderado
+4104501,Capanema,PR,2023,31.998743564497566,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento
+4104600,Capitão Leônidas Marques,PR,2023,11.691042691401755,Forte crescimento,Forte crescimento,Forte retração,Estabilidade,Forte retração,Forte retração,Estabilidade
+4104659,Carambeí,PR,2023,8.744082291330235,Forte crescimento,Forte crescimento,Forte crescimento,Estabilidade,Crescimento moderado,Crescimento moderado,Crescimento moderado
+4104709,Carlópolis,PR,2023,7.899036839935536,Forte crescimento,Forte crescimento,Forte crescimento,Estabilidade,Forte crescimento,Forte crescimento,Forte crescimento
+4104808,Cascavel,PR,2023,6.101644366872039,Forte crescimento,Forte crescimento,Forte crescimento,Estabilidade,Forte crescimento,Forte crescimento,Forte crescimento
+4104907,Castro,PR,2023,5.673699804418897,Forte crescimento,Forte crescimento,Forte crescimento,Retração,Crescimento moderado,Crescimento moderado,Crescimento moderado
+4105003,Catanduvas,PR,2023,1.3928853289934873,Crescimento moderado,Forte crescimento,Forte crescimento,Retração,Forte retração,Retração,Retração
+4105102,Centenário do Sul,PR,2023,11.063424360948382,Forte crescimento,Forte crescimento,Forte retração,Estabilidade,Crescimento moderado,Forte retração,Forte crescimento
+4105201,Cerro Azul,PR,2023,9.78885291328968,Forte crescimento,Forte crescimento,Forte retração,Estabilidade,Forte crescimento,Forte crescimento,Forte crescimento
+4105300,Céu Azul,PR,2023,14.244142306965845,Forte crescimento,Forte crescimento,Estabilidade,Estabilidade,Forte crescimento,Forte crescimento,Forte crescimento
+4105409,Chopinzinho,PR,2023,23.492931228116532,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento
+4105508,Cianorte,PR,2023,13.980595237210292,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento
+4105607,Cidade Gaúcha,PR,2023,22.58668647469735,Forte crescimento,Forte crescimento,Forte crescimento,Crescimento moderado,Forte crescimento,Forte crescimento,Forte crescimento
+4105706,Clevelândia,PR,2023,11.357538488483243,Forte crescimento,Forte crescimento,Retração,Estabilidade,Forte crescimento,Forte crescimento,Forte crescimento
+4105805,Colombo,PR,2023,19.834147990395646,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento
+4105904,Colorado,PR,2023,23.57922514599837,Forte crescimento,Forte crescimento,Forte crescimento,Crescimento moderado,Forte crescimento,Estabilidade,Forte crescimento
+4106001,Congonhinhas,PR,2023,-6.477617803024582,Forte retração,Forte crescimento,Forte crescimento,Forte retração,Forte retração,Forte retração,Forte retração
+4106100,Conselheiro Mairinck,PR,2023,-7.737509565977918,Forte retração,Forte crescimento,Forte crescimento,Forte retração,Forte retração,Forte retração,Forte retração
+4106209,Contenda,PR,2023,1.391304628692036,Crescimento moderado,Forte crescimento,Forte crescimento,Estabilidade,Forte crescimento,Forte crescimento,Forte crescimento
+4106308,Corbélia,PR,2023,-1.0122165439964026,Retração,Forte crescimento,Forte retração,Estabilidade,Retração,Estabilidade,Retração
+4106407,Cornélio Procópio,PR,2023,9.581727186582878,Forte crescimento,Forte crescimento,Forte crescimento,Estabilidade,Crescimento moderado,Estabilidade,Crescimento moderado
+4106456,Coronel Domingos Soares,PR,2023,-1.5423756715904124,Retração,Forte crescimento,Crescimento moderado,Estabilidade,Forte retração,Crescimento moderado,Crescimento moderado
+4106506,Coronel Vivida,PR,2023,23.88970717146823,Forte crescimento,Forte crescimento,Estabilidade,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento
+4106555,Corumbataí do Sul,PR,2023,26.540530111183468,Forte crescimento,Forte crescimento,Forte retração,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento
+4106571,Cruzeiro do Iguaçu,PR,2023,18.789519670736475,Forte crescimento,Forte crescimento,Retração,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento
+4106605,Cruzeiro do Oeste,PR,2023,21.862207767943943,Forte crescimento,Forte crescimento,Crescimento moderado,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento
+4106704,Cruzeiro do Sul,PR,2023,31.556177095123616,Forte crescimento,Forte crescimento,Crescimento moderado,Estabilidade,Crescimento moderado,Forte crescimento,Forte crescimento
+4106803,Cruz Machado,PR,2023,8.475806899379412,Forte crescimento,Forte crescimento,Forte retração,Estabilidade,Forte crescimento,Forte crescimento,Forte crescimento
+4106852,Cruzmaltina,PR,2023,-2.732599979438677,Retração,Forte crescimento,Forte crescimento,Forte retração,Forte retração,Forte retração,Retração
+4106902,Curitiba,PR,2023,7.431089778147459,Forte crescimento,Forte crescimento,Forte crescimento,Estabilidade,Forte crescimento,Crescimento moderado,Forte crescimento
+4107009,Curiúva,PR,2023,4.441412192788463,Crescimento moderado,Forte crescimento,Forte crescimento,Estabilidade,Crescimento moderado,Crescimento moderado,Crescimento moderado
+4107108,Diamante do Norte,PR,2023,8.73201625465272,Forte crescimento,Forte crescimento,Forte crescimento,Estabilidade,Forte retração,Estabilidade,Forte crescimento
+4107124,Diamante do Sul,PR,2023,19.19548537751585,Forte crescimento,Forte crescimento,Retração,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento
+4107157,Diamante D'Oeste,PR,2023,16.774764918861184,Forte crescimento,Forte crescimento,Forte retração,Estabilidade,Forte crescimento,Forte crescimento,Forte crescimento
+4107207,Dois Vizinhos,PR,2023,17.994426727108603,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento
+4107256,Douradina,PR,2023,16.497442656383043,Forte crescimento,Forte crescimento,Forte retração,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento
+4107306,Doutor Camargo,PR,2023,32.888791521756986,Forte crescimento,Forte crescimento,Forte retração,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento
+4107405,Enéas Marques,PR,2023,21.450445000218288,Forte crescimento,Forte crescimento,Crescimento moderado,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento
+4107504,Engenheiro Beltrão,PR,2023,51.49642428106149,Forte crescimento,Forte crescimento,Forte retração,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento
+4107520,Esperança Nova,PR,2023,14.471802051313265,Forte crescimento,Forte crescimento,Estabilidade,Crescimento moderado,Forte retração,Retração,Crescimento moderado
+4107538,Entre Rios do Oeste,PR,2023,9.439664589423757,Forte crescimento,Forte crescimento,Forte crescimento,Estabilidade,Forte crescimento,Crescimento moderado,Forte crescimento
+4107546,Espigão Alto do Iguaçu,PR,2023,-1.4444894948439035,Retração,Forte crescimento,Forte crescimento,Forte retração,Forte retração,Estabilidade,Retração
+4107553,Farol,PR,2023,57.30962124242331,Forte crescimento,Forte crescimento,Forte retração,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento
+4107603,Faxinal,PR,2023,5.174609851512213,Forte crescimento,Forte crescimento,Forte crescimento,Estabilidade,Crescimento moderado,Crescimento moderado,Crescimento moderado
+4107652,Fazenda Rio Grande,PR,2023,2.1284716482572907,Crescimento moderado,Forte crescimento,Forte crescimento,Estabilidade,Forte crescimento,Forte crescimento,Forte crescimento
+4107702,Fênix,PR,2023,54.295920047626886,Forte crescimento,Forte crescimento,Forte retração,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento
+4107736,Fernandes Pinheiro,PR,2023,17.503536837523125,Forte crescimento,Forte crescimento,Forte crescimento,Estabilidade,Crescimento moderado,Crescimento moderado,Crescimento moderado
+4107751,Figueira,PR,2023,12.868978430991529,Forte crescimento,Forte crescimento,Forte crescimento,Estabilidade,Crescimento moderado,Crescimento moderado,Crescimento moderado
+4107801,Floraí,PR,2023,16.012608117596084,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento
+4107850,Flor da Serra do Sul,PR,2023,16.965186537131704,Forte crescimento,Forte crescimento,Retração,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento
+4107900,Floresta,PR,2023,31.452823651691887,Forte crescimento,Forte crescimento,Crescimento moderado,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento
+4108007,Florestópolis,PR,2023,32.25970589731848,Forte crescimento,Forte crescimento,Forte crescimento,Retração,Forte retração,Forte retração,Crescimento moderado
+4108106,Flórida,PR,2023,22.57420229506608,Forte crescimento,Forte crescimento,Crescimento moderado,Estabilidade,Forte crescimento,Forte crescimento,Forte crescimento
+4108205,Formosa do Oeste,PR,2023,-2.7112805294937536,Retração,Forte crescimento,Forte crescimento,Forte retração,Forte retração,Retração,Retração
+4108304,Foz do Iguaçu,PR,2023,-2.8987550995563383,Retração,Forte crescimento,Forte retração,Estabilidade,Forte retração,Forte retração,Forte crescimento
+4108320,Francisco Alves,PR,2023,23.552179874935565,Forte crescimento,Forte crescimento,Forte retração,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento
+4108403,Francisco Beltrão,PR,2023,13.980353300073345,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento
+4108452,Foz do Jordão,PR,2023,6.7780418737419135,Forte crescimento,Forte crescimento,Retração,Estabilidade,Estabilidade,Forte crescimento,Crescimento moderado
+4108502,General Carneiro,PR,2023,2.352046249809825,Crescimento moderado,Forte crescimento,Retração,Estabilidade,Crescimento moderado,Crescimento moderado,Crescimento moderado
+4108551,Godoy Moreira,PR,2023,18.510071747331057,Forte crescimento,Forte crescimento,Forte crescimento,Estabilidade,Forte crescimento,Forte crescimento,Forte crescimento
+4108601,Goioerê,PR,2023,19.385404702422715,Forte crescimento,Forte crescimento,Crescimento moderado,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento
+4108650,Goioxim,PR,2023,-11.354307593762304,Forte retração,Forte crescimento,Forte crescimento,Forte retração,Forte retração,Forte retração,Forte retração
+4108700,Grandes Rios,PR,2023,10.08090765367804,Forte crescimento,Forte crescimento,Forte retração,Retração,Crescimento moderado,Crescimento moderado,Crescimento moderado
+4108809,Guaíra,PR,2023,23.435423667308065,Forte crescimento,Forte crescimento,Crescimento moderado,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento
+4108908,Guairaçá,PR,2023,45.53327485548302,Forte crescimento,Forte crescimento,Crescimento moderado,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento
+4108957,Guamiranga,PR,2023,33.3169050632675,Forte crescimento,Forte crescimento,Forte retração,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento
+4109005,Guapirama,PR,2023,4.940841015673358,Crescimento moderado,Forte crescimento,Forte crescimento,Forte retração,Forte retração,Forte retração,Retração
+4109104,Guaporema,PR,2023,26.960004782686674,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento
+4109203,Guaraci,PR,2023,16.56048638851677,Forte crescimento,Forte crescimento,Forte retração,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento
+4109302,Guaraniaçu,PR,2023,12.74476509641329,Forte crescimento,Forte crescimento,Crescimento moderado,Estabilidade,Forte crescimento,Crescimento moderado,Forte crescimento
+4109401,Guarapuava,PR,2023,5.174742783846731,Forte crescimento,Forte crescimento,Forte crescimento,Estabilidade,Crescimento moderado,Crescimento moderado,Crescimento moderado
+4109500,Guaraqueçaba,PR,2023,13.139347563431336,Forte crescimento,Forte crescimento,Forte crescimento,Crescimento moderado,Forte crescimento,Forte crescimento,Forte crescimento
+4109609,Guaratuba,PR,2023,14.584031330328306,Forte crescimento,Forte crescimento,Forte crescimento,Estabilidade,Forte crescimento,Forte crescimento,Forte crescimento
+4109658,Honório Serpa,PR,2023,36.63296687758493,Forte crescimento,Forte crescimento,Forte retração,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento
+4109708,Ibaiti,PR,2023,24.852776644599995,Forte crescimento,Forte crescimento,Forte crescimento,Estabilidade,Retração,Crescimento moderado,Estabilidade
+4109757,Ibema,PR,2023,4.857622284594187,Crescimento moderado,Forte crescimento,Forte crescimento,Estabilidade,Crescimento moderado,Crescimento moderado,Crescimento moderado
+4109807,Ibiporã,PR,2023,-10.404143302602343,Forte retração,Forte crescimento,Forte crescimento,Retração,Forte crescimento,Forte crescimento,Crescimento moderado
+4109906,Icaraíma,PR,2023,18.296220413004804,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento,Crescimento moderado,Forte crescimento
+4110003,Iguaraçu,PR,2023,13.967476622756125,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento
+4110052,Iguatu,PR,2023,4.350554277347829,Crescimento moderado,Forte crescimento,Forte crescimento,Forte retração,Forte retração,Forte retração,Forte retração
+4110078,Imbaú,PR,2023,8.34922373688196,Forte crescimento,Forte crescimento,Forte crescimento,Estabilidade,Crescimento moderado,Crescimento moderado,Forte crescimento
+4110102,Imbituva,PR,2023,10.837367242251283,Forte crescimento,Forte crescimento,Forte crescimento,Estabilidade,Forte crescimento,Forte crescimento,Forte crescimento
+4110201,Inácio Martins,PR,2023,-0.4187250996015912,Estabilidade,Forte crescimento,Forte retração,Forte retração,Retração,Retração,Retração
+4110300,Inajá,PR,2023,36.967769753152965,Forte crescimento,Forte crescimento,Retração,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento
+4110409,Indianópolis,PR,2023,12.35131491497372,Forte crescimento,Forte crescimento,Forte crescimento,Forte retração,Forte retração,Forte retração,Crescimento moderado
+4110508,Ipiranga,PR,2023,-6.089679598175768,Forte retração,Forte crescimento,Forte crescimento,Retração,Forte retração,Forte retração,Retração
+4110607,Iporã,PR,2023,57.997390276363035,Forte crescimento,Forte crescimento,Forte retração,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento
+4110656,Iracema do Oeste,PR,2023,48.8318005265457,Forte crescimento,Forte crescimento,Forte retração,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento
+4110706,Irati,PR,2023,10.908183668108485,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento
+4110805,Iretama,PR,2023,12.692830529276122,Forte crescimento,Forte crescimento,Crescimento moderado,Crescimento moderado,Forte crescimento,Forte crescimento,Forte crescimento
+4110904,Itaguajé,PR,2023,29.182031907281747,Forte crescimento,Forte crescimento,Crescimento moderado,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento
+4110953,Itaipulândia,PR,2023,11.53999807138626,Forte crescimento,Forte crescimento,Retração,Estabilidade,Forte crescimento,Forte crescimento,Forte crescimento
+4111001,Itambaracá,PR,2023,6.795964382619335,Forte crescimento,Forte crescimento,Forte crescimento,Forte retração,Forte retração,Forte retração,Forte retração
+4111100,Itambé,PR,2023,48.985253794503095,Forte crescimento,Forte crescimento,Forte retração,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento
+4111209,Itapejara d'Oeste,PR,2023,7.850077008385359,Forte crescimento,Forte crescimento,Forte crescimento,Estabilidade,Crescimento moderado,Crescimento moderado,Crescimento moderado
+4111258,Itaperuçu,PR,2023,17.716206847316805,Forte crescimento,Forte crescimento,Forte crescimento,Estabilidade,Forte crescimento,Forte crescimento,Forte crescimento
+4111308,Itaúna do Sul,PR,2023,21.845030295734524,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento
+4111407,Ivaí,PR,2023,48.22667389310431,Forte crescimento,Forte crescimento,Retração,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento
+4111506,Ivaiporã,PR,2023,12.951378931859313,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento
+4111555,Ivaté,PR,2023,34.40855061349693,Forte crescimento,Forte crescimento,Crescimento moderado,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento
+4111605,Ivatuba,PR,2023,35.92394794384699,Forte crescimento,Forte crescimento,Forte retração,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento
+4111704,Jaboti,PR,2023,-1.622905396490304,Retração,Forte crescimento,Estabilidade,Forte retração,Forte retração,Forte retração,Forte retração
+4111803,Jacarezinho,PR,2023,8.455995637359992,Forte crescimento,Forte crescimento,Forte crescimento,Estabilidade,Forte crescimento,Crescimento moderado,Crescimento moderado
+4111902,Jaguapitã,PR,2023,13.33073768445232,Forte crescimento,Forte crescimento,Forte crescimento,Estabilidade,Forte crescimento,Crescimento moderado,Forte crescimento
+4112009,Jaguariaíva,PR,2023,7.979228551893547,Forte crescimento,Forte crescimento,Forte crescimento,Estabilidade,Crescimento moderado,Crescimento moderado,Crescimento moderado
+4112108,Jandaia do Sul,PR,2023,9.750409752917278,Forte crescimento,Forte crescimento,Forte crescimento,Estabilidade,Forte crescimento,Forte crescimento,Forte crescimento
+4112207,Janiópolis,PR,2023,60.88559299777001,Forte crescimento,Forte crescimento,Forte retração,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento
+4112306,Japira,PR,2023,-6.076767900074609,Forte retração,Forte crescimento,Forte crescimento,Forte retração,Forte retração,Forte retração,Forte retração
+4112405,Japurá,PR,2023,21.469429715696208,Forte crescimento,Forte crescimento,Forte crescimento,Crescimento moderado,Forte crescimento,Forte crescimento,Forte crescimento
+4112504,Jardim Alegre,PR,2023,11.280097738999117,Forte crescimento,Forte crescimento,Crescimento moderado,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento
+4112603,Jardim Olinda,PR,2023,49.70051935251525,Forte crescimento,Forte crescimento,Forte retração,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento
+4112702,Jataizinho,PR,2023,-0.3806729186906388,Estabilidade,Forte crescimento,Forte crescimento,Forte retração,Forte retração,Retração,Retração
+4112751,Jesuítas,PR,2023,28.52933433708509,Forte crescimento,Forte crescimento,Retração,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento
+4112801,Joaquim Távora,PR,2023,2.9855010862378295,Crescimento moderado,Forte crescimento,Forte crescimento,Forte retração,Crescimento moderado,Crescimento moderado,Crescimento moderado
+4112900,Jundiaí do Sul,PR,2023,-3.058062528877248,Retração,Forte crescimento,Forte crescimento,Forte retração,Forte retração,Forte retração,Forte retração
+4112959,Juranda,PR,2023,22.135598384259314,Forte crescimento,Forte crescimento,Forte retração,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento
+4113007,Jussara,PR,2023,-1.6185999575100918,Retração,Forte crescimento,Forte retração,Retração,Forte crescimento,Forte crescimento,Forte crescimento
+4113106,Kaloré,PR,2023,29.925235334374968,Forte crescimento,Forte crescimento,Forte retração,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento
+4113205,Lapa,PR,2023,4.182954480168544,Crescimento moderado,Forte crescimento,Forte retração,Forte retração,Retração,Estabilidade,Estabilidade
+4113254,Laranjal,PR,2023,12.957178478517228,Forte crescimento,Forte crescimento,Retração,Estabilidade,Forte crescimento,Forte crescimento,Forte crescimento
+4113304,Laranjeiras do Sul,PR,2023,9.392712982366325,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento
+4113403,Leópolis,PR,2023,22.44237111001608,Forte crescimento,Forte crescimento,Forte retração,Estabilidade,Forte crescimento,Forte crescimento,Forte crescimento
+4113429,Lidianópolis,PR,2023,14.579448003558237,Forte crescimento,Forte crescimento,Crescimento moderado,Estabilidade,Crescimento moderado,Forte crescimento,Forte crescimento
+4113452,Lindoeste,PR,2023,7.241215983465388,Forte crescimento,Forte crescimento,Forte crescimento,Estabilidade,Crescimento moderado,Crescimento moderado,Crescimento moderado
+4113502,Loanda,PR,2023,21.80076505191424,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento
+4113601,Lobato,PR,2023,25.933733005436,Forte crescimento,Forte crescimento,Forte crescimento,Estabilidade,Forte crescimento,Forte crescimento,Forte crescimento
+4113700,Londrina,PR,2023,6.806685171485172,Forte crescimento,Forte crescimento,Forte crescimento,Estabilidade,Forte crescimento,Forte crescimento,Forte crescimento
+4113734,Luiziana,PR,2023,24.95877038806915,Forte crescimento,Forte crescimento,Forte retração,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento
+4113759,Lunardelli,PR,2023,16.86250862841865,Forte crescimento,Forte crescimento,Forte retração,Estabilidade,Crescimento moderado,Forte crescimento,Forte crescimento
+4113809,Lupionópolis,PR,2023,14.268483730989455,Forte crescimento,Forte crescimento,Forte crescimento,Estabilidade,Forte crescimento,Forte crescimento,Forte crescimento
+4113908,Mallet,PR,2023,14.070004289421068,Forte crescimento,Forte crescimento,Forte crescimento,Forte retração,Forte retração,Estabilidade,Retração
+4114005,Mamborê,PR,2023,9.190343905594345,Forte crescimento,Forte crescimento,Estabilidade,Estabilidade,Forte crescimento,Forte crescimento,Forte crescimento
+4114104,Mandaguaçu,PR,2023,23.05586907798034,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento
+4114203,Mandaguari,PR,2023,10.602437235534467,Forte crescimento,Forte crescimento,Forte crescimento,Estabilidade,Forte retração,Estabilidade,Crescimento moderado
+4114302,Mandirituba,PR,2023,9.819943269797339,Forte crescimento,Forte crescimento,Forte crescimento,Estabilidade,Crescimento moderado,Crescimento moderado,Forte crescimento
+4114351,Manfrinópolis,PR,2023,33.50938666939485,Forte crescimento,Forte crescimento,Retração,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento
+4114401,Mangueirinha,PR,2023,8.716306617413183,Forte crescimento,Forte crescimento,Retração,Estabilidade,Forte retração,Forte retração,Estabilidade
+4114500,Manoel Ribas,PR,2023,3.5347503049102835,Crescimento moderado,Forte crescimento,Forte crescimento,Estabilidade,Crescimento moderado,Retração,Crescimento moderado
+4114609,Marechal Cândido Rondon,PR,2023,7.924639600092975,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento
+4114708,Maria Helena,PR,2023,27.292472435490378,Forte crescimento,Forte crescimento,Crescimento moderado,Forte crescimento,Crescimento moderado,Forte crescimento,Forte crescimento
+4114807,Marialva,PR,2023,7.476462719194887,Forte crescimento,Forte crescimento,Crescimento moderado,Estabilidade,Forte crescimento,Forte crescimento,Forte crescimento
+4114906,Marilândia do Sul,PR,2023,3.2346038682528055,Crescimento moderado,Forte crescimento,Forte crescimento,Forte retração,Forte retração,Crescimento moderado,Estabilidade
+4115002,Marilena,PR,2023,12.497510456084449,Forte crescimento,Forte crescimento,Forte crescimento,Crescimento moderado,Forte crescimento,Forte crescimento,Forte crescimento
+4115101,Mariluz,PR,2023,56.92342953038385,Forte crescimento,Forte crescimento,Forte retração,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento
+4115200,Maringá,PR,2023,4.308376979292183,Crescimento moderado,Forte crescimento,Forte crescimento,Crescimento moderado,Forte crescimento,Forte crescimento,Forte crescimento
+4115309,Mariópolis,PR,2023,-12.167537274982765,Forte retração,Forte crescimento,Forte crescimento,Estabilidade,Forte retração,Crescimento moderado,Crescimento moderado
+4115358,Maripá,PR,2023,43.58202554377688,Forte crescimento,Forte crescimento,Forte retração,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento
+4115408,Marmeleiro,PR,2023,14.529738214373245,Forte crescimento,Forte crescimento,Crescimento moderado,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento
+4115457,Marquinho,PR,2023,7.0792809659045774,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento
+4115507,Marumbi,PR,2023,23.44717927979265,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento
+4115606,Matelândia,PR,2023,11.840379172818283,Forte crescimento,Forte crescimento,Forte crescimento,Estabilidade,Forte crescimento,Forte crescimento,Forte crescimento
+4115705,Matinhos,PR,2023,14.763347852769314,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento
+4115739,Mato Rico,PR,2023,19.664463727555503,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento
+4115754,Mauá da Serra,PR,2023,-3.122536544133181,Retração,Forte crescimento,Forte crescimento,Forte retração,Forte retração,Forte retração,Estabilidade
+4115804,Medianeira,PR,2023,13.729802496492738,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento
+4115853,Mercedes,PR,2023,18.796376712224404,Forte crescimento,Forte crescimento,Forte retração,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento
+4115903,Mirador,PR,2023,42.09991505711814,Forte crescimento,Forte crescimento,Estabilidade,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento
+4116000,Miraselva,PR,2023,13.178066999380246,Forte crescimento,Forte crescimento,Forte crescimento,Estabilidade,Crescimento moderado,Retração,Estabilidade
+4116059,Missal,PR,2023,15.106333179613497,Forte crescimento,Forte crescimento,Forte retração,Estabilidade,Forte crescimento,Forte crescimento,Forte crescimento
+4116109,Moreira Sales,PR,2023,40.52732040470315,Forte crescimento,Forte crescimento,Forte retração,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento
+4116208,Morretes,PR,2023,28.62651518249544,Forte crescimento,Forte crescimento,Forte crescimento,Estabilidade,Forte crescimento,Forte crescimento,Forte crescimento
+4116307,Munhoz de Melo,PR,2023,19.58910137079033,Forte crescimento,Forte crescimento,Forte crescimento,Estabilidade,Estabilidade,Estabilidade,Estabilidade
+4116406,Nossa Senhora das Graças,PR,2023,22.352907150500844,Forte crescimento,Forte crescimento,Crescimento moderado,Estabilidade,Forte crescimento,Forte crescimento,Forte crescimento
+4116505,Nova Aliança do Ivaí,PR,2023,38.789744389027426,Forte crescimento,Forte crescimento,Retração,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento
+4116604,Nova América da Colina,PR,2023,5.571724353465113,Forte crescimento,Forte crescimento,Crescimento moderado,Estabilidade,Crescimento moderado,Crescimento moderado,Estabilidade
+4116703,Nova Aurora,PR,2023,22.22427075015265,Forte crescimento,Forte crescimento,Crescimento moderado,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento
+4116802,Nova Cantu,PR,2023,2.0662650422482276,Crescimento moderado,Forte crescimento,Retração,Estabilidade,Forte retração,Forte crescimento,Crescimento moderado
+4116901,Nova Esperança,PR,2023,15.452092140771656,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento
+4116950,Nova Esperança do Sudoeste,PR,2023,20.46374633342223,Forte crescimento,Forte crescimento,Estabilidade,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento
+4117008,Nova Fátima,PR,2023,-8.116064037266213,Forte retração,Forte crescimento,Forte crescimento,Forte retração,Forte retração,Forte retração,Forte retração
+4117057,Nova Laranjeiras,PR,2023,19.22222537314844,Forte crescimento,Forte crescimento,Crescimento moderado,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento
+4117107,Nova Londrina,PR,2023,20.33237972088411,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento,Forte retração,Forte crescimento
+4117206,Nova Olímpia,PR,2023,18.697856587171714,Forte crescimento,Forte crescimento,Crescimento moderado,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento
+4117214,Nova Santa Bárbara,PR,2023,2.724030003356259,Crescimento moderado,Forte crescimento,Forte crescimento,Forte retração,Forte retração,Forte retração,Retração
+4117222,Nova Santa Rosa,PR,2023,30.420907203279146,Forte crescimento,Forte crescimento,Forte retração,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento
+4117255,Nova Prata do Iguaçu,PR,2023,35.39409087283267,Forte crescimento,Forte crescimento,Forte retração,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento
+4117271,Nova Tebas,PR,2023,7.565334506323729,Forte crescimento,Forte crescimento,Forte crescimento,Estabilidade,Forte retração,Retração,Crescimento moderado
+4117297,Novo Itacolomi,PR,2023,22.32841433201791,Forte crescimento,Forte crescimento,Forte crescimento,Estabilidade,Forte crescimento,Forte crescimento,Forte crescimento
+4117305,Ortigueira,PR,2023,15.718231821732576,Forte crescimento,Forte crescimento,Forte crescimento,Forte retração,Forte retração,Forte retração,Estabilidade
+4117404,Ourizona,PR,2023,38.334408434726505,Forte crescimento,Forte crescimento,Forte retração,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento
+4117453,Ouro Verde do Oeste,PR,2023,25.15668963658113,Forte crescimento,Forte crescimento,Forte retração,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento
+4117503,Paiçandu,PR,2023,13.439265936580714,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento
+4117602,Palmas,PR,2023,6.591196318507575,Forte crescimento,Forte crescimento,Estabilidade,Estabilidade,Crescimento moderado,Estabilidade,Forte crescimento
+4117701,Palmeira,PR,2023,12.999621808083116,Forte crescimento,Forte crescimento,Forte crescimento,Estabilidade,Forte crescimento,Forte crescimento,Forte crescimento
+4117800,Palmital,PR,2023,7.813104621761879,Forte crescimento,Forte crescimento,Forte crescimento,Estabilidade,Crescimento moderado,Forte crescimento,Crescimento moderado
+4117909,Palotina,PR,2023,18.918831139597735,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento
+4118006,Paraíso do Norte,PR,2023,31.294119384469976,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento
+4118105,Paranacity,PR,2023,43.18169873169113,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento
+4118204,Paranaguá,PR,2023,-6.573459479941556,Forte retração,Forte crescimento,Forte crescimento,Estabilidade,Forte crescimento,Crescimento moderado,Crescimento moderado
+4118303,Paranapoema,PR,2023,11.700909651363212,Forte crescimento,Forte crescimento,Forte retração,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento
+4118402,Paranavaí,PR,2023,20.68209659890712,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento
+4118451,Pato Bragado,PR,2023,20.787025013209615,Forte crescimento,Forte crescimento,Forte retração,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento
+4118501,Pato Branco,PR,2023,6.850530735963178,Forte crescimento,Forte crescimento,Forte crescimento,Estabilidade,Forte crescimento,Forte crescimento,Forte crescimento
+4118600,Paula Freitas,PR,2023,-2.9307624751133576,Retração,Forte crescimento,Forte crescimento,Forte retração,Forte retração,Forte retração,Forte retração
+4118709,Paulo Frontin,PR,2023,2.5598015704676014,Crescimento moderado,Forte crescimento,Forte crescimento,Forte retração,Forte retração,Forte retração,Retração
+4118808,Peabiru,PR,2023,42.312044793890195,Forte crescimento,Forte crescimento,Forte retração,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento
+4118857,Perobal,PR,2023,46.09138016899692,Forte crescimento,Forte crescimento,Forte retração,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento
+4118907,Pérola,PR,2023,13.019963364277064,Forte crescimento,Forte crescimento,Forte retração,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento
+4119004,Pérola d'Oeste,PR,2023,54.14999715051005,Forte crescimento,Forte crescimento,Forte retração,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento
+4119103,Piên,PR,2023,-7.494042365880049,Forte retração,Forte crescimento,Estabilidade,Forte retração,Retração,Forte retração,Estabilidade
+4119152,Pinhais,PR,2023,15.117006869327376,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento,Crescimento moderado,Forte crescimento,Forte crescimento
+4119202,Pinhalão,PR,2023,-10.19727929957649,Forte retração,Forte crescimento,Forte crescimento,Forte retração,Forte retração,Forte retração,Forte retração
+4119251,Pinhal de São Bento,PR,2023,31.307574206755383,Forte crescimento,Forte crescimento,Forte retração,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento
+4119301,Pinhão,PR,2023,2.880199634854952,Crescimento moderado,Forte crescimento,Estabilidade,Estabilidade,Estabilidade,Forte retração,Estabilidade
+4119400,Piraí do Sul,PR,2023,5.347268768286972,Forte crescimento,Forte crescimento,Forte crescimento,Forte retração,Forte retração,Estabilidade,Retração
+4119509,Piraquara,PR,2023,12.426102323634435,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento
+4119608,Pitanga,PR,2023,5.633776115985811,Forte crescimento,Forte crescimento,Forte crescimento,Estabilidade,Forte crescimento,Crescimento moderado,Crescimento moderado
+4119657,Pitangueiras,PR,2023,3.8218825568012926,Crescimento moderado,Forte crescimento,Forte crescimento,Forte retração,Forte retração,Forte retração,Retração
+4119707,Planaltina do Paraná,PR,2023,28.958261469472223,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento
+4119806,Planalto,PR,2023,28.966523247404364,Forte crescimento,Forte crescimento,Retração,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento
+4119905,Ponta Grossa,PR,2023,9.836348367122216,Forte crescimento,Forte crescimento,Forte crescimento,Estabilidade,Forte crescimento,Crescimento moderado,Forte crescimento
+4119954,Pontal do Paraná,PR,2023,13.525639407883494,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento
+4120002,Porecatu,PR,2023,7.9413982421828955,Forte crescimento,Forte crescimento,Forte crescimento,Estabilidade,Forte retração,Forte retração,Crescimento moderado
+4120101,Porto Amazonas,PR,2023,60.69635002954112,Forte crescimento,Forte crescimento,Forte crescimento,Forte retração,Forte retração,Forte retração,Retração
+4120150,Porto Barreiro,PR,2023,-8.174653147187183,Forte retração,Forte crescimento,Forte crescimento,Forte retração,Forte retração,Forte retração,Forte retração
+4120200,Porto Rico,PR,2023,29.004511531812625,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento
+4120309,Porto Vitória,PR,2023,7.638843282765273,Forte crescimento,Forte crescimento,Forte retração,Estabilidade,Forte crescimento,Forte crescimento,Forte crescimento
+4120333,Prado Ferreira,PR,2023,4.90062550443906,Crescimento moderado,Forte crescimento,Forte crescimento,Forte retração,Forte retração,Forte retração,Estabilidade
+4120358,Pranchita,PR,2023,35.65280001719451,Forte crescimento,Forte crescimento,Forte retração,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento
+4120408,Presidente Castelo Branco,PR,2023,6.614171524991086,Forte crescimento,Forte crescimento,Forte crescimento,Estabilidade,Retração,Retração,Estabilidade
+4120507,Primeiro de Maio,PR,2023,0.33519116744153976,Estabilidade,Forte crescimento,Forte crescimento,Forte retração,Forte retração,Forte retração,Retração
+4120606,Prudentópolis,PR,2023,17.82550423529208,Forte crescimento,Forte crescimento,Crescimento moderado,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento
+4120655,Quarto Centenário,PR,2023,53.90771986333329,Forte crescimento,Forte crescimento,Forte retração,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento
+4120705,Quatiguá,PR,2023,5.014345107201756,Forte crescimento,Forte crescimento,Forte crescimento,Estabilidade,Crescimento moderado,Crescimento moderado,Forte crescimento
+4120804,Quatro Barras,PR,2023,12.111790213629359,Forte crescimento,Forte crescimento,Forte crescimento,Estabilidade,Forte crescimento,Crescimento moderado,Forte crescimento
+4120853,Quatro Pontes,PR,2023,21.33358617583616,Forte crescimento,Forte crescimento,Estabilidade,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento
+4120903,Quedas do Iguaçu,PR,2023,14.585729271605041,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento
+4121000,Querência do Norte,PR,2023,36.72805720906076,Forte crescimento,Forte crescimento,Retração,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento
+4121109,Quinta do Sol,PR,2023,39.49181968766886,Forte crescimento,Forte crescimento,Forte retração,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento
+4121208,Quitandinha,PR,2023,5.91772591697759,Forte crescimento,Forte crescimento,Forte crescimento,Estabilidade,Crescimento moderado,Retração,Crescimento moderado
+4121257,Ramilândia,PR,2023,28.23668854850474,Forte crescimento,Forte crescimento,Forte retração,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento
+4121307,Rancho Alegre,PR,2023,13.082128928653368,Forte crescimento,Forte crescimento,Forte retração,Estabilidade,Forte retração,Forte crescimento,Crescimento moderado
+4121356,Rancho Alegre D'Oeste,PR,2023,31.333218149289664,Forte crescimento,Forte crescimento,Forte retração,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento
+4121406,Realeza,PR,2023,28.12905001509778,Forte crescimento,Forte crescimento,Estabilidade,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento
+4121505,Rebouças,PR,2023,17.561605230943343,Forte crescimento,Forte crescimento,Estabilidade,Estabilidade,Crescimento moderado,Crescimento moderado,Crescimento moderado
+4121604,Renascença,PR,2023,32.549302064276354,Forte crescimento,Forte crescimento,Forte retração,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento
+4121703,Reserva,PR,2023,-2.0028384870120597,Retração,Forte crescimento,Crescimento moderado,Estabilidade,Retração,Retração,Retração
+4121752,Reserva do Iguaçu,PR,2023,-2.089306260703805,Retração,Forte crescimento,Crescimento moderado,Forte retração,Forte retração,Forte retração,Forte retração
+4121802,Ribeirão Claro,PR,2023,22.899937113003087,Forte crescimento,Forte crescimento,Forte crescimento,Estabilidade,Crescimento moderado,Estabilidade,Crescimento moderado
+4121901,Ribeirão do Pinhal,PR,2023,6.247005948907325,Forte crescimento,Forte crescimento,Forte crescimento,Forte retração,Forte retração,Forte retração,Estabilidade
+4122008,Rio Azul,PR,2023,5.064641091247846,Forte crescimento,Forte crescimento,Forte crescimento,Forte retração,Forte retração,Forte retração,Retração
+4122107,Rio Bom,PR,2023,2.7935909193154806,Crescimento moderado,Forte crescimento,Forte crescimento,Forte retração,Forte retração,Forte retração,Forte retração
+4122156,Rio Bonito do Iguaçu,PR,2023,1.3621115784411497,Crescimento moderado,Forte crescimento,Forte crescimento,Estabilidade,Estabilidade,Estabilidade,Estabilidade
+4122172,Rio Branco do Ivaí,PR,2023,15.612674378590153,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento
+4122206,Rio Branco do Sul,PR,2023,12.204049910337433,Forte crescimento,Forte crescimento,Forte crescimento,Estabilidade,Forte crescimento,Crescimento moderado,Forte crescimento
+4122305,Rio Negro,PR,2023,6.777161662543207,Forte crescimento,Forte crescimento,Forte crescimento,Estabilidade,Crescimento moderado,Estabilidade,Crescimento moderado
+4122404,Rolândia,PR,2023,9.933013695816362,Forte crescimento,Forte crescimento,Forte crescimento,Estabilidade,Forte crescimento,Forte crescimento,Forte crescimento
+4122503,Roncador,PR,2023,1.1393866544356035,Crescimento moderado,Forte crescimento,Forte crescimento,Retração,Forte retração,Retração,Estabilidade
+4122602,Rondon,PR,2023,33.84545820434974,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento
+4122651,Rosário do Ivaí,PR,2023,17.239244380342633,Forte crescimento,Forte crescimento,Forte crescimento,Estabilidade,Forte crescimento,Forte crescimento,Forte crescimento
+4122701,Sabáudia,PR,2023,7.041063848219697,Forte crescimento,Forte crescimento,Retração,Estabilidade,Forte crescimento,Forte crescimento,Forte crescimento
+4122800,Salgado Filho,PR,2023,16.159173442169884,Forte crescimento,Forte crescimento,Estabilidade,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento
+4122909,Salto do Itararé,PR,2023,10.120710604972105,Forte crescimento,Forte crescimento,Forte crescimento,Retração,Estabilidade,Estabilidade,Retração
+4123006,Salto do Lontra,PR,2023,28.498229314053436,Forte crescimento,Forte crescimento,Forte retração,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento
+4123105,Santa Amélia,PR,2023,19.156136614275976,Forte crescimento,Forte crescimento,Forte crescimento,Forte retração,Forte retração,Forte retração,Retração
+4123204,Santa Cecília do Pavão,PR,2023,-3.1739254967871666,Retração,Forte crescimento,Forte crescimento,Forte retração,Forte retração,Forte retração,Retração
+4123303,Santa Cruz de Monte Castelo,PR,2023,9.186099305980534,Forte crescimento,Forte crescimento,Forte retração,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento
+4123402,Santa Fé,PR,2023,26.918921358711145,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento
+4123501,Santa Helena,PR,2023,5.154481953450052,Forte crescimento,Forte crescimento,Forte crescimento,Estabilidade,Forte crescimento,Forte crescimento,Forte crescimento
+4123600,Santa Inês,PR,2023,44.516665535265766,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento
+4123709,Santa Isabel do Ivaí,PR,2023,14.829295757026006,Forte crescimento,Forte crescimento,Crescimento moderado,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento
+4123808,Santa Izabel do Oeste,PR,2023,28.98635815060984,Forte crescimento,Forte crescimento,Forte retração,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento
+4123824,Santa Lúcia,PR,2023,1.0314677498674651,Crescimento moderado,Forte crescimento,Forte crescimento,Estabilidade,Retração,Estabilidade,Estabilidade
+4123857,Santa Maria do Oeste,PR,2023,8.241534192816523,Forte crescimento,Forte crescimento,Forte crescimento,Retração,Forte retração,Crescimento moderado,Estabilidade
+4123907,Santa Mariana,PR,2023,7.873193578226112,Forte crescimento,Forte crescimento,Forte retração,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento
+4123956,Santa Mônica,PR,2023,27.20432713492553,Forte crescimento,Forte crescimento,Estabilidade,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento
+4124004,Santana do Itararé,PR,2023,-6.052129169261555,Forte retração,Forte crescimento,Forte crescimento,Forte retração,Forte retração,Forte retração,Forte retração
+4124020,Santa Tereza do Oeste,PR,2023,5.103753331850047,Forte crescimento,Forte crescimento,Forte crescimento,Retração,Crescimento moderado,Forte retração,Crescimento moderado
+4124053,Santa Terezinha de Itaipu,PR,2023,9.830806264775926,Forte crescimento,Forte crescimento,Crescimento moderado,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento
+4124103,Santo Antônio da Platina,PR,2023,3.2451817746708578,Crescimento moderado,Forte crescimento,Forte crescimento,Estabilidade,Crescimento moderado,Estabilidade,Crescimento moderado
+4124202,Santo Antônio do Caiuá,PR,2023,20.185013558507524,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento
+4124301,Santo Antônio do Paraíso,PR,2023,-6.964738680476201,Forte retração,Forte crescimento,Forte crescimento,Forte retração,Forte retração,Forte retração,Forte retração
+4124400,Santo Antônio do Sudoeste,PR,2023,20.94154770848986,Forte crescimento,Forte crescimento,Crescimento moderado,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento
+4124509,Santo Inácio,PR,2023,19.799410113968264,Forte crescimento,Forte crescimento,Forte crescimento,Forte retração,Forte crescimento,Forte crescimento,Forte crescimento
+4124608,São Carlos do Ivaí,PR,2023,28.246847107288687,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento
+4124707,São Jerônimo da Serra,PR,2023,-5.6600308429413655,Forte retração,Forte crescimento,Forte crescimento,Forte retração,Forte retração,Forte retração,Forte retração
+4124806,São João,PR,2023,12.859687775749062,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento
+4124905,São João do Caiuá,PR,2023,34.07768077009179,Forte crescimento,Forte crescimento,Forte retração,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento
+4125001,São João do Ivaí,PR,2023,16.865703925910335,Forte crescimento,Forte crescimento,Retração,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento
+4125100,São João do Triunfo,PR,2023,20.1175796206295,Forte crescimento,Forte crescimento,Forte crescimento,Estabilidade,Forte crescimento,Forte crescimento,Forte crescimento
+4125209,São Jorge d'Oeste,PR,2023,19.09046708953501,Forte crescimento,Forte crescimento,Forte retração,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento
+4125308,São Jorge do Ivaí,PR,2023,29.71524662980196,Forte crescimento,Forte crescimento,Forte retração,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento
+4125357,São Jorge do Patrocínio,PR,2023,6.781666132463071,Forte crescimento,Forte crescimento,Forte crescimento,Crescimento moderado,Forte retração,Retração,Crescimento moderado
+4125407,São José da Boa Vista,PR,2023,-10.385168007827394,Forte retração,Forte crescimento,Forte crescimento,Forte retração,Forte retração,Forte retração,Forte retração
+4125456,São José das Palmeiras,PR,2023,22.687458749566524,Forte crescimento,Forte crescimento,Forte retração,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento
+4125506,São José dos Pinhais,PR,2023,7.874706245376495,Forte crescimento,Forte crescimento,Forte crescimento,Estabilidade,Forte crescimento,Forte crescimento,Forte crescimento
+4125555,São Manoel do Paraná,PR,2023,25.43811941020062,Forte crescimento,Forte crescimento,Forte crescimento,Estabilidade,Forte crescimento,Forte crescimento,Forte crescimento
+4125605,São Mateus do Sul,PR,2023,4.351189888497009,Crescimento moderado,Forte crescimento,Forte crescimento,Estabilidade,Crescimento moderado,Estabilidade,Estabilidade
+4125704,São Miguel do Iguaçu,PR,2023,4.827358278709704,Crescimento moderado,Forte crescimento,Retração,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento
+4125753,São Pedro do Iguaçu,PR,2023,18.327546756424873,Forte crescimento,Forte crescimento,Forte retração,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento
+4125803,São Pedro do Ivaí,PR,2023,11.563161782812115,Forte crescimento,Forte crescimento,Forte crescimento,Estabilidade,Forte crescimento,Forte crescimento,Forte crescimento
+4125902,São Pedro do Paraná,PR,2023,22.705021058898755,Forte crescimento,Forte crescimento,Estabilidade,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento
+4126009,São Sebastião da Amoreira,PR,2023,-10.666503599808186,Forte retração,Forte crescimento,Crescimento moderado,Forte retração,Forte retração,Forte retração,Forte retração
+4126108,São Tomé,PR,2023,23.25738199122909,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento
+4126207,Sapopema,PR,2023,16.126924101874284,Forte crescimento,Forte crescimento,Crescimento moderado,Forte retração,Retração,Retração,Retração
+4126256,Sarandi,PR,2023,6.102500565083213,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento
+4126272,Saudade do Iguaçu,PR,2023,-1.5802393900425704,Retração,Forte crescimento,Forte crescimento,Forte retração,Forte retração,Forte retração,Forte retração
+4126306,Sengés,PR,2023,5.87981089716576,Forte crescimento,Forte crescimento,Retração,Forte retração,Retração,Estabilidade,Retração
+4126355,Serranópolis do Iguaçu,PR,2023,20.13548534959981,Forte crescimento,Forte crescimento,Forte retração,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento
+4126405,Sertaneja,PR,2023,25.207217040862684,Forte crescimento,Forte crescimento,Forte retração,Estabilidade,Crescimento moderado,Forte crescimento,Forte crescimento
+4126504,Sertanópolis,PR,2023,-3.565891299810131,Retração,Forte crescimento,Forte crescimento,Forte retração,Forte retração,Forte retração,Retração
+4126603,Siqueira Campos,PR,2023,7.587030716723553,Forte crescimento,Forte crescimento,Forte crescimento,Estabilidade,Crescimento moderado,Estabilidade,Crescimento moderado
+4126652,Sulina,PR,2023,13.252604799829214,Forte crescimento,Forte crescimento,Forte crescimento,Estabilidade,Forte retração,Crescimento moderado,Crescimento moderado
+4126678,Tamarana,PR,2023,7.222075372377312,Forte crescimento,Forte crescimento,Forte crescimento,Forte retração,Forte retração,Forte retração,Retração
+4126702,Tamboara,PR,2023,25.440227794467262,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento
+4126801,Tapejara,PR,2023,35.127347863612755,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento
+4126900,Tapira,PR,2023,20.686906093687707,Forte crescimento,Forte crescimento,Crescimento moderado,Forte crescimento,Crescimento moderado,Crescimento moderado,Forte crescimento
+4127007,Teixeira Soares,PR,2023,6.35813969897705,Forte crescimento,Forte crescimento,Retração,Estabilidade,Forte retração,Forte crescimento,Crescimento moderado
+4127106,Telêmaco Borba,PR,2023,26.49885479648337,Forte crescimento,Forte crescimento,Crescimento moderado,Estabilidade,Forte retração,Crescimento moderado,Forte crescimento
+4127205,Terra Boa,PR,2023,15.601012189919139,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento
+4127304,Terra Rica,PR,2023,32.17784550106935,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento
+4127403,Terra Roxa,PR,2023,25.393982613050547,Forte crescimento,Forte crescimento,Forte retração,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento
+4127502,Tibagi,PR,2023,-13.943418408294473,Forte retração,Forte crescimento,Forte crescimento,Forte retração,Forte retração,Forte retração,Forte retração
+4127601,Tijucas do Sul,PR,2023,-12.952203231689218,Forte retração,Forte crescimento,Forte crescimento,Estabilidade,Crescimento moderado,Retração,Crescimento moderado
+4127700,Toledo,PR,2023,12.72218852825544,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento
+4127809,Tomazina,PR,2023,-5.386106431687621,Forte retração,Forte crescimento,Forte crescimento,Forte retração,Forte retração,Forte retração,Forte retração
+4127858,Três Barras do Paraná,PR,2023,-0.20287278424193644,Estabilidade,Forte crescimento,Crescimento moderado,Estabilidade,Retração,Estabilidade,Estabilidade
+4127882,Tunas do Paraná,PR,2023,7.255945614286041,Forte crescimento,Forte crescimento,Forte retração,Estabilidade,Crescimento moderado,Forte crescimento,Forte crescimento
+4127908,Tuneiras do Oeste,PR,2023,24.510259339702788,Forte crescimento,Forte crescimento,Crescimento moderado,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento
+4127957,Tupãssi,PR,2023,17.969067000342285,Forte crescimento,Forte crescimento,Crescimento moderado,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento
+4127965,Turvo,PR,2023,10.156836994336448,Forte crescimento,Forte crescimento,Forte crescimento,Estabilidade,Crescimento moderado,Estabilidade,Crescimento moderado
+4128005,Ubiratã,PR,2023,22.37386412211635,Forte crescimento,Forte crescimento,Crescimento moderado,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento
+4128104,Umuarama,PR,2023,15.777745623577344,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento
+4128203,União da Vitória,PR,2023,12.462190110652728,Forte crescimento,Forte crescimento,Estabilidade,Estabilidade,Forte crescimento,Forte crescimento,Forte crescimento
+4128302,Uniflor,PR,2023,27.055429034623856,Forte crescimento,Forte crescimento,Crescimento moderado,Estabilidade,Retração,Crescimento moderado,Estabilidade
+4128401,Uraí,PR,2023,14.066397948812703,Forte crescimento,Forte crescimento,Forte retração,Estabilidade,Crescimento moderado,Crescimento moderado,Forte crescimento
+4128500,Wenceslau Braz,PR,2023,-9.23753023913314,Forte retração,Forte crescimento,Forte crescimento,Forte retração,Forte retração,Forte retração,Forte retração
+4128534,Ventania,PR,2023,-4.649658279946134,Retração,Forte crescimento,Forte crescimento,Forte retração,Forte retração,Forte retração,Forte retração
+4128559,Vera Cruz do Oeste,PR,2023,15.420488428959068,Forte crescimento,Forte crescimento,Forte retração,Estabilidade,Forte crescimento,Forte crescimento,Forte crescimento
+4128609,Verê,PR,2023,13.302538173426282,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento
+4128625,Alto Paraíso,PR,2023,24.82154472574909,Forte crescimento,Forte crescimento,Crescimento moderado,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento
+4128633,Doutor Ulysses,PR,2023,17.926511051771232,Forte crescimento,Forte crescimento,Estabilidade,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento
+4128658,Virmond,PR,2023,18.6875436027945,Forte crescimento,Forte crescimento,Forte crescimento,Estabilidade,Forte crescimento,Forte crescimento,Forte crescimento
+4128708,Vitorino,PR,2023,21.305238794608194,Forte crescimento,Forte crescimento,Crescimento moderado,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento
+4128807,Xambrê,PR,2023,25.481775434209464,Forte crescimento,Forte crescimento,Forte retração,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento
+4200051,Abdon Batista,SC,2023,5.136014648428655,Forte crescimento,Forte crescimento,Forte crescimento,Forte retração,Forte retração,Forte retração,Forte retração
+4200101,Abelardo Luz,SC,2023,6.612823095789322,Forte crescimento,Forte crescimento,Forte crescimento,Forte retração,Forte retração,Forte retração,Forte retração
+4200200,Agrolândia,SC,2023,10.233928523815017,Forte crescimento,Forte crescimento,Forte crescimento,Estabilidade,Crescimento moderado,Forte crescimento,Crescimento moderado
+4200309,Agronômica,SC,2023,19.01315761450617,Forte crescimento,Forte crescimento,Estabilidade,Estabilidade,Crescimento moderado,Forte crescimento,Crescimento moderado
+4200408,Água Doce,SC,2023,-0.9870681494094091,Estabilidade,Forte crescimento,Forte crescimento,Forte retração,Forte retração,Estabilidade,Forte retração
+4200507,Águas de Chapecó,SC,2023,50.55276444789249,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento
+4200556,Águas Frias,SC,2023,-11.42311873414663,Forte retração,Forte crescimento,Forte crescimento,Forte retração,Forte retração,Forte retração,Crescimento moderado
+4200606,Águas Mornas,SC,2023,33.287925227986534,Forte crescimento,Forte crescimento,Forte crescimento,Crescimento moderado,Forte crescimento,Forte crescimento,Forte crescimento
+4200705,Alfredo Wagner,SC,2023,17.80609100436532,Forte crescimento,Forte crescimento,Crescimento moderado,Estabilidade,Estabilidade,Estabilidade,Crescimento moderado
+4200754,Alto Bela Vista,SC,2023,14.569140962989135,Forte crescimento,Forte crescimento,Crescimento moderado,Forte retração,Retração,Estabilidade,Estabilidade
+4200804,Anchieta,SC,2023,17.98280259089575,Forte crescimento,Forte crescimento,Forte crescimento,Forte retração,Forte crescimento,Forte retração,Crescimento moderado
+4200903,Angelina,SC,2023,30.365679181442772,Forte crescimento,Forte crescimento,Forte retração,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento
+4201000,Anita Garibaldi,SC,2023,17.41052670893286,Forte crescimento,Forte crescimento,Forte retração,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento
+4201109,Anitápolis,SC,2023,24.67133906764363,Forte crescimento,Forte crescimento,Forte crescimento,Estabilidade,Forte crescimento,Forte crescimento,Forte crescimento
+4201208,Antônio Carlos,SC,2023,42.02460018292005,Forte crescimento,Forte crescimento,Crescimento moderado,Estabilidade,Forte crescimento,Forte crescimento,Forte crescimento
+4201257,Apiúna,SC,2023,5.564456940840823,Forte crescimento,Forte crescimento,Forte crescimento,Crescimento moderado,Crescimento moderado,Forte crescimento,Forte crescimento
+4201273,Arabutã,SC,2023,15.510678424564706,Forte crescimento,Forte crescimento,Forte crescimento,Forte retração,Forte retração,Crescimento moderado,Estabilidade
+4201307,Araquari,SC,2023,23.969585249532233,Forte crescimento,Forte crescimento,Forte crescimento,Forte retração,Forte retração,Forte crescimento,Forte crescimento
+4201406,Araranguá,SC,2023,12.224825329675038,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento
+4201505,Armazém,SC,2023,20.080503707223674,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento
+4201604,Arroio Trinta,SC,2023,12.58527971747332,Forte crescimento,Forte crescimento,Forte crescimento,Retração,Retração,Retração,Retração
+4201653,Arvoredo,SC,2023,5.657303889362497,Forte crescimento,Forte crescimento,Forte retração,Forte retração,Forte retração,Forte retração,Crescimento moderado
+4201703,Ascurra,SC,2023,14.398016920056179,Forte crescimento,Forte crescimento,Forte crescimento,Estabilidade,Forte crescimento,Forte crescimento,Forte crescimento
+4201802,Atalanta,SC,2023,4.6754636233951485,Crescimento moderado,Forte crescimento,Forte crescimento,Estabilidade,Forte retração,Crescimento moderado,Crescimento moderado
+4201901,Aurora,SC,2023,14.62243818331439,Forte crescimento,Forte crescimento,Estabilidade,Estabilidade,Forte crescimento,Forte crescimento,Crescimento moderado
+4201950,Balneário Arroio do Silva,SC,2023,19.929892257977432,Forte crescimento,Forte crescimento,Forte crescimento,Crescimento moderado,Forte crescimento,Forte crescimento,Forte crescimento
+4202008,Balneário Camboriú,SC,2023,12.818163422944707,Forte crescimento,Forte crescimento,Forte crescimento,Crescimento moderado,Forte crescimento,Forte crescimento,Forte crescimento
+4202057,Balneário Barra do Sul,SC,2023,13.982690426572542,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento
+4202073,Balneário Gaivota,SC,2023,19.298658962395333,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento
+4202081,Bandeirante,SC,2023,20.11142266824084,Forte crescimento,Forte crescimento,Forte crescimento,Estabilidade,Forte crescimento,Forte crescimento,Forte crescimento
+4202099,Barra Bonita,SC,2023,18.621109777292034,Forte crescimento,Forte crescimento,Forte crescimento,Forte retração,Crescimento moderado,Forte retração,Retração
+4202107,Barra Velha,SC,2023,-3.358997206283987,Retração,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento
+4202131,Bela Vista do Toldo,SC,2023,31.320510274523162,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento
+4202156,Belmonte,SC,2023,16.72703102320976,Forte crescimento,Forte crescimento,Forte crescimento,Estabilidade,Forte crescimento,Forte crescimento,Forte crescimento
+4202206,Benedito Novo,SC,2023,7.374972984655281,Forte crescimento,Forte crescimento,Retração,Estabilidade,Crescimento moderado,Forte crescimento,Forte crescimento
+4202305,Biguaçu,SC,2023,18.597331918686532,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento
+4202404,Blumenau,SC,2023,9.129062423805866,Forte crescimento,Forte crescimento,Forte crescimento,Estabilidade,Forte crescimento,Forte crescimento,Forte crescimento
+4202438,Bocaina do Sul,SC,2023,10.068885989136046,Forte crescimento,Forte crescimento,Retração,Forte retração,Retração,Forte retração,Retração
+4202453,Bombinhas,SC,2023,22.042847115677276,Forte crescimento,Forte crescimento,Forte crescimento,Crescimento moderado,Forte crescimento,Forte crescimento,Forte crescimento
+4202503,Bom Jardim da Serra,SC,2023,25.12067481875695,Forte crescimento,Forte crescimento,Forte retração,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento
+4202537,Bom Jesus,SC,2023,4.208803705655573,Crescimento moderado,Forte crescimento,Forte crescimento,Forte retração,Forte crescimento,Forte crescimento,Forte crescimento
+4202578,Bom Jesus do Oeste,SC,2023,23.61934998746762,Forte crescimento,Forte crescimento,Forte crescimento,Estabilidade,Forte crescimento,Crescimento moderado,Crescimento moderado
+4202602,Bom Retiro,SC,2023,8.890299857438922,Forte crescimento,Forte crescimento,Retração,Estabilidade,Crescimento moderado,Crescimento moderado,Crescimento moderado
+4202701,Botuverá,SC,2023,19.206065820606575,Forte crescimento,Forte crescimento,Forte crescimento,Forte retração,Forte retração,Forte retração,Forte crescimento
+4202800,Braço do Norte,SC,2023,11.8858832113218,Forte crescimento,Forte crescimento,Forte crescimento,Estabilidade,Forte crescimento,Forte crescimento,Forte crescimento
+4202859,Braço do Trombudo,SC,2023,5.709443417095517,Forte crescimento,Forte crescimento,Crescimento moderado,Forte retração,Forte crescimento,Forte crescimento,Forte crescimento
+4202875,Brunópolis,SC,2023,27.19728204130023,Forte crescimento,Forte crescimento,Forte retração,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento
+4202909,Brusque,SC,2023,11.616688242565187,Forte crescimento,Forte crescimento,Forte crescimento,Estabilidade,Forte crescimento,Forte crescimento,Forte crescimento
+4203006,Caçador,SC,2023,9.204938719071553,Forte crescimento,Forte crescimento,Crescimento moderado,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento
+4203105,Caibi,SC,2023,12.586386261895143,Forte crescimento,Forte crescimento,Forte crescimento,Retração,Forte retração,Forte crescimento,Crescimento moderado
+4203154,Calmon,SC,2023,27.770005860445778,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento
+4203204,Camboriú,SC,2023,5.563219934796582,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento
+4203253,Capão Alto,SC,2023,44.746358200982094,Forte crescimento,Forte crescimento,Forte retração,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento
+4203303,Campo Alegre,SC,2023,13.231355716680593,Forte crescimento,Forte crescimento,Forte crescimento,Forte retração,Forte retração,Forte crescimento,Crescimento moderado
+4203402,Campo Belo do Sul,SC,2023,31.67076078436517,Forte crescimento,Forte crescimento,Forte retração,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento
+4203501,Campo Erê,SC,2023,9.247408520624045,Forte crescimento,Forte crescimento,Forte crescimento,Retração,Crescimento moderado,Forte retração,Retração
+4203600,Campos Novos,SC,2023,7.05241020549543,Forte crescimento,Forte crescimento,Forte crescimento,Forte retração,Crescimento moderado,Crescimento moderado,Crescimento moderado
+4203709,Canelinha,SC,2023,13.388483338232904,Forte crescimento,Forte crescimento,Forte crescimento,Estabilidade,Forte crescimento,Forte crescimento,Forte crescimento
+4203808,Canoinhas,SC,2023,14.12440733549618,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento
+4203907,Capinzal,SC,2023,15.765924750595017,Forte crescimento,Forte crescimento,Forte crescimento,Estabilidade,Crescimento moderado,Forte crescimento,Forte crescimento
+4203956,Capivari de Baixo,SC,2023,16.38539564031316,Forte crescimento,Forte crescimento,Forte retração,Estabilidade,Crescimento moderado,Forte retração,Forte crescimento
+4204004,Catanduvas,SC,2023,8.149091792566821,Forte crescimento,Forte crescimento,Forte crescimento,Forte retração,Crescimento moderado,Forte crescimento,Forte crescimento
+4204103,Caxambu do Sul,SC,2023,16.570988682929567,Forte crescimento,Forte crescimento,Forte crescimento,Forte retração,Forte retração,Retração,Retração
+4204152,Celso Ramos,SC,2023,15.648859536623071,Forte crescimento,Forte crescimento,Forte crescimento,Estabilidade,Crescimento moderado,Crescimento moderado,Crescimento moderado
+4204178,Cerro Negro,SC,2023,42.78361147571723,Forte crescimento,Forte crescimento,Forte retração,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento
+4204194,Chapadão do Lageado,SC,2023,32.47516906646495,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento
+4204202,Chapecó,SC,2023,12.830834474922103,Forte crescimento,Forte crescimento,Forte crescimento,Crescimento moderado,Forte crescimento,Forte crescimento,Forte crescimento
+4204251,Cocal do Sul,SC,2023,8.495929390093536,Forte crescimento,Forte crescimento,Forte crescimento,Estabilidade,Crescimento moderado,Crescimento moderado,Forte crescimento
+4204301,Concórdia,SC,2023,7.693266835354562,Forte crescimento,Forte crescimento,Forte crescimento,Estabilidade,Forte crescimento,Forte crescimento,Forte crescimento
+4204350,Cordilheira Alta,SC,2023,17.695019293426896,Forte crescimento,Forte crescimento,Crescimento moderado,Forte retração,Forte crescimento,Crescimento moderado,Forte crescimento
+4204400,Coronel Freitas,SC,2023,18.92436438598213,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento
+4204459,Coronel Martins,SC,2023,37.35761005364886,Forte crescimento,Forte crescimento,Forte retração,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento
+4204509,Corupá,SC,2023,25.941441065228553,Forte crescimento,Forte crescimento,Forte crescimento,Estabilidade,Forte crescimento,Forte crescimento,Forte crescimento
+4204558,Correia Pinto,SC,2023,17.429445285480426,Forte crescimento,Forte crescimento,Forte crescimento,Estabilidade,Forte crescimento,Crescimento moderado,Forte crescimento
+4204608,Criciúma,SC,2023,10.065286090583125,Forte crescimento,Forte crescimento,Forte crescimento,Estabilidade,Forte crescimento,Forte crescimento,Forte crescimento
+4204707,Cunha Porã,SC,2023,7.545429251919478,Forte crescimento,Forte crescimento,Forte crescimento,Forte retração,Forte crescimento,Forte retração,Forte crescimento
+4204756,Cunhataí,SC,2023,34.928513691017486,Forte crescimento,Forte crescimento,Forte crescimento,Crescimento moderado,Forte crescimento,Forte crescimento,Forte crescimento
+4204806,Curitibanos,SC,2023,-0.03302486842433616,Estabilidade,Forte crescimento,Forte crescimento,Estabilidade,Crescimento moderado,Forte crescimento,Forte crescimento
+4204905,Descanso,SC,2023,16.3159016193839,Forte crescimento,Forte crescimento,Forte crescimento,Crescimento moderado,Forte crescimento,Forte crescimento,Forte crescimento
+4205001,Dionísio Cerqueira,SC,2023,15.270679311805612,Forte crescimento,Forte crescimento,Forte retração,Crescimento moderado,Forte crescimento,Forte crescimento,Forte crescimento
+4205100,Dona Emma,SC,2023,4.3913316618465315,Crescimento moderado,Forte crescimento,Forte crescimento,Estabilidade,Crescimento moderado,Forte crescimento,Forte crescimento
+4205159,Doutor Pedrinho,SC,2023,11.45888851204031,Forte crescimento,Forte crescimento,Forte retração,Estabilidade,Crescimento moderado,Forte crescimento,Forte crescimento
+4205175,Entre Rios,SC,2023,11.972235731022597,Forte crescimento,Forte crescimento,Forte crescimento,Estabilidade,Forte crescimento,Forte crescimento,Forte crescimento
+4205191,Ermo,SC,2023,33.301837792438874,Forte crescimento,Forte crescimento,Crescimento moderado,Forte retração,Forte crescimento,Forte crescimento,Crescimento moderado
+4205209,Erval Velho,SC,2023,5.888331242158085,Forte crescimento,Forte crescimento,Forte crescimento,Estabilidade,Forte retração,Retração,Crescimento moderado
+4205308,Faxinal dos Guedes,SC,2023,5.304414657145018,Forte crescimento,Forte crescimento,Forte crescimento,Forte retração,Forte retração,Forte retração,Retração
+4205357,Flor do Sertão,SC,2023,20.0373967823708,Forte crescimento,Forte crescimento,Forte crescimento,Crescimento moderado,Forte crescimento,Forte crescimento,Forte crescimento
+4205407,Florianópolis,SC,2023,17.466223237002907,Forte crescimento,Forte crescimento,Forte crescimento,Estabilidade,Forte crescimento,Forte crescimento,Forte crescimento
+4205431,Formosa do Sul,SC,2023,20.300052801946777,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento
+4205456,Forquilhinha,SC,2023,13.987040985088317,Forte crescimento,Forte crescimento,Forte crescimento,Estabilidade,Forte crescimento,Forte crescimento,Forte crescimento
+4205506,Fraiburgo,SC,2023,15.119373534154734,Forte crescimento,Forte crescimento,Forte crescimento,Estabilidade,Forte crescimento,Forte crescimento,Crescimento moderado
+4205555,Frei Rogério,SC,2023,17.868448458976506,Forte crescimento,Forte crescimento,Forte retração,Forte retração,Forte retração,Forte retração,Retração
+4205605,Galvão,SC,2023,29.799894467670573,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento
+4205704,Garopaba,SC,2023,16.446605607879338,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento
+4205803,Garuva,SC,2023,12.127524163232284,Forte crescimento,Forte crescimento,Forte retração,Forte retração,Forte retração,Forte crescimento,Forte crescimento
+4205902,Gaspar,SC,2023,1.9150717975650933,Crescimento moderado,Forte crescimento,Forte crescimento,Estabilidade,Forte crescimento,Forte crescimento,Forte crescimento
+4206009,Governador Celso Ramos,SC,2023,19.236286053057405,Forte crescimento,Forte crescimento,Forte crescimento,Retração,Forte crescimento,Forte crescimento,Forte crescimento
+4206108,Grão-Pará,SC,2023,14.421384869652876,Forte crescimento,Forte crescimento,Forte crescimento,Estabilidade,Forte crescimento,Forte crescimento,Forte crescimento
+4206207,Gravatal,SC,2023,17.039269972416516,Forte crescimento,Forte crescimento,Estabilidade,Estabilidade,Forte crescimento,Crescimento moderado,Forte crescimento
+4206306,Guabiruba,SC,2023,12.307627481476624,Forte crescimento,Forte crescimento,Forte crescimento,Estabilidade,Forte crescimento,Forte crescimento,Forte crescimento
+4206405,Guaraciaba,SC,2023,20.871690299665644,Forte crescimento,Forte crescimento,Forte crescimento,Crescimento moderado,Forte crescimento,Forte crescimento,Forte crescimento
+4206504,Guaramirim,SC,2023,7.852026366541143,Forte crescimento,Forte crescimento,Forte crescimento,Estabilidade,Forte crescimento,Forte crescimento,Forte crescimento
+4206603,Guarujá do Sul,SC,2023,17.35786565252131,Forte crescimento,Forte crescimento,Forte crescimento,Crescimento moderado,Forte crescimento,Forte crescimento,Forte crescimento
+4206652,Guatambú,SC,2023,29.960985505294513,Forte crescimento,Forte crescimento,Forte crescimento,Forte retração,Forte retração,Forte crescimento,Forte crescimento
+4206702,Herval d'Oeste,SC,2023,8.843674546999925,Forte crescimento,Forte crescimento,Forte crescimento,Estabilidade,Crescimento moderado,Crescimento moderado,Forte crescimento
+4206751,Ibiam,SC,2023,21.815690857073776,Forte crescimento,Forte crescimento,Retração,Retração,Crescimento moderado,Forte crescimento,Crescimento moderado
+4206801,Ibicaré,SC,2023,12.471292545093293,Forte crescimento,Forte crescimento,Forte crescimento,Forte retração,Retração,Forte retração,Retração
+4206900,Ibirama,SC,2023,13.861357023235566,Forte crescimento,Forte crescimento,Forte crescimento,Estabilidade,Forte crescimento,Forte crescimento,Forte crescimento
+4207007,Içara,SC,2023,12.61277670011387,Forte crescimento,Forte crescimento,Forte crescimento,Estabilidade,Forte crescimento,Forte crescimento,Forte crescimento
+4207106,Ilhota,SC,2023,-3.801077688423782,Retração,Forte crescimento,Crescimento moderado,Estabilidade,Forte crescimento,Forte crescimento,Forte crescimento
+4207205,Imaruí,SC,2023,14.764303500386378,Forte crescimento,Forte crescimento,Forte crescimento,Estabilidade,Crescimento moderado,Crescimento moderado,Forte crescimento
+4207304,Imbituba,SC,2023,14.799827942650378,Forte crescimento,Forte crescimento,Forte crescimento,Retração,Forte crescimento,Forte crescimento,Forte crescimento
+4207403,Imbuia,SC,2023,9.622102799568989,Forte crescimento,Forte crescimento,Forte crescimento,Estabilidade,Crescimento moderado,Forte crescimento,Crescimento moderado
+4207502,Indaial,SC,2023,10.910330592921614,Forte crescimento,Forte crescimento,Forte crescimento,Estabilidade,Forte crescimento,Forte crescimento,Forte crescimento
+4207577,Iomerê,SC,2023,38.11055101686076,Forte crescimento,Forte crescimento,Forte crescimento,Forte retração,Forte retração,Retração,Retração
+4207601,Ipira,SC,2023,14.637646699162698,Forte crescimento,Forte crescimento,Forte crescimento,Estabilidade,Crescimento moderado,Crescimento moderado,Crescimento moderado
+4207650,Iporã do Oeste,SC,2023,18.802481230745173,Forte crescimento,Forte crescimento,Forte crescimento,Crescimento moderado,Forte crescimento,Crescimento moderado,Forte crescimento
+4207684,Ipuaçu,SC,2023,15.27263207165468,Forte crescimento,Forte crescimento,Forte crescimento,Estabilidade,Forte crescimento,Forte crescimento,Forte crescimento
+4207700,Ipumirim,SC,2023,8.889985656338206,Forte crescimento,Forte crescimento,Forte crescimento,Forte retração,Forte crescimento,Crescimento moderado,Forte crescimento
+4207759,Iraceminha,SC,2023,31.53916104876524,Forte crescimento,Forte crescimento,Forte crescimento,Estabilidade,Forte crescimento,Forte retração,Crescimento moderado
+4207809,Irani,SC,2023,9.02023818690485,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento,Crescimento moderado,Forte crescimento
+4207858,Irati,SC,2023,17.603029894762056,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento
+4207908,Irineópolis,SC,2023,19.53682312503522,Forte crescimento,Forte crescimento,Forte crescimento,Estabilidade,Forte crescimento,Forte crescimento,Forte crescimento
+4208005,Itá,SC,2023,12.769127662583335,Forte crescimento,Forte crescimento,Forte crescimento,Forte retração,Forte retração,Forte crescimento,Crescimento moderado
+4208104,Itaiópolis,SC,2023,19.690247200661904,Forte crescimento,Forte crescimento,Forte crescimento,Estabilidade,Forte crescimento,Forte crescimento,Forte crescimento
+4208203,Itajaí,SC,2023,-5.15733451068916,Forte retração,Forte crescimento,Forte crescimento,Forte retração,Forte crescimento,Forte crescimento,Forte crescimento
+4208302,Itapema,SC,2023,18.193072771668973,Forte crescimento,Forte crescimento,Forte crescimento,Estabilidade,Forte crescimento,Forte crescimento,Forte crescimento
+4208401,Itapiranga,SC,2023,11.424802132278366,Forte crescimento,Forte crescimento,Forte crescimento,Forte retração,Forte crescimento,Crescimento moderado,Crescimento moderado
+4208450,Itapoá,SC,2023,0.7028683849355177,Estabilidade,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento
+4208500,Ituporanga,SC,2023,11.810673316423292,Forte crescimento,Forte crescimento,Estabilidade,Estabilidade,Crescimento moderado,Forte crescimento,Forte crescimento
+4208609,Jaborá,SC,2023,12.247411351213078,Forte crescimento,Forte crescimento,Forte crescimento,Forte retração,Retração,Retração,Crescimento moderado
+4208708,Jacinto Machado,SC,2023,22.503911944917142,Forte crescimento,Forte crescimento,Forte crescimento,Estabilidade,Forte crescimento,Forte crescimento,Forte crescimento
+4208807,Jaguaruna,SC,2023,8.84832873351733,Forte crescimento,Forte crescimento,Retração,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento
+4208906,Jaraguá do Sul,SC,2023,12.564925686199647,Forte crescimento,Forte crescimento,Forte crescimento,Estabilidade,Forte crescimento,Forte crescimento,Forte crescimento
+4208955,Jardinópolis,SC,2023,15.467380245571483,Forte crescimento,Forte crescimento,Forte crescimento,Estabilidade,Crescimento moderado,Forte crescimento,Crescimento moderado
+4209003,Joaçaba,SC,2023,6.428528650939769,Forte crescimento,Forte crescimento,Forte crescimento,Estabilidade,Forte crescimento,Forte crescimento,Forte crescimento
+4209102,Joinville,SC,2023,9.458858684674198,Forte crescimento,Forte crescimento,Estabilidade,Estabilidade,Forte crescimento,Forte crescimento,Forte crescimento
+4209151,José Boiteux,SC,2023,22.463354816631487,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento
+4209177,Jupiá,SC,2023,14.492844132188388,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento
+4209201,Lacerdópolis,SC,2023,15.27635334676074,Forte crescimento,Forte crescimento,Forte crescimento,Forte retração,Forte retração,Retração,Retração
+4209300,Lages,SC,2023,10.628382848088203,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento
+4209409,Laguna,SC,2023,18.818139662402977,Forte crescimento,Forte crescimento,Forte crescimento,Estabilidade,Forte crescimento,Forte crescimento,Forte crescimento
+4209458,Lajeado Grande,SC,2023,32.110481930638926,Forte crescimento,Forte crescimento,Forte crescimento,Estabilidade,Forte crescimento,Retração,Forte crescimento
+4209508,Laurentino,SC,2023,2.2187445794201954,Crescimento moderado,Forte crescimento,Forte crescimento,Forte retração,Forte retração,Forte crescimento,Forte crescimento
+4209607,Lauro Müller,SC,2023,15.505608278865001,Forte crescimento,Forte crescimento,Estabilidade,Estabilidade,Forte crescimento,Crescimento moderado,Forte crescimento
+4209706,Lebon Régis,SC,2023,24.275143320454685,Forte crescimento,Forte crescimento,Forte retração,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento
+4209805,Leoberto Leal,SC,2023,10.351243567474032,Forte crescimento,Forte crescimento,Forte crescimento,Estabilidade,Retração,Estabilidade,Retração
+4209854,Lindóia do Sul,SC,2023,23.55927619609579,Forte crescimento,Forte crescimento,Forte crescimento,Crescimento moderado,Forte crescimento,Forte crescimento,Forte crescimento
+4209904,Lontras,SC,2023,9.760376372981682,Forte crescimento,Forte crescimento,Forte crescimento,Estabilidade,Forte crescimento,Forte crescimento,Forte crescimento
+4210001,Luiz Alves,SC,2023,21.389981322845976,Forte crescimento,Forte crescimento,Forte crescimento,Estabilidade,Forte crescimento,Forte crescimento,Forte crescimento
+4210035,Luzerna,SC,2023,6.372345751820685,Forte crescimento,Forte crescimento,Forte crescimento,Forte retração,Forte retração,Forte crescimento,Crescimento moderado
+4210050,Macieira,SC,2023,4.119694220530068,Crescimento moderado,Forte crescimento,Forte crescimento,Forte retração,Forte retração,Retração,Forte retração
+4210100,Mafra,SC,2023,8.971975714754144,Forte crescimento,Forte crescimento,Forte crescimento,Estabilidade,Forte crescimento,Forte crescimento,Crescimento moderado
+4210209,Major Gercino,SC,2023,17.373836088715144,Forte crescimento,Forte crescimento,Forte crescimento,Estabilidade,Crescimento moderado,Estabilidade,Forte crescimento
+4210308,Major Vieira,SC,2023,18.3353424191284,Forte crescimento,Forte crescimento,Forte crescimento,Estabilidade,Forte retração,Forte crescimento,Crescimento moderado
+4210407,Maracajá,SC,2023,11.307569910794824,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento
+4210506,Maravilha,SC,2023,11.061374709595317,Forte crescimento,Forte crescimento,Forte crescimento,Estabilidade,Forte crescimento,Forte crescimento,Forte crescimento
+4210555,Marema,SC,2023,11.058426584944648,Forte crescimento,Forte crescimento,Crescimento moderado,Forte retração,Forte crescimento,Forte retração,Forte retração
+4210605,Massaranduba,SC,2023,20.710716843117936,Forte crescimento,Forte crescimento,Forte crescimento,Estabilidade,Crescimento moderado,Forte crescimento,Forte crescimento
+4210704,Matos Costa,SC,2023,16.12113248118505,Forte crescimento,Forte crescimento,Forte crescimento,Estabilidade,Crescimento moderado,Crescimento moderado,Forte crescimento
+4210803,Meleiro,SC,2023,24.211233944796295,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento
+4210852,Mirim Doce,SC,2023,10.895986726122576,Forte crescimento,Forte crescimento,Forte crescimento,Forte retração,Retração,Retração,Retração
+4210902,Modelo,SC,2023,13.079211499430032,Forte crescimento,Forte crescimento,Forte crescimento,Estabilidade,Crescimento moderado,Forte crescimento,Crescimento moderado
+4211009,Mondaí,SC,2023,10.389339572709911,Forte crescimento,Forte crescimento,Crescimento moderado,Forte retração,Forte retração,Forte retração,Estabilidade
+4211058,Monte Carlo,SC,2023,30.392381044076178,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento
+4211108,Monte Castelo,SC,2023,8.822757111597369,Forte crescimento,Forte crescimento,Forte crescimento,Estabilidade,Crescimento moderado,Forte crescimento,Crescimento moderado
+4211207,Morro da Fumaça,SC,2023,10.87115606477591,Forte crescimento,Forte crescimento,Estabilidade,Estabilidade,Forte crescimento,Forte crescimento,Forte crescimento
+4211256,Morro Grande,SC,2023,11.709444434868054,Forte crescimento,Forte crescimento,Forte crescimento,Estabilidade,Forte crescimento,Forte crescimento,Forte crescimento
+4211306,Navegantes,SC,2023,10.79177087544303,Forte crescimento,Forte crescimento,Forte crescimento,Estabilidade,Forte crescimento,Forte crescimento,Forte crescimento
+4211405,Nova Erechim,SC,2023,4.3125988320207975,Crescimento moderado,Forte crescimento,Crescimento moderado,Forte retração,Crescimento moderado,Crescimento moderado,Crescimento moderado
+4211454,Nova Itaberaba,SC,2023,14.65091415158013,Forte crescimento,Forte crescimento,Forte retração,Crescimento moderado,Forte crescimento,Forte crescimento,Forte crescimento
+4211504,Nova Trento,SC,2023,17.736868347040623,Forte crescimento,Forte crescimento,Forte crescimento,Forte retração,Forte retração,Forte retração,Forte crescimento
+4211603,Nova Veneza,SC,2023,14.4532835770937,Forte crescimento,Forte crescimento,Forte crescimento,Estabilidade,Forte crescimento,Crescimento moderado,Forte crescimento
+4211652,Novo Horizonte,SC,2023,14.747411358644502,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento
+4211702,Orleans,SC,2023,10.596578041978134,Forte crescimento,Forte crescimento,Forte crescimento,Estabilidade,Forte crescimento,Forte crescimento,Forte crescimento
+4211751,Otacílio Costa,SC,2023,14.511523971504614,Forte crescimento,Forte crescimento,Forte crescimento,Forte retração,Crescimento moderado,Crescimento moderado,Crescimento moderado
+4211801,Ouro,SC,2023,17.686134043327527,Forte crescimento,Forte crescimento,Crescimento moderado,Crescimento moderado,Forte crescimento,Forte crescimento,Forte crescimento
+4211850,Ouro Verde,SC,2023,-3.6265571402780306,Retração,Forte crescimento,Forte crescimento,Forte retração,Forte retração,Forte retração,Forte retração
+4211876,Paial,SC,2023,-0.8545630441793017,Estabilidade,Forte crescimento,Forte crescimento,Forte retração,Forte retração,Crescimento moderado,Retração
+4211892,Painel,SC,2023,18.60375665106737,Forte crescimento,Forte crescimento,Forte crescimento,Estabilidade,Crescimento moderado,Forte crescimento,Crescimento moderado
+4211900,Palhoça,SC,2023,13.061024651126418,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento
+4212007,Palma Sola,SC,2023,9.200979502992922,Forte crescimento,Forte crescimento,Estabilidade,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento
+4212056,Palmeira,SC,2023,13.276433543254896,Forte crescimento,Forte crescimento,Retração,Forte retração,Forte crescimento,Forte crescimento,Forte crescimento
+4212106,Palmitos,SC,2023,18.596499473236918,Forte crescimento,Forte crescimento,Forte crescimento,Estabilidade,Forte crescimento,Crescimento moderado,Crescimento moderado
+4212205,Papanduva,SC,2023,12.803579788649056,Forte crescimento,Forte crescimento,Forte crescimento,Estabilidade,Forte retração,Forte crescimento,Crescimento moderado
+4212239,Paraíso,SC,2023,5.209450456598752,Forte crescimento,Forte crescimento,Forte crescimento,Estabilidade,Forte crescimento,Forte crescimento,Forte crescimento
+4212254,Passo de Torres,SC,2023,9.837717495298136,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento
+4212270,Passos Maia,SC,2023,24.73721412773331,Forte crescimento,Forte crescimento,Estabilidade,Estabilidade,Forte crescimento,Forte crescimento,Forte crescimento
+4212304,Paulo Lopes,SC,2023,39.63783301414778,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento
+4212403,Pedras Grandes,SC,2023,6.769835386917666,Forte crescimento,Forte crescimento,Forte crescimento,Forte retração,Forte crescimento,Forte crescimento,Crescimento moderado
+4212502,Penha,SC,2023,16.861892226425624,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento
+4212601,Peritiba,SC,2023,14.640469837427439,Forte crescimento,Forte crescimento,Forte crescimento,Retração,Forte retração,Forte crescimento,Estabilidade
+4212650,Pescaria Brava,SC,2023,18.73885580220176,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento
+4212700,Petrolândia,SC,2023,7.508720247970668,Forte crescimento,Forte crescimento,Forte crescimento,Forte retração,Retração,Retração,Retração
+4212809,Balneário Piçarras,SC,2023,32.111828157456834,Forte crescimento,Forte crescimento,Crescimento moderado,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento
+4212908,Pinhalzinho,SC,2023,11.669088836605045,Forte crescimento,Forte crescimento,Forte crescimento,Estabilidade,Forte crescimento,Forte crescimento,Forte crescimento
+4213005,Pinheiro Preto,SC,2023,33.64966733241535,Forte crescimento,Forte crescimento,Forte crescimento,Forte retração,Forte crescimento,Forte crescimento,Forte crescimento
+4213104,Piratuba,SC,2023,127.16512550796307,Forte crescimento,Forte crescimento,Forte retração,Estabilidade,Forte retração,Forte retração,Forte crescimento
+4213153,Planalto Alegre,SC,2023,-5.834695612371677,Forte retração,Forte crescimento,Forte crescimento,Forte retração,Retração,Forte retração,Retração
+4213203,Pomerode,SC,2023,7.440724397122933,Forte crescimento,Forte crescimento,Forte crescimento,Estabilidade,Forte crescimento,Forte crescimento,Forte crescimento
+4213302,Ponte Alta,SC,2023,20.06894335543805,Forte crescimento,Forte crescimento,Retração,Estabilidade,Crescimento moderado,Forte crescimento,Crescimento moderado
+4213351,Ponte Alta do Norte,SC,2023,3.2233883058470747,Crescimento moderado,Forte crescimento,Forte retração,Retração,Crescimento moderado,Forte crescimento,Forte crescimento
+4213401,Ponte Serrada,SC,2023,21.028374839219577,Forte crescimento,Forte crescimento,Forte crescimento,Estabilidade,Crescimento moderado,Crescimento moderado,Crescimento moderado
+4213500,Porto Belo,SC,2023,21.470960424929153,Forte crescimento,Forte crescimento,Forte crescimento,Estabilidade,Forte crescimento,Forte crescimento,Forte crescimento
+4213609,Porto União,SC,2023,-2.4051764063223624,Retração,Forte crescimento,Forte crescimento,Estabilidade,Forte crescimento,Forte crescimento,Forte crescimento
+4213708,Pouso Redondo,SC,2023,12.130988829533674,Forte crescimento,Forte crescimento,Forte crescimento,Estabilidade,Crescimento moderado,Crescimento moderado,Crescimento moderado
+4213807,Praia Grande,SC,2023,30.233741320711438,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento
+4213906,Presidente Castello Branco,SC,2023,8.58633370392543,Forte crescimento,Forte crescimento,Forte crescimento,Retração,Forte retração,Forte retração,Retração
+4214003,Presidente Getúlio,SC,2023,9.073336510020047,Forte crescimento,Forte crescimento,Crescimento moderado,Estabilidade,Forte crescimento,Forte crescimento,Forte crescimento
+4214102,Presidente Nereu,SC,2023,13.281674633813223,Forte crescimento,Forte crescimento,Forte crescimento,Estabilidade,Estabilidade,Retração,Estabilidade
+4214151,Princesa,SC,2023,-15.090041771305263,Forte retração,Forte crescimento,Forte crescimento,Forte retração,Forte crescimento,Forte retração,Estabilidade
+4214201,Quilombo,SC,2023,15.30605400254894,Forte crescimento,Forte crescimento,Forte crescimento,Estabilidade,Forte crescimento,Forte crescimento,Forte crescimento
+4214300,Rancho Queimado,SC,2023,36.745028860808105,Forte crescimento,Forte crescimento,Estabilidade,Retração,Forte crescimento,Retração,Forte crescimento
+4214409,Rio das Antas,SC,2023,9.622184378822073,Forte crescimento,Forte crescimento,Crescimento moderado,Retração,Crescimento moderado,Crescimento moderado,Crescimento moderado
+4214508,Rio do Campo,SC,2023,10.196783679165344,Forte crescimento,Forte crescimento,Forte crescimento,Estabilidade,Crescimento moderado,Forte retração,Crescimento moderado
+4214607,Rio do Oeste,SC,2023,17.511786293189722,Forte crescimento,Forte crescimento,Forte crescimento,Estabilidade,Crescimento moderado,Crescimento moderado,Crescimento moderado
+4214706,Rio dos Cedros,SC,2023,11.805876566037288,Forte crescimento,Forte crescimento,Forte crescimento,Estabilidade,Forte crescimento,Forte crescimento,Forte crescimento
+4214805,Rio do Sul,SC,2023,7.3141391319167415,Forte crescimento,Forte crescimento,Forte crescimento,Estabilidade,Forte crescimento,Forte crescimento,Forte crescimento
+4214904,Rio Fortuna,SC,2023,18.43737107676684,Forte crescimento,Forte crescimento,Crescimento moderado,Estabilidade,Forte crescimento,Forte crescimento,Forte crescimento
+4215000,Rio Negrinho,SC,2023,1.328665150521391,Crescimento moderado,Forte crescimento,Forte crescimento,Estabilidade,Crescimento moderado,Forte crescimento,Forte crescimento
+4215059,Rio Rufino,SC,2023,12.012036340489551,Forte crescimento,Forte crescimento,Forte crescimento,Retração,Retração,Retração,Retração
+4215075,Riqueza,SC,2023,17.109544468546645,Forte crescimento,Forte crescimento,Forte crescimento,Estabilidade,Crescimento moderado,Forte crescimento,Crescimento moderado
+4215109,Rodeio,SC,2023,0.91889096622777,Estabilidade,Forte crescimento,Forte crescimento,Estabilidade,Forte crescimento,Forte crescimento,Forte crescimento
+4215208,Romelândia,SC,2023,17.48253608028083,Forte crescimento,Forte crescimento,Crescimento moderado,Crescimento moderado,Forte crescimento,Forte crescimento,Forte crescimento
+4215307,Salete,SC,2023,11.624000791797906,Forte crescimento,Forte crescimento,Forte crescimento,Estabilidade,Forte retração,Forte crescimento,Crescimento moderado
+4215356,Saltinho,SC,2023,16.344582736570313,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento
+4215406,Salto Veloso,SC,2023,13.23611323741616,Forte crescimento,Forte crescimento,Forte crescimento,Forte retração,Forte retração,Forte crescimento,Estabilidade
+4215455,Sangão,SC,2023,23.001400063862555,Forte crescimento,Forte crescimento,Forte crescimento,Estabilidade,Forte crescimento,Forte crescimento,Forte crescimento
+4215505,Santa Cecília,SC,2023,-0.8764453828845387,Estabilidade,Forte crescimento,Crescimento moderado,Retração,Crescimento moderado,Estabilidade,Crescimento moderado
+4215554,Santa Helena,SC,2023,5.323206391128532,Forte crescimento,Forte crescimento,Forte crescimento,Forte retração,Forte crescimento,Forte retração,Crescimento moderado
+4215604,Santa Rosa de Lima,SC,2023,22.281271417817372,Forte crescimento,Forte crescimento,Forte crescimento,Estabilidade,Forte crescimento,Retração,Forte crescimento
+4215653,Santa Rosa do Sul,SC,2023,21.106913190293785,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento
+4215679,Santa Terezinha,SC,2023,27.423893769121822,Forte crescimento,Forte crescimento,Estabilidade,Estabilidade,Forte crescimento,Forte crescimento,Forte crescimento
+4215687,Santa Terezinha do Progresso,SC,2023,-3.526988944287879,Retração,Forte crescimento,Forte crescimento,Forte retração,Forte retração,Forte retração,Retração
+4215695,Santiago do Sul,SC,2023,19.664493865030686,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento
+4215703,Santo Amaro da Imperatriz,SC,2023,27.021812506805066,Forte crescimento,Forte crescimento,Forte crescimento,Estabilidade,Forte crescimento,Forte crescimento,Forte crescimento
+4215752,São Bernardino,SC,2023,8.789072090031524,Forte crescimento,Forte crescimento,Forte crescimento,Estabilidade,Forte crescimento,Forte retração,Forte crescimento
+4215802,São Bento do Sul,SC,2023,4.801497525895515,Crescimento moderado,Forte crescimento,Crescimento moderado,Estabilidade,Forte crescimento,Forte crescimento,Forte crescimento
+4215901,São Bonifácio,SC,2023,16.06482797839068,Forte crescimento,Forte crescimento,Forte crescimento,Forte retração,Forte retração,Forte retração,Forte retração
+4216008,São Carlos,SC,2023,21.34510064901365,Forte crescimento,Forte crescimento,Forte crescimento,Forte retração,Forte retração,Crescimento moderado,Retração
+4216057,São Cristóvão do Sul,SC,2023,4.864839008004429,Crescimento moderado,Forte crescimento,Forte retração,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento
+4216107,São Domingos,SC,2023,6.958632810084353,Forte crescimento,Forte crescimento,Forte crescimento,Estabilidade,Crescimento moderado,Forte retração,Crescimento moderado
+4216206,São Francisco do Sul,SC,2023,-4.327486439133422,Retração,Forte crescimento,Forte retração,Forte retração,Forte crescimento,Forte retração,Forte crescimento
+4216255,São João do Oeste,SC,2023,13.538822075903688,Forte crescimento,Forte crescimento,Forte crescimento,Forte retração,Forte crescimento,Crescimento moderado,Crescimento moderado
+4216305,São João Batista,SC,2023,3.5609800658513935,Crescimento moderado,Forte crescimento,Forte crescimento,Estabilidade,Forte crescimento,Forte crescimento,Forte crescimento
+4216354,São João do Itaperiú,SC,2023,14.73511725721075,Forte crescimento,Forte crescimento,Forte crescimento,Forte retração,Forte crescimento,Forte crescimento,Forte crescimento
+4216404,São João do Sul,SC,2023,35.37277690063123,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento
+4216503,São Joaquim,SC,2023,25.145258920760362,Forte crescimento,Forte crescimento,Crescimento moderado,Estabilidade,Forte crescimento,Forte crescimento,Forte crescimento
+4216602,São José,SC,2023,7.6643403647268515,Forte crescimento,Forte crescimento,Crescimento moderado,Crescimento moderado,Forte crescimento,Forte crescimento,Forte crescimento
+4216701,São José do Cedro,SC,2023,14.741605023860638,Forte crescimento,Forte crescimento,Crescimento moderado,Crescimento moderado,Forte crescimento,Forte crescimento,Forte crescimento
+4216800,São José do Cerrito,SC,2023,22.663275188788813,Forte crescimento,Forte crescimento,Forte retração,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento
+4216909,São Lourenço do Oeste,SC,2023,18.40070957971147,Forte crescimento,Forte crescimento,Forte crescimento,Crescimento moderado,Forte crescimento,Forte crescimento,Forte crescimento
+4217006,São Ludgero,SC,2023,18.34972845334231,Forte crescimento,Forte crescimento,Forte crescimento,Forte retração,Forte crescimento,Crescimento moderado,Forte crescimento
+4217105,São Martinho,SC,2023,18.769139741098773,Forte crescimento,Forte crescimento,Forte crescimento,Estabilidade,Forte crescimento,Forte crescimento,Forte crescimento
+4217154,São Miguel da Boa Vista,SC,2023,41.89043832353732,Forte crescimento,Forte crescimento,Crescimento moderado,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento
+4217204,São Miguel do Oeste,SC,2023,22.489701130617235,Forte crescimento,Forte crescimento,Forte crescimento,Crescimento moderado,Forte crescimento,Forte crescimento,Forte crescimento
+4217253,São Pedro de Alcântara,SC,2023,31.407990218229177,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento
+4217303,Saudades,SC,2023,17.728903155821452,Forte crescimento,Forte crescimento,Forte crescimento,Forte retração,Crescimento moderado,Forte retração,Estabilidade
+4217402,Schroeder,SC,2023,10.352361778217055,Forte crescimento,Forte crescimento,Forte crescimento,Estabilidade,Crescimento moderado,Forte crescimento,Forte crescimento
+4217501,Seara,SC,2023,15.454342733527815,Forte crescimento,Forte crescimento,Forte crescimento,Forte retração,Forte crescimento,Crescimento moderado,Forte crescimento
+4217550,Serra Alta,SC,2023,17.352292540783253,Forte crescimento,Forte crescimento,Forte crescimento,Estabilidade,Crescimento moderado,Crescimento moderado,Crescimento moderado
+4217600,Siderópolis,SC,2023,14.626987315944406,Forte crescimento,Forte crescimento,Crescimento moderado,Estabilidade,Crescimento moderado,Crescimento moderado,Forte crescimento
+4217709,Sombrio,SC,2023,21.049031781473836,Forte crescimento,Forte crescimento,Forte crescimento,Estabilidade,Forte crescimento,Forte crescimento,Forte crescimento
+4217758,Sul Brasil,SC,2023,28.907797868568696,Forte crescimento,Forte crescimento,Forte crescimento,Estabilidade,Forte crescimento,Forte crescimento,Forte crescimento
+4217808,Taió,SC,2023,10.944737761621282,Forte crescimento,Forte crescimento,Forte crescimento,Estabilidade,Crescimento moderado,Forte crescimento,Crescimento moderado
+4217907,Tangará,SC,2023,22.05531528233975,Forte crescimento,Forte crescimento,Crescimento moderado,Forte retração,Forte crescimento,Forte crescimento,Crescimento moderado
+4217956,Tigrinhos,SC,2023,12.23196138211382,Forte crescimento,Forte crescimento,Forte crescimento,Crescimento moderado,Forte crescimento,Forte crescimento,Forte crescimento
+4218004,Tijucas,SC,2023,23.8645980064347,Forte crescimento,Forte crescimento,Forte crescimento,Estabilidade,Forte crescimento,Forte crescimento,Forte crescimento
+4218103,Timbé do Sul,SC,2023,26.814013547026903,Forte crescimento,Forte crescimento,Estabilidade,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento
+4218202,Timbó,SC,2023,5.525829732059018,Forte crescimento,Forte crescimento,Crescimento moderado,Estabilidade,Forte crescimento,Forte crescimento,Forte crescimento
+4218251,Timbó Grande,SC,2023,10.046700258080365,Forte crescimento,Forte crescimento,Forte retração,Retração,Crescimento moderado,Forte crescimento,Forte crescimento
+4218301,Três Barras,SC,2023,14.491518076467358,Forte crescimento,Forte crescimento,Forte crescimento,Forte retração,Forte retração,Forte crescimento,Crescimento moderado
+4218350,Treviso,SC,2023,10.522718558814859,Forte crescimento,Forte crescimento,Forte retração,Estabilidade,Forte retração,Forte retração,Forte crescimento
+4218400,Treze de Maio,SC,2023,11.106956033969206,Forte crescimento,Forte crescimento,Forte crescimento,Estabilidade,Forte crescimento,Forte crescimento,Forte crescimento
+4218509,Treze Tílias,SC,2023,21.447876232033437,Forte crescimento,Forte crescimento,Forte crescimento,Forte retração,Forte crescimento,Forte crescimento,Forte crescimento
+4218608,Trombudo Central,SC,2023,4.14433554601692,Crescimento moderado,Forte crescimento,Retração,Forte retração,Forte retração,Forte crescimento,Crescimento moderado
+4218707,Tubarão,SC,2023,12.564941045476585,Forte crescimento,Forte crescimento,Forte crescimento,Estabilidade,Forte crescimento,Forte crescimento,Forte crescimento
+4218756,Tunápolis,SC,2023,20.609178670338267,Forte crescimento,Forte crescimento,Crescimento moderado,Estabilidade,Forte crescimento,Crescimento moderado,Forte crescimento
+4218806,Turvo,SC,2023,20.974460596488154,Forte crescimento,Forte crescimento,Forte crescimento,Estabilidade,Forte crescimento,Forte crescimento,Forte crescimento
+4218855,União do Oeste,SC,2023,14.219609070809437,Forte crescimento,Forte crescimento,Forte crescimento,Forte retração,Retração,Forte retração,Retração
+4218905,Urubici,SC,2023,21.16642096557959,Forte crescimento,Forte crescimento,Forte crescimento,Estabilidade,Crescimento moderado,Crescimento moderado,Crescimento moderado
+4218954,Urupema,SC,2023,54.7971259509721,Forte crescimento,Forte crescimento,Retração,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento
+4219002,Urussanga,SC,2023,-4.449224578679023,Retração,Forte crescimento,Forte crescimento,Estabilidade,Crescimento moderado,Forte crescimento,Crescimento moderado
+4219101,Vargeão,SC,2023,17.169309601909898,Forte crescimento,Forte crescimento,Forte crescimento,Forte retração,Forte retração,Forte retração,Retração
+4219150,Vargem,SC,2023,15.356858766701631,Forte crescimento,Forte crescimento,Forte retração,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento
+4219176,Vargem Bonita,SC,2023,10.468613028995065,Forte crescimento,Forte crescimento,Forte crescimento,Forte retração,Forte retração,Forte retração,Retração
+4219200,Vidal Ramos,SC,2023,11.550736542965922,Forte crescimento,Forte crescimento,Crescimento moderado,Estabilidade,Forte crescimento,Forte crescimento,Forte crescimento
+4219309,Videira,SC,2023,7.356791465371093,Forte crescimento,Forte crescimento,Forte crescimento,Estabilidade,Forte crescimento,Forte crescimento,Forte crescimento
+4219358,Vitor Meireles,SC,2023,18.154486022344727,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento
+4219408,Witmarsum,SC,2023,4.774287166885571,Crescimento moderado,Forte crescimento,Forte crescimento,Estabilidade,Crescimento moderado,Crescimento moderado,Forte crescimento
+4219507,Xanxerê,SC,2023,8.99673103191143,Forte crescimento,Forte crescimento,Forte crescimento,Crescimento moderado,Forte crescimento,Forte crescimento,Forte crescimento
+4219606,Xavantina,SC,2023,22.21231480755663,Forte crescimento,Forte crescimento,Retração,Estabilidade,Forte retração,Forte crescimento,Crescimento moderado
+4219705,Xaxim,SC,2023,11.139135246124464,Forte crescimento,Forte crescimento,Forte crescimento,Crescimento moderado,Forte crescimento,Forte crescimento,Forte crescimento
+4219853,Zortéa,SC,2023,-3.653821460672557,Retração,Forte crescimento,Forte crescimento,Forte retração,Forte retração,Forte retração,Forte retração
+4220000,Balneário Rincão,SC,2023,18.516345749766614,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento
+4300034,Aceguá,RS,2023,31.365293367829004,Forte crescimento,Forte crescimento,Forte retração,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento
+4300059,Água Santa,RS,2023,-12.884152887231936,Forte retração,Forte crescimento,Forte retração,Forte retração,Forte retração,Forte retração,Forte retração
+4300109,Agudo,RS,2023,20.330319491873116,Forte crescimento,Forte crescimento,Retração,Estabilidade,Crescimento moderado,Crescimento moderado,Crescimento moderado
+4300208,Ajuricaba,RS,2023,1.0281279799379428,Crescimento moderado,Forte crescimento,Forte retração,Retração,Retração,Retração,Estabilidade
+4300307,Alecrim,RS,2023,11.499655460051494,Forte crescimento,Forte crescimento,Forte retração,Forte crescimento,Crescimento moderado,Forte crescimento,Forte crescimento
+4300406,Alegrete,RS,2023,18.36797148815281,Forte crescimento,Forte crescimento,Forte retração,Forte crescimento,Crescimento moderado,Forte crescimento,Forte crescimento
+4300455,Alegria,RS,2023,13.617504403649816,Forte crescimento,Forte crescimento,Forte retração,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento
+4300471,Almirante Tamandaré do Sul,RS,2023,-16.565286475371533,Forte retração,Forte crescimento,Retração,Forte retração,Forte retração,Forte retração,Forte retração
+4300505,Alpestre,RS,2023,18.020528087786026,Forte crescimento,Forte crescimento,Forte crescimento,Estabilidade,Forte crescimento,Forte crescimento,Forte crescimento
+4300554,Alto Alegre,RS,2023,6.753709898465932,Forte crescimento,Forte crescimento,Forte retração,Estabilidade,Retração,Crescimento moderado,Crescimento moderado
+4300570,Alto Feliz,RS,2023,16.461072832953107,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento,Crescimento moderado,Forte crescimento,Forte crescimento
+4300604,Alvorada,RS,2023,17.015717190308564,Forte crescimento,Forte crescimento,Forte crescimento,Estabilidade,Crescimento moderado,Crescimento moderado,Forte crescimento
+4300638,Amaral Ferrador,RS,2023,18.13646637209587,Forte crescimento,Forte crescimento,Estabilidade,Estabilidade,Forte crescimento,Forte crescimento,Forte crescimento
+4300646,Ametista do Sul,RS,2023,12.013432055269613,Forte crescimento,Forte crescimento,Crescimento moderado,Forte crescimento,Crescimento moderado,Crescimento moderado,Forte crescimento
+4300661,André da Rocha,RS,2023,6.44790359980234,Forte crescimento,Forte crescimento,Forte retração,Estabilidade,Retração,Forte crescimento,Crescimento moderado
+4300703,Anta Gorda,RS,2023,12.78457836544482,Forte crescimento,Forte crescimento,Forte retração,Estabilidade,Forte crescimento,Forte crescimento,Forte crescimento
+4300802,Antônio Prado,RS,2023,12.74271903735038,Forte crescimento,Forte crescimento,Crescimento moderado,Crescimento moderado,Forte crescimento,Forte crescimento,Forte crescimento
+4300851,Arambaré,RS,2023,-0.13894411026604825,Estabilidade,Forte crescimento,Forte retração,Forte retração,Forte retração,Forte retração,Forte retração
+4300877,Araricá,RS,2023,11.626693211943984,Forte crescimento,Forte crescimento,Forte crescimento,Estabilidade,Crescimento moderado,Retração,Forte crescimento
+4300901,Aratiba,RS,2023,0.5416378245585385,Estabilidade,Forte crescimento,Forte crescimento,Forte retração,Forte retração,Forte retração,Retração
+4301008,Arroio do Meio,RS,2023,9.09910638288316,Forte crescimento,Forte crescimento,Forte crescimento,Estabilidade,Crescimento moderado,Crescimento moderado,Forte crescimento
+4301057,Arroio do Sal,RS,2023,14.75668870820166,Forte crescimento,Forte crescimento,Forte crescimento,Estabilidade,Crescimento moderado,Crescimento moderado,Forte crescimento
+4301073,Arroio do Padre,RS,2023,21.947861671760926,Forte crescimento,Forte crescimento,Crescimento moderado,Estabilidade,Forte crescimento,Forte crescimento,Forte crescimento
+4301107,Arroio dos Ratos,RS,2023,13.09650141864569,Forte crescimento,Forte crescimento,Estabilidade,Estabilidade,Crescimento moderado,Crescimento moderado,Forte crescimento
+4301206,Arroio do Tigre,RS,2023,17.288955601592825,Forte crescimento,Forte crescimento,Forte retração,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento
+4301305,Arroio Grande,RS,2023,-4.020279337939259,Retração,Forte crescimento,Forte retração,Forte retração,Forte retração,Forte retração,Forte retração
+4301404,Arvorezinha,RS,2023,16.94671313877474,Forte crescimento,Forte crescimento,Crescimento moderado,Estabilidade,Forte crescimento,Crescimento moderado,Forte crescimento
+4301503,Augusto Pestana,RS,2023,2.0337681155203624,Crescimento moderado,Forte crescimento,Forte retração,Estabilidade,Retração,Crescimento moderado,Crescimento moderado
+4301552,Áurea,RS,2023,14.53719514159606,Forte crescimento,Forte crescimento,Forte retração,Retração,Retração,Retração,Crescimento moderado
+4301602,Bagé,RS,2023,6.7466458272078755,Forte crescimento,Forte crescimento,Forte crescimento,Estabilidade,Retração,Crescimento moderado,Crescimento moderado
+4301636,Balneário Pinhal,RS,2023,0.14037429136533053,Estabilidade,Forte crescimento,Forte crescimento,Estabilidade,Crescimento moderado,Forte crescimento,Forte crescimento
+4301651,Barão,RS,2023,44.81944144634551,Forte crescimento,Forte crescimento,Crescimento moderado,Crescimento moderado,Crescimento moderado,Crescimento moderado,Forte crescimento
+4301701,Barão de Cotegipe,RS,2023,7.1116666556730435,Forte crescimento,Forte crescimento,Forte retração,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento
+4301750,Barão do Triunfo,RS,2023,-9.410215970084712,Forte retração,Forte crescimento,Forte crescimento,Forte retração,Forte retração,Forte retração,Forte retração
+4301800,Barracão,RS,2023,18.288451681583417,Forte crescimento,Forte crescimento,Forte retração,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento
+4301859,Barra do Guarita,RS,2023,24.272456800583207,Forte crescimento,Forte crescimento,Forte retração,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento
+4301875,Barra do Quaraí,RS,2023,43.59109414868125,Forte crescimento,Forte crescimento,Forte retração,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento
+4301909,Barra do Ribeiro,RS,2023,18.7817113606908,Forte crescimento,Forte crescimento,Retração,Estabilidade,Crescimento moderado,Crescimento moderado,Forte crescimento
+4301925,Barra do Rio Azul,RS,2023,11.41187981225984,Forte crescimento,Forte crescimento,Forte retração,Retração,Forte retração,Forte retração,Forte retração
+4301958,Barra Funda,RS,2023,5.378402029728213,Forte crescimento,Forte crescimento,Retração,Retração,Forte retração,Forte retração,Retração
+4302006,Barros Cassal,RS,2023,23.226736224908983,Forte crescimento,Forte crescimento,Forte retração,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento
+4302055,Benjamin Constant do Sul,RS,2023,8.935187203068473,Forte crescimento,Forte crescimento,Forte retração,Estabilidade,Crescimento moderado,Crescimento moderado,Crescimento moderado
+4302105,Bento Gonçalves,RS,2023,16.78998481778833,Forte crescimento,Forte crescimento,Crescimento moderado,Crescimento moderado,Crescimento moderado,Crescimento moderado,Forte crescimento
+4302154,Boa Vista das Missões,RS,2023,6.5695316970521,Forte crescimento,Forte crescimento,Forte retração,Estabilidade,Retração,Crescimento moderado,Crescimento moderado
+4302204,Boa Vista do Buricá,RS,2023,13.025240886474986,Forte crescimento,Forte crescimento,Retração,Crescimento moderado,Crescimento moderado,Crescimento moderado,Forte crescimento
+4302220,Boa Vista do Cadeado,RS,2023,17.273177427201336,Forte crescimento,Forte crescimento,Forte retração,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento
+4302238,Boa Vista do Incra,RS,2023,1.205747722847561,Crescimento moderado,Forte crescimento,Forte retração,Estabilidade,Retração,Estabilidade,Crescimento moderado
+4302253,Boa Vista do Sul,RS,2023,5.1683010866684365,Forte crescimento,Forte crescimento,Forte crescimento,Retração,Crescimento moderado,Crescimento moderado,Crescimento moderado
+4302303,Bom Jesus,RS,2023,37.301100670768236,Forte crescimento,Forte crescimento,Forte retração,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento
+4302352,Bom Princípio,RS,2023,9.915548174062994,Forte crescimento,Forte crescimento,Retração,Estabilidade,Crescimento moderado,Crescimento moderado,Forte crescimento
+4302378,Bom Progresso,RS,2023,13.441647526706024,Forte crescimento,Forte crescimento,Forte retração,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento
+4302402,Bom Retiro do Sul,RS,2023,17.163885779433773,Forte crescimento,Forte crescimento,Forte crescimento,Crescimento moderado,Crescimento moderado,Crescimento moderado,Forte crescimento
+4302451,Boqueirão do Leão,RS,2023,29.451858789250494,Forte crescimento,Forte crescimento,Crescimento moderado,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento
+4302501,Bossoroca,RS,2023,-3.9696136937682813,Retração,Forte crescimento,Forte retração,Retração,Forte retração,Forte retração,Forte retração
+4302584,Bozano,RS,2023,-10.280970625798213,Forte retração,Forte crescimento,Forte retração,Retração,Retração,Estabilidade,Crescimento moderado
+4302600,Braga,RS,2023,13.251029658298318,Forte crescimento,Forte crescimento,Forte retração,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento
+4302659,Brochier,RS,2023,16.37821048648933,Forte crescimento,Forte crescimento,Retração,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento
+4302709,Butiá,RS,2023,3.939038472112766,Crescimento moderado,Forte crescimento,Estabilidade,Estabilidade,Retração,Retração,Estabilidade
+4302808,Caçapava do Sul,RS,2023,9.775389366799313,Forte crescimento,Forte crescimento,Retração,Forte crescimento,Crescimento moderado,Crescimento moderado,Forte crescimento
+4302907,Cacequi,RS,2023,35.823245248296296,Forte crescimento,Forte crescimento,Forte retração,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento
+4303004,Cachoeira do Sul,RS,2023,-1.0830802634860581,Retração,Forte crescimento,Retração,Estabilidade,Retração,Retração,Estabilidade
+4303103,Cachoeirinha,RS,2023,9.68982534086793,Forte crescimento,Forte crescimento,Forte crescimento,Crescimento moderado,Crescimento moderado,Crescimento moderado,Forte crescimento
+4303202,Cacique Doble,RS,2023,13.485116416150888,Forte crescimento,Forte crescimento,Forte retração,Estabilidade,Crescimento moderado,Forte crescimento,Forte crescimento
+4303301,Caibaté,RS,2023,1.1794132657353185,Crescimento moderado,Forte crescimento,Forte retração,Estabilidade,Forte retração,Retração,Estabilidade
+4303400,Caiçara,RS,2023,29.314904526595864,Forte crescimento,Forte crescimento,Forte retração,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento
+4303509,Camaquã,RS,2023,10.724842880979836,Forte crescimento,Forte crescimento,Crescimento moderado,Estabilidade,Forte retração,Retração,Estabilidade
+4303558,Camargo,RS,2023,1.1543556320464665,Crescimento moderado,Forte crescimento,Forte crescimento,Forte retração,Forte crescimento,Forte crescimento,Forte crescimento
+4303608,Cambará do Sul,RS,2023,10.99008743535066,Forte crescimento,Forte crescimento,Crescimento moderado,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento
+4303673,Campestre da Serra,RS,2023,28.251344515514056,Forte crescimento,Forte crescimento,Forte retração,Estabilidade,Forte crescimento,Forte crescimento,Forte crescimento
+4303707,Campina das Missões,RS,2023,17.095637882784253,Forte crescimento,Forte crescimento,Forte retração,Forte crescimento,Crescimento moderado,Crescimento moderado,Forte crescimento
+4303806,Campinas do Sul,RS,2023,-10.67669127380566,Forte retração,Forte crescimento,Forte retração,Forte retração,Forte retração,Forte retração,Forte retração
+4303905,Campo Bom,RS,2023,16.22344636791866,Forte crescimento,Forte crescimento,Forte crescimento,Estabilidade,Crescimento moderado,Crescimento moderado,Forte crescimento
+4304002,Campo Novo,RS,2023,9.263984970126614,Forte crescimento,Forte crescimento,Forte retração,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento
+4304101,Campos Borges,RS,2023,1.8000639764256476,Crescimento moderado,Forte crescimento,Forte retração,Estabilidade,Crescimento moderado,Crescimento moderado,Forte crescimento
+4304200,Candelária,RS,2023,11.547913101770968,Forte crescimento,Forte crescimento,Crescimento moderado,Estabilidade,Estabilidade,Crescimento moderado,Crescimento moderado
+4304309,Cândido Godói,RS,2023,13.780946601941757,Forte crescimento,Forte crescimento,Forte retração,Estabilidade,Retração,Retração,Crescimento moderado
+4304358,Candiota,RS,2023,-21.539636384454784,Forte retração,Forte crescimento,Forte retração,Forte retração,Forte retração,Forte retração,Forte retração
+4304408,Canela,RS,2023,9.924830924269434,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento
+4304507,Canguçu,RS,2023,10.423437597348673,Forte crescimento,Forte crescimento,Estabilidade,Estabilidade,Crescimento moderado,Estabilidade,Crescimento moderado
+4304606,Canoas,RS,2023,1.207106896766752,Crescimento moderado,Forte crescimento,Forte crescimento,Estabilidade,Forte retração,Crescimento moderado,Crescimento moderado
+4304614,Canudos do Vale,RS,2023,20.914902838979987,Forte crescimento,Forte crescimento,Forte retração,Crescimento moderado,Crescimento moderado,Forte crescimento,Forte crescimento
+4304622,Capão Bonito do Sul,RS,2023,-4.261373390557943,Retração,Forte crescimento,Forte retração,Retração,Retração,Retração,Forte retração
+4304630,Capão da Canoa,RS,2023,21.381116749364516,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento
+4304655,Capão do Cipó,RS,2023,-20.377484066526318,Forte retração,Forte crescimento,Forte retração,Forte retração,Forte retração,Forte retração,Forte retração
+4304663,Capão do Leão,RS,2023,8.860840169889928,Forte crescimento,Forte crescimento,Forte retração,Estabilidade,Forte retração,Retração,Estabilidade
+4304671,Capivari do Sul,RS,2023,1.6887660016498218,Crescimento moderado,Forte crescimento,Crescimento moderado,Forte retração,Retração,Crescimento moderado,Retração
+4304689,Capela de Santana,RS,2023,14.631376532907625,Forte crescimento,Forte crescimento,Forte retração,Estabilidade,Crescimento moderado,Crescimento moderado,Forte crescimento
+4304697,Capitão,RS,2023,5.702283061426638,Forte crescimento,Forte crescimento,Forte retração,Estabilidade,Crescimento moderado,Retração,Crescimento moderado
+4304705,Carazinho,RS,2023,-12.165522423905827,Forte retração,Forte crescimento,Forte crescimento,Estabilidade,Retração,Crescimento moderado,Crescimento moderado
+4304713,Caraá,RS,2023,19.172436655691747,Forte crescimento,Forte crescimento,Forte retração,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento
+4304804,Carlos Barbosa,RS,2023,12.73750472069166,Forte crescimento,Forte crescimento,Retração,Estabilidade,Forte retração,Retração,Forte crescimento
+4304853,Carlos Gomes,RS,2023,13.528665698582799,Forte crescimento,Forte crescimento,Forte retração,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento
+4304903,Casca,RS,2023,17.195885061069838,Forte crescimento,Forte crescimento,Crescimento moderado,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento
+4304952,Caseiros,RS,2023,7.174272076661081,Forte crescimento,Forte crescimento,Forte retração,Estabilidade,Crescimento moderado,Forte crescimento,Forte crescimento
+4305009,Catuípe,RS,2023,-0.028695889431440413,Estabilidade,Forte crescimento,Forte retração,Retração,Forte retração,Forte retração,Retração
+4305108,Caxias do Sul,RS,2023,10.24545763760436,Forte crescimento,Forte crescimento,Forte crescimento,Crescimento moderado,Crescimento moderado,Crescimento moderado,Forte crescimento
+4305116,Centenário,RS,2023,27.932085960836382,Forte crescimento,Forte crescimento,Forte retração,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento
+4305124,Cerrito,RS,2023,-17.325231795175632,Forte retração,Forte crescimento,Retração,Forte retração,Forte retração,Forte retração,Forte retração
+4305132,Cerro Branco,RS,2023,19.738051470588225,Forte crescimento,Forte crescimento,Retração,Estabilidade,Estabilidade,Forte retração,Crescimento moderado
+4305157,Cerro Grande,RS,2023,-5.529033143693852,Forte retração,Forte crescimento,Forte retração,Forte retração,Forte retração,Forte retração,Forte retração
+4305173,Cerro Grande do Sul,RS,2023,15.66593584759659,Forte crescimento,Forte crescimento,Forte crescimento,Estabilidade,Retração,Retração,Retração
+4305207,Cerro Largo,RS,2023,2.8372382260666518,Crescimento moderado,Forte crescimento,Retração,Estabilidade,Crescimento moderado,Crescimento moderado,Forte crescimento
+4305306,Chapada,RS,2023,-2.553897663114968,Retração,Forte crescimento,Forte retração,Forte retração,Forte retração,Forte retração,Forte retração
+4305355,Charqueadas,RS,2023,1.5741805085107252,Crescimento moderado,Forte crescimento,Forte crescimento,Estabilidade,Crescimento moderado,Retração,Forte crescimento
+4305371,Charrua,RS,2023,-1.8329127374153265,Retração,Forte crescimento,Forte retração,Retração,Forte retração,Forte retração,Retração
+4305405,Chiapetta,RS,2023,10.210210210210203,Forte crescimento,Forte crescimento,Forte retração,Estabilidade,Retração,Crescimento moderado,Forte crescimento
+4305439,Chuí,RS,2023,23.537842273800113,Forte crescimento,Forte crescimento,Forte crescimento,Estabilidade,Crescimento moderado,Crescimento moderado,Forte crescimento
+4305447,Chuvisca,RS,2023,14.741609324533078,Forte crescimento,Forte crescimento,Forte crescimento,Estabilidade,Retração,Retração,Retração
+4305454,Cidreira,RS,2023,11.565446504703436,Forte crescimento,Forte crescimento,Estabilidade,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento
+4305504,Ciríaco,RS,2023,3.295215167017762,Crescimento moderado,Forte crescimento,Forte retração,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento
+4305587,Colinas,RS,2023,17.780875819207576,Forte crescimento,Forte crescimento,Forte retração,Estabilidade,Crescimento moderado,Forte crescimento,Forte crescimento
+4305603,Colorado,RS,2023,-17.720299383864702,Forte retração,Forte crescimento,Forte retração,Forte retração,Forte retração,Forte retração,Forte retração
+4305702,Condor,RS,2023,-6.518582379664961,Forte retração,Forte crescimento,Forte retração,Forte retração,Forte retração,Forte retração,Forte retração
+4305801,Constantina,RS,2023,6.5531574776304335,Forte crescimento,Forte crescimento,Crescimento moderado,Retração,Retração,Retração,Estabilidade
+4305835,Coqueiro Baixo,RS,2023,20.44081281582626,Forte crescimento,Forte crescimento,Forte retração,Estabilidade,Retração,Retração,Crescimento moderado
+4305850,Coqueiros do Sul,RS,2023,-9.858525977892253,Forte retração,Forte crescimento,Forte retração,Forte retração,Forte retração,Forte retração,Forte retração
+4305871,Coronel Barros,RS,2023,-21.119320688134103,Forte retração,Forte crescimento,Forte retração,Retração,Forte retração,Forte retração,Forte retração
+4305900,Coronel Bicaco,RS,2023,10.502457187063463,Forte crescimento,Forte crescimento,Forte retração,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento
+4305934,Coronel Pilar,RS,2023,26.570899989117414,Forte crescimento,Forte crescimento,Forte retração,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento
+4305959,Cotiporã,RS,2023,22.269383472631233,Forte crescimento,Forte crescimento,Estabilidade,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento
+4305975,Coxilha,RS,2023,16.704414112868204,Forte crescimento,Forte crescimento,Forte retração,Estabilidade,Forte crescimento,Forte crescimento,Forte crescimento
+4306007,Crissiumal,RS,2023,1.5292454762440677,Crescimento moderado,Forte crescimento,Retração,Estabilidade,Crescimento moderado,Estabilidade,Crescimento moderado
+4306056,Cristal,RS,2023,-9.515981405207508,Forte retração,Forte crescimento,Forte crescimento,Forte retração,Forte retração,Forte retração,Forte retração
+4306072,Cristal do Sul,RS,2023,15.297619047619037,Forte crescimento,Forte crescimento,Forte retração,Estabilidade,Crescimento moderado,Crescimento moderado,Crescimento moderado
+4306106,Cruz Alta,RS,2023,6.763730353448061,Forte crescimento,Forte crescimento,Forte retração,Estabilidade,Estabilidade,Crescimento moderado,Forte crescimento
+4306130,Cruzaltense,RS,2023,-1.34708304348643,Retração,Forte crescimento,Forte retração,Retração,Forte retração,Forte retração,Retração
+4306205,Cruzeiro do Sul,RS,2023,3.3174784210978414,Crescimento moderado,Forte crescimento,Forte crescimento,Estabilidade,Forte retração,Forte crescimento,Forte crescimento
+4306304,David Canabarro,RS,2023,7.068553270331535,Forte crescimento,Forte crescimento,Forte retração,Estabilidade,Retração,Retração,Crescimento moderado
+4306320,Derrubadas,RS,2023,12.543550671924653,Forte crescimento,Forte crescimento,Forte retração,Estabilidade,Forte crescimento,Forte crescimento,Forte crescimento
+4306353,Dezesseis de Novembro,RS,2023,5.5449487795364405,Forte crescimento,Forte crescimento,Forte retração,Estabilidade,Retração,Retração,Estabilidade
+4306379,Dilermando de Aguiar,RS,2023,12.695054365330583,Forte crescimento,Forte crescimento,Forte retração,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento
+4306403,Dois Irmãos,RS,2023,5.490577869112889,Forte crescimento,Forte crescimento,Forte crescimento,Estabilidade,Crescimento moderado,Crescimento moderado,Forte crescimento
+4306429,Dois Irmãos das Missões,RS,2023,-0.6085657606676786,Estabilidade,Forte crescimento,Forte retração,Retração,Retração,Forte retração,Retração
+4306452,Dois Lajeados,RS,2023,5.087170656976814,Forte crescimento,Forte crescimento,Forte retração,Estabilidade,Retração,Retração,Crescimento moderado
+4306502,Dom Feliciano,RS,2023,22.581732587214166,Forte crescimento,Forte crescimento,Retração,Estabilidade,Retração,Retração,Estabilidade
+4306551,Dom Pedro de Alcântara,RS,2023,19.174881759644414,Forte crescimento,Forte crescimento,Forte crescimento,Estabilidade,Forte crescimento,Crescimento moderado,Forte crescimento
+4306601,Dom Pedrito,RS,2023,14.353824518055847,Forte crescimento,Forte crescimento,Forte retração,Estabilidade,Crescimento moderado,Forte crescimento,Forte crescimento
+4306700,Dona Francisca,RS,2023,24.41349948999956,Forte crescimento,Forte crescimento,Forte retração,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento
+4306734,Doutor Maurício Cardoso,RS,2023,-3.3193140281995603,Retração,Forte crescimento,Forte retração,Retração,Forte retração,Forte retração,Retração
+4306759,Doutor Ricardo,RS,2023,18.500904899668424,Forte crescimento,Forte crescimento,Retração,Crescimento moderado,Crescimento moderado,Forte crescimento,Forte crescimento
+4306767,Eldorado do Sul,RS,2023,7.411610811209157,Forte crescimento,Forte crescimento,Forte crescimento,Estabilidade,Crescimento moderado,Crescimento moderado,Forte crescimento
+4306809,Encantado,RS,2023,14.689054817328383,Forte crescimento,Forte crescimento,Forte crescimento,Crescimento moderado,Crescimento moderado,Crescimento moderado,Forte crescimento
+4306908,Encruzilhada do Sul,RS,2023,7.771408587625284,Forte crescimento,Forte crescimento,Crescimento moderado,Estabilidade,Crescimento moderado,Crescimento moderado,Crescimento moderado
+4306924,Engenho Velho,RS,2023,-6.507000736919677,Forte retração,Forte crescimento,Forte retração,Retração,Retração,Forte retração,Retração
+4306932,Entre-Ijuís,RS,2023,-1.7927482176067877,Retração,Forte crescimento,Forte retração,Estabilidade,Retração,Forte retração,Crescimento moderado
+4306957,Entre Rios do Sul,RS,2023,-1.2906384000225923,Retração,Forte crescimento,Crescimento moderado,Estabilidade,Forte retração,Forte retração,Forte crescimento
+4306973,Erebango,RS,2023,-24.897753541580226,Forte retração,Forte crescimento,Forte crescimento,Forte retração,Forte retração,Forte retração,Forte retração
+4307005,Erechim,RS,2023,10.583144746546246,Forte crescimento,Forte crescimento,Forte crescimento,Estabilidade,Crescimento moderado,Crescimento moderado,Crescimento moderado
+4307054,Ernestina,RS,2023,-11.228314123385442,Forte retração,Forte crescimento,Forte retração,Retração,Forte retração,Retração,Retração
+4307104,Herval,RS,2023,0.24333958441218329,Estabilidade,Forte crescimento,Forte retração,Forte retração,Forte retração,Forte retração,Forte retração
+4307203,Erval Grande,RS,2023,6.567880401824566,Forte crescimento,Forte crescimento,Estabilidade,Estabilidade,Crescimento moderado,Crescimento moderado,Crescimento moderado
+4307302,Erval Seco,RS,2023,9.505199297263921,Forte crescimento,Forte crescimento,Forte retração,Forte crescimento,Crescimento moderado,Forte crescimento,Forte crescimento
+4307401,Esmeralda,RS,2023,21.775035818057663,Forte crescimento,Forte crescimento,Forte retração,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento
+4307450,Esperança do Sul,RS,2023,9.684192298534612,Forte crescimento,Forte crescimento,Forte retração,Estabilidade,Retração,Retração,Crescimento moderado
+4307500,Espumoso,RS,2023,-2.267764304974651,Retração,Forte crescimento,Forte retração,Estabilidade,Retração,Retração,Crescimento moderado
+4307559,Estação,RS,2023,-8.355675944608754,Forte retração,Forte crescimento,Forte crescimento,Retração,Forte retração,Forte retração,Retração
+4307609,Estância Velha,RS,2023,15.930652344497176,Forte crescimento,Forte crescimento,Forte crescimento,Estabilidade,Crescimento moderado,Estabilidade,Forte crescimento
+4307708,Esteio,RS,2023,-7.037169211454741,Forte retração,Forte crescimento,Forte crescimento,Retração,Crescimento moderado,Crescimento moderado,Crescimento moderado
+4307807,Estrela,RS,2023,8.177607098385597,Forte crescimento,Forte crescimento,Crescimento moderado,Estabilidade,Crescimento moderado,Crescimento moderado,Crescimento moderado
+4307815,Estrela Velha,RS,2023,7.328117959060054,Forte crescimento,Forte crescimento,Forte retração,Estabilidade,Crescimento moderado,Forte crescimento,Forte crescimento
+4307831,Eugênio de Castro,RS,2023,-7.854394354769312,Forte retração,Forte crescimento,Forte retração,Retração,Forte retração,Forte retração,Forte retração
+4307864,Fagundes Varela,RS,2023,7.417151845376524,Forte crescimento,Forte crescimento,Forte retração,Estabilidade,Retração,Retração,Crescimento moderado
+4307906,Farroupilha,RS,2023,8.307451602345694,Forte crescimento,Forte crescimento,Crescimento moderado,Crescimento moderado,Crescimento moderado,Crescimento moderado,Forte crescimento
+4308003,Faxinal do Soturno,RS,2023,18.102264860053396,Forte crescimento,Forte crescimento,Forte retração,Forte crescimento,Crescimento moderado,Forte crescimento,Forte crescimento
+4308052,Faxinalzinho,RS,2023,42.461357168824975,Forte crescimento,Forte crescimento,Forte retração,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento
+4308078,Fazenda Vilanova,RS,2023,15.15448361944336,Forte crescimento,Forte crescimento,Forte retração,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento
+4308102,Feliz,RS,2023,14.810377683466736,Forte crescimento,Forte crescimento,Estabilidade,Estabilidade,Crescimento moderado,Crescimento moderado,Forte crescimento
+4308201,Flores da Cunha,RS,2023,17.321131488545127,Forte crescimento,Forte crescimento,Forte crescimento,Estabilidade,Crescimento moderado,Forte crescimento,Forte crescimento
+4308250,Floriano Peixoto,RS,2023,-7.454478066976722,Forte retração,Forte crescimento,Forte retração,Forte retração,Forte retração,Forte retração,Forte retração
+4308300,Fontoura Xavier,RS,2023,13.279381452265193,Forte crescimento,Forte crescimento,Crescimento moderado,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento
+4308409,Formigueiro,RS,2023,17.82326689018303,Forte crescimento,Forte crescimento,Forte retração,Forte crescimento,Crescimento moderado,Forte crescimento,Forte crescimento
+4308433,Forquetinha,RS,2023,21.09886809453194,Forte crescimento,Forte crescimento,Forte retração,Estabilidade,Crescimento moderado,Forte crescimento,Forte crescimento
+4308458,Fortaleza dos Valos,RS,2023,-1.4815079464322922,Retração,Forte crescimento,Forte retração,Estabilidade,Retração,Estabilidade,Estabilidade
+4308508,Frederico Westphalen,RS,2023,14.260287394901194,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento,Crescimento moderado,Crescimento moderado,Forte crescimento
+4308607,Garibaldi,RS,2023,13.702316720396169,Forte crescimento,Forte crescimento,Crescimento moderado,Estabilidade,Crescimento moderado,Crescimento moderado,Forte crescimento
+4308656,Garruchos,RS,2023,5.242644129753882,Forte crescimento,Forte crescimento,Forte retração,Estabilidade,Retração,Retração,Crescimento moderado
+4308706,Gaurama,RS,2023,17.14422847783257,Forte crescimento,Forte crescimento,Forte crescimento,Retração,Retração,Retração,Retração
+4308805,General Câmara,RS,2023,1.6812344692164638,Crescimento moderado,Forte crescimento,Forte retração,Forte retração,Forte retração,Forte retração,Forte retração
+4308854,Gentil,RS,2023,5.182585628031,Forte crescimento,Forte crescimento,Forte retração,Estabilidade,Forte crescimento,Forte crescimento,Forte crescimento
+4308904,Getúlio Vargas,RS,2023,7.576544802166296,Forte crescimento,Forte crescimento,Crescimento moderado,Estabilidade,Retração,Retração,Estabilidade
+4309001,Giruá,RS,2023,8.269380562614126,Forte crescimento,Forte crescimento,Forte retração,Estabilidade,Estabilidade,Retração,Crescimento moderado
+4309050,Glorinha,RS,2023,52.95403689688038,Forte crescimento,Forte crescimento,Forte retração,Crescimento moderado,Crescimento moderado,Forte crescimento,Forte crescimento
+4309100,Gramado,RS,2023,13.531563502224087,Forte crescimento,Forte crescimento,Forte crescimento,Estabilidade,Crescimento moderado,Retração,Forte crescimento
+4309126,Gramado dos Loureiros,RS,2023,29.22162225959695,Forte crescimento,Forte crescimento,Forte retração,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento
+4309159,Gramado Xavier,RS,2023,14.483635325220856,Forte crescimento,Forte crescimento,Estabilidade,Estabilidade,Retração,Retração,Retração
+4309209,Gravataí,RS,2023,19.529937041624535,Forte crescimento,Forte crescimento,Forte crescimento,Estabilidade,Crescimento moderado,Crescimento moderado,Crescimento moderado
+4309258,Guabiju,RS,2023,15.078974928933242,Forte crescimento,Forte crescimento,Forte retração,Retração,Forte retração,Forte retração,Forte retração
+4309308,Guaíba,RS,2023,8.235496824459165,Forte crescimento,Forte crescimento,Estabilidade,Crescimento moderado,Crescimento moderado,Crescimento moderado,Forte crescimento
+4309407,Guaporé,RS,2023,12.553059493388098,Forte crescimento,Forte crescimento,Retração,Estabilidade,Crescimento moderado,Crescimento moderado,Forte crescimento
+4309506,Guarani das Missões,RS,2023,3.8751712268624283,Crescimento moderado,Forte crescimento,Forte retração,Estabilidade,Retração,Crescimento moderado,Crescimento moderado
+4309555,Harmonia,RS,2023,17.603267470507333,Forte crescimento,Forte crescimento,Forte crescimento,Estabilidade,Crescimento moderado,Retração,Forte crescimento
+4309571,Herveiras,RS,2023,39.52450067838325,Forte crescimento,Forte crescimento,Forte retração,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento
+4309605,Horizontina,RS,2023,-50.84084594458829,Forte retração,Forte crescimento,Forte crescimento,Forte retração,Forte retração,Forte retração,Retração
+4309654,Hulha Negra,RS,2023,-0.5881484184280694,Estabilidade,Forte crescimento,Forte retração,Forte retração,Forte retração,Forte retração,Forte retração
+4309704,Humaitá,RS,2023,9.972761664564933,Forte crescimento,Forte crescimento,Forte retração,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento
+4309753,Ibarama,RS,2023,5.528095733610816,Forte crescimento,Forte crescimento,Forte retração,Retração,Forte retração,Forte retração,Forte retração
+4309803,Ibiaçá,RS,2023,22.364799554383264,Forte crescimento,Forte crescimento,Forte retração,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento
+4309902,Ibiraiaras,RS,2023,9.820623916811089,Forte crescimento,Forte crescimento,Forte retração,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento
+4309951,Ibirapuitã,RS,2023,10.860827233400517,Forte crescimento,Forte crescimento,Forte retração,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento
+4310009,Ibirubá,RS,2023,-0.7720765081924874,Estabilidade,Forte crescimento,Estabilidade,Estabilidade,Retração,Crescimento moderado,Crescimento moderado
+4310108,Igrejinha,RS,2023,21.323061561658264,Forte crescimento,Forte crescimento,Forte crescimento,Estabilidade,Forte crescimento,Forte crescimento,Forte crescimento
+4310207,Ijuí,RS,2023,11.315959135092246,Forte crescimento,Forte crescimento,Forte crescimento,Estabilidade,Crescimento moderado,Crescimento moderado,Crescimento moderado
+4310306,Ilópolis,RS,2023,27.27791971225464,Forte crescimento,Forte crescimento,Forte retração,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento
+4310330,Imbé,RS,2023,13.692772906858375,Forte crescimento,Forte crescimento,Forte crescimento,Estabilidade,Forte crescimento,Forte crescimento,Forte crescimento
+4310363,Imigrante,RS,2023,-9.399928498985021,Forte retração,Forte crescimento,Forte crescimento,Forte retração,Forte retração,Forte retração,Retração
+4310405,Independência,RS,2023,14.715207058665335,Forte crescimento,Forte crescimento,Forte retração,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento
+4310413,Inhacorá,RS,2023,3.717179396671111,Crescimento moderado,Forte crescimento,Forte retração,Retração,Retração,Estabilidade,Forte crescimento
+4310439,Ipê,RS,2023,60.69706475373295,Forte crescimento,Forte crescimento,Forte retração,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento
+4310462,Ipiranga do Sul,RS,2023,-27.508811420786074,Forte retração,Forte crescimento,Retração,Forte retração,Forte retração,Forte retração,Forte retração
+4310504,Iraí,RS,2023,6.968409431169031,Forte crescimento,Forte crescimento,Forte retração,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento
+4310538,Itaara,RS,2023,13.239936858721379,Forte crescimento,Forte crescimento,Forte retração,Retração,Retração,Retração,Crescimento moderado
+4310553,Itacurubi,RS,2023,26.592340821274753,Forte crescimento,Forte crescimento,Forte retração,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento
+4310579,Itapuca,RS,2023,4.70194613282775,Crescimento moderado,Forte crescimento,Retração,Estabilidade,Forte crescimento,Forte crescimento,Forte crescimento
+4310603,Itaqui,RS,2023,18.098416726745082,Forte crescimento,Forte crescimento,Forte retração,Estabilidade,Crescimento moderado,Crescimento moderado,Forte crescimento
+4310652,Itati,RS,2023,24.031258614696817,Forte crescimento,Forte crescimento,Retração,Estabilidade,Crescimento moderado,Estabilidade,Crescimento moderado
+4310702,Itatiba do Sul,RS,2023,16.293654697491398,Forte crescimento,Forte crescimento,Forte retração,Estabilidade,Forte crescimento,Forte crescimento,Forte crescimento
+4310751,Ivorá,RS,2023,11.188508542340747,Forte crescimento,Forte crescimento,Forte retração,Estabilidade,Crescimento moderado,Crescimento moderado,Forte crescimento
+4310801,Ivoti,RS,2023,13.014268539958751,Forte crescimento,Forte crescimento,Forte crescimento,Estabilidade,Crescimento moderado,Estabilidade,Forte crescimento
+4310850,Jaboticaba,RS,2023,-8.948795797229991,Forte retração,Forte crescimento,Forte retração,Forte retração,Forte retração,Forte retração,Forte retração
+4310876,Jacuizinho,RS,2023,9.979787327533174,Forte crescimento,Forte crescimento,Forte retração,Forte crescimento,Retração,Forte crescimento,Forte crescimento
+4310900,Jacutinga,RS,2023,-16.082277073604622,Forte retração,Forte crescimento,Retração,Forte retração,Forte retração,Forte retração,Forte retração
+4311007,Jaguarão,RS,2023,8.457305761390188,Forte crescimento,Forte crescimento,Forte retração,Estabilidade,Forte retração,Retração,Estabilidade
+4311106,Jaguari,RS,2023,12.01668653158523,Forte crescimento,Forte crescimento,Forte retração,Forte crescimento,Crescimento moderado,Forte crescimento,Forte crescimento
+4311122,Jaquirana,RS,2023,21.074100060650025,Forte crescimento,Forte crescimento,Forte retração,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento
+4311130,Jari,RS,2023,-11.749620536086603,Forte retração,Forte crescimento,Forte retração,Forte retração,Forte retração,Forte retração,Forte retração
+4311155,Jóia,RS,2023,-23.7500881772009,Forte retração,Forte crescimento,Forte retração,Forte retração,Forte retração,Forte retração,Forte retração
+4311205,Júlio de Castilhos,RS,2023,-7.389982900677239,Forte retração,Forte crescimento,Forte retração,Estabilidade,Estabilidade,Crescimento moderado,Crescimento moderado
+4311239,Lagoa Bonita do Sul,RS,2023,37.0721783709008,Forte crescimento,Forte crescimento,Forte retração,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento
+4311254,Lagoão,RS,2023,29.988109599979175,Forte crescimento,Forte crescimento,Forte retração,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento
+4311270,Lagoa dos Três Cantos,RS,2023,-13.490436436648,Forte retração,Forte crescimento,Forte retração,Forte retração,Forte retração,Forte retração,Forte retração
+4311304,Lagoa Vermelha,RS,2023,6.592134854547638,Forte crescimento,Forte crescimento,Estabilidade,Estabilidade,Retração,Retração,Crescimento moderado
+4311403,Lajeado,RS,2023,9.755591330174717,Forte crescimento,Forte crescimento,Forte crescimento,Crescimento moderado,Crescimento moderado,Crescimento moderado,Forte crescimento
+4311429,Lajeado do Bugre,RS,2023,10.176968798935837,Forte crescimento,Forte crescimento,Forte retração,Estabilidade,Retração,Crescimento moderado,Crescimento moderado
+4311502,Lavras do Sul,RS,2023,-3.2244981264784034,Retração,Forte crescimento,Forte retração,Forte retração,Forte retração,Forte retração,Forte retração
+4311601,Liberato Salzano,RS,2023,11.284463894967178,Forte crescimento,Forte crescimento,Forte retração,Estabilidade,Retração,Crescimento moderado,Crescimento moderado
+4311627,Lindolfo Collor,RS,2023,8.915682718288487,Forte crescimento,Forte crescimento,Forte retração,Estabilidade,Forte retração,Forte retração,Forte crescimento
+4311643,Linha Nova,RS,2023,15.728527141207227,Forte crescimento,Forte crescimento,Estabilidade,Estabilidade,Crescimento moderado,Crescimento moderado,Crescimento moderado
+4311700,Machadinho,RS,2023,3.3804346103247784,Crescimento moderado,Forte crescimento,Forte retração,Retração,Retração,Retração,Crescimento moderado
+4311718,Maçambará,RS,2023,30.41951101943021,Forte crescimento,Forte crescimento,Forte retração,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento
+4311734,Mampituba,RS,2023,27.593596369595353,Forte crescimento,Forte crescimento,Forte crescimento,Estabilidade,Crescimento moderado,Crescimento moderado,Crescimento moderado
+4311759,Manoel Viana,RS,2023,-13.35808745822742,Forte retração,Forte crescimento,Forte retração,Forte retração,Forte retração,Forte retração,Forte retração
+4311775,Maquiné,RS,2023,14.155962112365383,Forte crescimento,Forte crescimento,Forte crescimento,Estabilidade,Crescimento moderado,Crescimento moderado,Forte crescimento
+4311791,Maratá,RS,2023,35.21545512379418,Forte crescimento,Forte crescimento,Retração,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento
+4311809,Marau,RS,2023,10.16658950505862,Forte crescimento,Forte crescimento,Forte crescimento,Estabilidade,Crescimento moderado,Crescimento moderado,Forte crescimento
+4311908,Marcelino Ramos,RS,2023,18.936866814924635,Forte crescimento,Forte crescimento,Retração,Estabilidade,Crescimento moderado,Crescimento moderado,Forte crescimento
+4311981,Mariana Pimentel,RS,2023,28.053009795288265,Forte crescimento,Forte crescimento,Forte retração,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento
+4312005,Mariano Moro,RS,2023,6.482707326143555,Forte crescimento,Forte crescimento,Forte retração,Retração,Forte retração,Retração,Retração
+4312054,Marques de Souza,RS,2023,11.325673848445827,Forte crescimento,Forte crescimento,Estabilidade,Estabilidade,Crescimento moderado,Crescimento moderado,Forte crescimento
+4312104,Mata,RS,2023,18.216219521308762,Forte crescimento,Forte crescimento,Forte retração,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento
+4312138,Mato Castelhano,RS,2023,14.760569417900582,Forte crescimento,Forte crescimento,Forte retração,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento
+4312153,Mato Leitão,RS,2023,30.45058428724914,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento
+4312179,Mato Queimado,RS,2023,6.432788923034427,Forte crescimento,Forte crescimento,Forte retração,Retração,Forte retração,Forte retração,Retração
+4312203,Maximiliano de Almeida,RS,2023,3.076376554174076,Crescimento moderado,Forte crescimento,Retração,Retração,Retração,Retração,Estabilidade
+4312252,Minas do Leão,RS,2023,13.141926430401195,Forte crescimento,Forte crescimento,Forte retração,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento
+4312302,Miraguaí,RS,2023,7.316459894821881,Forte crescimento,Forte crescimento,Retração,Estabilidade,Crescimento moderado,Crescimento moderado,Crescimento moderado
+4312351,Montauri,RS,2023,22.543170070966777,Forte crescimento,Forte crescimento,Forte retração,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento
+4312377,Monte Alegre dos Campos,RS,2023,29.98589656742441,Forte crescimento,Forte crescimento,Forte retração,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento
+4312385,Monte Belo do Sul,RS,2023,29.630273231863757,Forte crescimento,Forte crescimento,Crescimento moderado,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento
+4312401,Montenegro,RS,2023,-18.680010551083846,Forte retração,Forte crescimento,Forte crescimento,Estabilidade,Crescimento moderado,Retração,Crescimento moderado
+4312427,Mormaço,RS,2023,-10.164847228687101,Forte retração,Forte crescimento,Forte retração,Retração,Forte retração,Forte retração,Forte retração
+4312443,Morrinhos do Sul,RS,2023,24.850961945415186,Forte crescimento,Forte crescimento,Crescimento moderado,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento
+4312450,Morro Redondo,RS,2023,5.63303574506222,Forte crescimento,Forte crescimento,Forte crescimento,Estabilidade,Retração,Crescimento moderado,Crescimento moderado
+4312476,Morro Reuter,RS,2023,9.39996257862088,Forte crescimento,Forte crescimento,Crescimento moderado,Estabilidade,Crescimento moderado,Retração,Crescimento moderado
+4312500,Mostardas,RS,2023,-0.5916148350134653,Estabilidade,Forte crescimento,Forte retração,Retração,Forte retração,Forte retração,Forte retração
+4312609,Muçum,RS,2023,1.566807606280607,Crescimento moderado,Forte crescimento,Forte retração,Estabilidade,Crescimento moderado,Crescimento moderado,Crescimento moderado
+4312617,Muitos Capões,RS,2023,11.57734314275718,Forte crescimento,Forte crescimento,Forte retração,Forte retração,Forte retração,Forte retração,Forte retração
+4312625,Muliterno,RS,2023,37.41769805564674,Forte crescimento,Forte crescimento,Forte retração,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento
+4312658,Não-Me-Toque,RS,2023,7.023901240834229,Forte crescimento,Forte crescimento,Forte crescimento,Forte retração,Forte retração,Crescimento moderado,Estabilidade
+4312674,Nicolau Vergueiro,RS,2023,1.3063376778430058,Crescimento moderado,Forte crescimento,Forte retração,Forte crescimento,Estabilidade,Forte crescimento,Forte crescimento
+4312708,Nonoai,RS,2023,4.977627437966992,Crescimento moderado,Forte crescimento,Retração,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento
+4312757,Nova Alvorada,RS,2023,1.0568983636090712,Crescimento moderado,Forte crescimento,Forte retração,Estabilidade,Crescimento moderado,Crescimento moderado,Forte crescimento
+4312807,Nova Araçá,RS,2023,37.368678407851384,Forte crescimento,Forte crescimento,Forte crescimento,Crescimento moderado,Retração,Crescimento moderado,Forte crescimento
+4312906,Nova Bassano,RS,2023,-5.448006525446769,Forte retração,Forte crescimento,Estabilidade,Estabilidade,Crescimento moderado,Forte crescimento,Forte crescimento
+4312955,Nova Boa Vista,RS,2023,-1.134414890182034,Retração,Forte crescimento,Retração,Forte retração,Forte retração,Forte retração,Forte retração
+4313003,Nova Bréscia,RS,2023,20.844648154833845,Forte crescimento,Forte crescimento,Forte retração,Estabilidade,Crescimento moderado,Retração,Forte crescimento
+4313011,Nova Candelária,RS,2023,14.615372906381442,Forte crescimento,Forte crescimento,Forte retração,Estabilidade,Crescimento moderado,Crescimento moderado,Forte crescimento
+4313037,Nova Esperança do Sul,RS,2023,48.28363931616222,Forte crescimento,Forte crescimento,Forte retração,Estabilidade,Crescimento moderado,Crescimento moderado,Forte crescimento
+4313060,Nova Hartz,RS,2023,17.84702359596149,Forte crescimento,Forte crescimento,Forte crescimento,Estabilidade,Crescimento moderado,Forte retração,Crescimento moderado
+4313086,Nova Pádua,RS,2023,21.876676167138175,Forte crescimento,Forte crescimento,Forte retração,Estabilidade,Forte crescimento,Forte crescimento,Forte crescimento
+4313102,Nova Palma,RS,2023,-0.3468433359314127,Estabilidade,Forte crescimento,Forte retração,Crescimento moderado,Crescimento moderado,Crescimento moderado,Forte crescimento
+4313201,Nova Petrópolis,RS,2023,5.614532383877102,Forte crescimento,Forte crescimento,Forte crescimento,Crescimento moderado,Crescimento moderado,Crescimento moderado,Forte crescimento
+4313300,Nova Prata,RS,2023,7.5637231569434915,Forte crescimento,Forte crescimento,Forte retração,Estabilidade,Crescimento moderado,Crescimento moderado,Forte crescimento
+4313334,Nova Ramada,RS,2023,2.785786272631996,Crescimento moderado,Forte crescimento,Forte retração,Retração,Forte retração,Forte retração,Forte retração
+4313359,Nova Roma do Sul,RS,2023,16.41310164192975,Forte crescimento,Forte crescimento,Crescimento moderado,Estabilidade,Forte crescimento,Forte crescimento,Forte crescimento
+4313375,Nova Santa Rita,RS,2023,17.08969624102896,Forte crescimento,Forte crescimento,Forte crescimento,Estabilidade,Crescimento moderado,Crescimento moderado,Forte crescimento
+4313391,Novo Cabrais,RS,2023,0.45618906671955894,Estabilidade,Forte crescimento,Retração,Forte retração,Forte retração,Forte retração,Forte retração
+4313409,Novo Hamburgo,RS,2023,9.350265186198325,Forte crescimento,Forte crescimento,Forte crescimento,Estabilidade,Crescimento moderado,Crescimento moderado,Forte crescimento
+4313425,Novo Machado,RS,2023,-1.9478350429372737,Retração,Forte crescimento,Forte retração,Estabilidade,Forte retração,Forte retração,Retração
+4313441,Novo Tiradentes,RS,2023,11.53126853076678,Forte crescimento,Forte crescimento,Forte retração,Retração,Forte retração,Retração,Retração
+4313466,Novo Xingu,RS,2023,4.208907007153306,Crescimento moderado,Forte crescimento,Forte retração,Retração,Forte retração,Forte retração,Forte retração
+4313490,Novo Barreiro,RS,2023,5.198132344711803,Forte crescimento,Forte crescimento,Forte retração,Estabilidade,Crescimento moderado,Retração,Crescimento moderado
+4313508,Osório,RS,2023,7.520971345644822,Forte crescimento,Forte crescimento,Forte crescimento,Estabilidade,Crescimento moderado,Crescimento moderado,Forte crescimento
+4313607,Paim Filho,RS,2023,17.440728211712255,Forte crescimento,Forte crescimento,Forte retração,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento
+4313656,Palmares do Sul,RS,2023,10.932767565298217,Forte crescimento,Forte crescimento,Forte retração,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento
+4313706,Palmeira das Missões,RS,2023,-5.5446601109695015,Forte retração,Forte crescimento,Forte retração,Estabilidade,Retração,Retração,Retração
+4313805,Palmitinho,RS,2023,13.38723669759272,Forte crescimento,Forte crescimento,Forte retração,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento
+4313904,Panambi,RS,2023,9.841317827674256,Forte crescimento,Forte crescimento,Forte crescimento,Estabilidade,Crescimento moderado,Crescimento moderado,Crescimento moderado
+4313953,Pantano Grande,RS,2023,4.279591283117812,Crescimento moderado,Forte crescimento,Crescimento moderado,Retração,Forte retração,Retração,Retração
+4314001,Paraí,RS,2023,18.41762527375781,Forte crescimento,Forte crescimento,Retração,Estabilidade,Crescimento moderado,Forte crescimento,Forte crescimento
+4314027,Paraíso do Sul,RS,2023,23.694144216809153,Forte crescimento,Forte crescimento,Forte retração,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento
+4314035,Pareci Novo,RS,2023,18.22075733618391,Forte crescimento,Forte crescimento,Retração,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento
+4314050,Parobé,RS,2023,15.249883965152812,Forte crescimento,Forte crescimento,Forte crescimento,Estabilidade,Crescimento moderado,Forte crescimento,Forte crescimento
+4314068,Passa Sete,RS,2023,25.22773717571265,Forte crescimento,Forte crescimento,Forte retração,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento
+4314076,Passo do Sobrado,RS,2023,11.37976544224568,Forte crescimento,Forte crescimento,Forte crescimento,Forte retração,Forte retração,Forte retração,Retração
+4314100,Passo Fundo,RS,2023,3.302058781160322,Crescimento moderado,Forte crescimento,Forte crescimento,Estabilidade,Crescimento moderado,Crescimento moderado,Forte crescimento
+4314134,Paulo Bento,RS,2023,20.570917379723742,Forte crescimento,Forte crescimento,Crescimento moderado,Retração,Forte retração,Crescimento moderado,Crescimento moderado
+4314159,Paverama,RS,2023,15.323985285054231,Forte crescimento,Forte crescimento,Forte crescimento,Crescimento moderado,Crescimento moderado,Crescimento moderado,Forte crescimento
+4314175,Pedras Altas,RS,2023,-51.81154167828268,Forte retração,Forte crescimento,Forte retração,Forte retração,Forte retração,Forte retração,Forte retração
+4314209,Pedro Osório,RS,2023,-1.0720611160535798,Retração,Forte crescimento,Forte retração,Forte retração,Forte retração,Forte retração,Forte retração
+4314308,Pejuçara,RS,2023,-0.32648175103046073,Estabilidade,Forte crescimento,Forte retração,Retração,Forte retração,Forte retração,Retração
+4314407,Pelotas,RS,2023,6.302643828044285,Forte crescimento,Forte crescimento,Forte crescimento,Estabilidade,Crescimento moderado,Crescimento moderado,Forte crescimento
+4314423,Picada Café,RS,2023,2.9370058551746903,Crescimento moderado,Forte crescimento,Retração,Estabilidade,Forte retração,Forte retração,Crescimento moderado
+4314456,Pinhal,RS,2023,15.349843208573756,Forte crescimento,Forte crescimento,Forte crescimento,Retração,Retração,Retração,Estabilidade
+4314464,Pinhal da Serra,RS,2023,-12.774095921312579,Forte retração,Forte crescimento,Forte retração,Estabilidade,Forte crescimento,Forte crescimento,Forte crescimento
+4314472,Pinhal Grande,RS,2023,-31.17355735216337,Forte retração,Forte crescimento,Forte retração,Forte retração,Forte retração,Forte retração,Retração
+4314498,Pinheirinho do Vale,RS,2023,23.26890697348112,Forte crescimento,Forte crescimento,Forte retração,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento
+4314506,Pinheiro Machado,RS,2023,5.256099569442152,Forte crescimento,Forte crescimento,Forte retração,Estabilidade,Retração,Crescimento moderado,Estabilidade
+4314548,Pinto Bandeira,RS,2023,34.58670520231213,Forte crescimento,Forte crescimento,Forte retração,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento
+4314555,Pirapó,RS,2023,18.282007062494877,Forte crescimento,Forte crescimento,Forte retração,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento
+4314605,Piratini,RS,2023,-7.696647814004709,Forte retração,Forte crescimento,Forte retração,Forte retração,Forte retração,Forte retração,Forte retração
+4314704,Planalto,RS,2023,16.590795218667242,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento
+4314753,Poço das Antas,RS,2023,-34.71579792954225,Forte retração,Forte crescimento,Forte crescimento,Retração,Retração,Retração,Crescimento moderado
+4314779,Pontão,RS,2023,-8.69514131576915,Forte retração,Forte crescimento,Forte retração,Forte retração,Forte retração,Forte retração,Forte retração
+4314787,Ponte Preta,RS,2023,11.546788206808145,Forte crescimento,Forte crescimento,Forte retração,Estabilidade,Retração,Crescimento moderado,Forte crescimento
+4314803,Portão,RS,2023,17.705100510945226,Forte crescimento,Forte crescimento,Forte retração,Estabilidade,Crescimento moderado,Forte crescimento,Forte crescimento
+4314902,Porto Alegre,RS,2023,16.104115424236998,Forte crescimento,Forte crescimento,Forte crescimento,Estabilidade,Crescimento moderado,Crescimento moderado,Forte crescimento
+4315008,Porto Lucena,RS,2023,12.724952584059501,Forte crescimento,Forte crescimento,Forte retração,Estabilidade,Retração,Retração,Crescimento moderado
+4315057,Porto Mauá,RS,2023,14.210858767119362,Forte crescimento,Forte crescimento,Forte retração,Estabilidade,Retração,Estabilidade,Estabilidade
+4315073,Porto Vera Cruz,RS,2023,18.925629993853722,Forte crescimento,Forte crescimento,Forte retração,Estabilidade,Crescimento moderado,Crescimento moderado,Crescimento moderado
+4315107,Porto Xavier,RS,2023,12.36722195361375,Forte crescimento,Forte crescimento,Retração,Estabilidade,Crescimento moderado,Crescimento moderado,Forte crescimento
+4315131,Pouso Novo,RS,2023,12.404394921768835,Forte crescimento,Forte crescimento,Forte retração,Estabilidade,Retração,Retração,Estabilidade
+4315149,Presidente Lucena,RS,2023,26.151789107889446,Forte crescimento,Forte crescimento,Forte crescimento,Forte retração,Forte retração,Forte retração,Crescimento moderado
+4315156,Progresso,RS,2023,16.436282464929207,Forte crescimento,Forte crescimento,Forte retração,Estabilidade,Crescimento moderado,Crescimento moderado,Crescimento moderado
+4315172,Protásio Alves,RS,2023,8.659419446448947,Forte crescimento,Forte crescimento,Forte retração,Retração,Retração,Retração,Retração
+4315206,Putinga,RS,2023,23.404255319148938,Forte crescimento,Forte crescimento,Forte retração,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento
+4315305,Quaraí,RS,2023,22.255330419811937,Forte crescimento,Forte crescimento,Forte retração,Forte crescimento,Crescimento moderado,Crescimento moderado,Forte crescimento
+4315313,Quatro Irmãos,RS,2023,-6.348694590404591,Forte retração,Forte crescimento,Forte retração,Forte retração,Forte retração,Forte retração,Forte retração
+4315321,Quevedos,RS,2023,-17.67188463220456,Forte retração,Forte crescimento,Forte retração,Forte retração,Forte retração,Forte retração,Forte retração
+4315354,Quinze de Novembro,RS,2023,6.803271599599703,Forte crescimento,Forte crescimento,Forte retração,Retração,Retração,Estabilidade,Crescimento moderado
+4315404,Redentora,RS,2023,11.607853256779133,Forte crescimento,Forte crescimento,Forte retração,Forte crescimento,Crescimento moderado,Forte crescimento,Forte crescimento
+4315453,Relvado,RS,2023,20.602077118197926,Forte crescimento,Forte crescimento,Forte retração,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento
+4315503,Restinga Sêca,RS,2023,14.416480042975333,Forte crescimento,Forte crescimento,Forte retração,Estabilidade,Crescimento moderado,Retração,Crescimento moderado
+4315552,Rio dos Índios,RS,2023,3.8889334152618638,Crescimento moderado,Forte crescimento,Forte retração,Estabilidade,Crescimento moderado,Crescimento moderado,Crescimento moderado
+4315602,Rio Grande,RS,2023,8.015842478746848,Forte crescimento,Forte crescimento,Retração,Estabilidade,Crescimento moderado,Forte crescimento,Forte crescimento
+4315701,Rio Pardo,RS,2023,-14.543946886584836,Forte retração,Forte crescimento,Forte crescimento,Forte retração,Forte retração,Forte retração,Forte retração
+4315750,Riozinho,RS,2023,12.636742902958398,Forte crescimento,Forte crescimento,Forte retração,Estabilidade,Crescimento moderado,Forte crescimento,Forte crescimento
+4315800,Roca Sales,RS,2023,11.117790592925193,Forte crescimento,Forte crescimento,Retração,Estabilidade,Crescimento moderado,Crescimento moderado,Crescimento moderado
+4315909,Rodeio Bonito,RS,2023,16.447678779957762,Forte crescimento,Forte crescimento,Forte retração,Forte crescimento,Crescimento moderado,Forte crescimento,Forte crescimento
+4315958,Rolador,RS,2023,1.3943736965878362,Crescimento moderado,Forte crescimento,Forte retração,Retração,Forte retração,Forte retração,Retração
+4316006,Rolante,RS,2023,15.686100389388113,Forte crescimento,Forte crescimento,Forte crescimento,Estabilidade,Crescimento moderado,Crescimento moderado,Crescimento moderado
+4316105,Ronda Alta,RS,2023,-6.714095153401511,Forte retração,Forte crescimento,Forte retração,Retração,Forte retração,Forte retração,Forte retração
+4316204,Rondinha,RS,2023,-2.5071498296028616,Retração,Forte crescimento,Forte retração,Forte retração,Forte retração,Forte retração,Forte retração
+4316303,Roque Gonzales,RS,2023,-3.2413594638624144,Retração,Forte crescimento,Forte retração,Estabilidade,Retração,Forte retração,Crescimento moderado
+4316402,Rosário do Sul,RS,2023,29.635961705680547,Forte crescimento,Forte crescimento,Forte retração,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento
+4316428,Sagrada Família,RS,2023,6.128710835560747,Forte crescimento,Forte crescimento,Forte retração,Estabilidade,Retração,Forte retração,Retração
+4316436,Saldanha Marinho,RS,2023,-2.741261300412279,Retração,Forte crescimento,Forte retração,Retração,Forte retração,Forte retração,Retração
+4316451,Salto do Jacuí,RS,2023,-29.584481436241227,Forte retração,Forte crescimento,Forte retração,Retração,Forte retração,Forte retração,Retração
+4316477,Salvador das Missões,RS,2023,8.261385927220811,Forte crescimento,Forte crescimento,Forte retração,Estabilidade,Retração,Retração,Crescimento moderado
+4316501,Salvador do Sul,RS,2023,22.592679813091053,Forte crescimento,Forte crescimento,Retração,Estabilidade,Crescimento moderado,Crescimento moderado,Forte crescimento
+4316600,Sananduva,RS,2023,6.057022333465412,Forte crescimento,Forte crescimento,Retração,Estabilidade,Crescimento moderado,Forte crescimento,Forte crescimento
+4316709,Santa Bárbara do Sul,RS,2023,-10.79585339140623,Forte retração,Forte crescimento,Forte retração,Retração,Retração,Forte retração,Crescimento moderado
+4316733,Santa Cecília do Sul,RS,2023,-11.44444013647643,Forte retração,Forte crescimento,Forte retração,Forte retração,Forte retração,Forte retração,Forte retração
+4316758,Santa Clara do Sul,RS,2023,18.628302017610764,Forte crescimento,Forte crescimento,Forte crescimento,Estabilidade,Crescimento moderado,Crescimento moderado,Forte crescimento
+4316808,Santa Cruz do Sul,RS,2023,19.723929140931062,Forte crescimento,Forte crescimento,Forte crescimento,Estabilidade,Crescimento moderado,Crescimento moderado,Forte crescimento
+4316907,Santa Maria,RS,2023,11.554441192764564,Forte crescimento,Forte crescimento,Crescimento moderado,Estabilidade,Crescimento moderado,Crescimento moderado,Forte crescimento
+4316956,Santa Maria do Herval,RS,2023,3.0509027833130364,Crescimento moderado,Forte crescimento,Forte retração,Estabilidade,Crescimento moderado,Estabilidade,Crescimento moderado
+4316972,Santa Margarida do Sul,RS,2023,12.162979083544911,Forte crescimento,Forte crescimento,Forte retração,Estabilidade,Forte crescimento,Forte crescimento,Forte crescimento
+4317004,Santana da Boa Vista,RS,2023,-22.798097478249,Forte retração,Forte crescimento,Forte retração,Forte retração,Forte retração,Forte retração,Forte retração
+4317103,Sant'Ana do Livramento,RS,2023,11.49963431858052,Forte crescimento,Forte crescimento,Estabilidade,Forte crescimento,Crescimento moderado,Crescimento moderado,Forte crescimento
+4317202,Santa Rosa,RS,2023,11.854289756384206,Forte crescimento,Forte crescimento,Forte crescimento,Estabilidade,Crescimento moderado,Crescimento moderado,Forte crescimento
+4317251,Santa Tereza,RS,2023,17.976862116655322,Forte crescimento,Forte crescimento,Forte retração,Estabilidade,Crescimento moderado,Crescimento moderado,Crescimento moderado
+4317301,Santa Vitória do Palmar,RS,2023,24.251971845842448,Forte crescimento,Forte crescimento,Forte retração,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento
+4317400,Santiago,RS,2023,5.856869357651484,Forte crescimento,Forte crescimento,Forte retração,Estabilidade,Crescimento moderado,Forte crescimento,Forte crescimento
+4317509,Santo Ângelo,RS,2023,10.3731892352261,Forte crescimento,Forte crescimento,Retração,Forte crescimento,Crescimento moderado,Forte crescimento,Forte crescimento
+4317558,Santo Antônio do Palma,RS,2023,13.400242081904379,Forte crescimento,Forte crescimento,Forte retração,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento
+4317608,Santo Antônio da Patrulha,RS,2023,14.119912195750462,Forte crescimento,Forte crescimento,Forte crescimento,Estabilidade,Crescimento moderado,Crescimento moderado,Forte crescimento
+4317707,Santo Antônio das Missões,RS,2023,15.794888513585747,Forte crescimento,Forte crescimento,Forte retração,Estabilidade,Estabilidade,Forte crescimento,Forte crescimento
+4317756,Santo Antônio do Planalto,RS,2023,-0.30927711708262917,Estabilidade,Forte crescimento,Forte retração,Estabilidade,Retração,Retração,Crescimento moderado
+4317806,Santo Augusto,RS,2023,3.224627104665756,Crescimento moderado,Forte crescimento,Forte retração,Estabilidade,Retração,Retração,Crescimento moderado
+4317905,Santo Cristo,RS,2023,10.973012957196815,Forte crescimento,Forte crescimento,Forte retração,Estabilidade,Crescimento moderado,Crescimento moderado,Forte crescimento
+4317954,Santo Expedito do Sul,RS,2023,8.316398793029123,Forte crescimento,Forte crescimento,Forte retração,Retração,Retração,Retração,Estabilidade
+4318002,São Borja,RS,2023,8.287947771539539,Forte crescimento,Forte crescimento,Forte retração,Estabilidade,Crescimento moderado,Crescimento moderado,Forte crescimento
+4318051,São Domingos do Sul,RS,2023,14.090476148865339,Forte crescimento,Forte crescimento,Forte retração,Estabilidade,Crescimento moderado,Crescimento moderado,Forte crescimento
+4318101,São Francisco de Assis,RS,2023,21.65742793791574,Forte crescimento,Forte crescimento,Forte retração,Estabilidade,Retração,Retração,Crescimento moderado
+4318200,São Francisco de Paula,RS,2023,16.083184054619103,Forte crescimento,Forte crescimento,Estabilidade,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento
+4318309,São Gabriel,RS,2023,10.363832243993487,Forte crescimento,Forte crescimento,Forte retração,Forte crescimento,Crescimento moderado,Forte crescimento,Forte crescimento
+4318408,São Jerônimo,RS,2023,8.21078282429295,Forte crescimento,Forte crescimento,Retração,Estabilidade,Retração,Retração,Crescimento moderado
+4318424,São João da Urtiga,RS,2023,26.715922817826797,Forte crescimento,Forte crescimento,Forte retração,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento
+4318432,São João do Polêsine,RS,2023,17.31486361511918,Forte crescimento,Forte crescimento,Retração,Forte crescimento,Crescimento moderado,Crescimento moderado,Forte crescimento
+4318440,São Jorge,RS,2023,7.259042996890885,Forte crescimento,Forte crescimento,Forte retração,Estabilidade,Retração,Retração,Crescimento moderado
+4318457,São José das Missões,RS,2023,6.054834135083276,Forte crescimento,Forte crescimento,Forte retração,Estabilidade,Retração,Estabilidade,Crescimento moderado
+4318465,São José do Herval,RS,2023,5.9244184940755895,Forte crescimento,Forte crescimento,Forte retração,Estabilidade,Retração,Retração,Estabilidade
+4318481,São José do Hortêncio,RS,2023,18.588194135233138,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento
+4318499,São José do Inhacorá,RS,2023,15.562572531239027,Forte crescimento,Forte crescimento,Estabilidade,Retração,Crescimento moderado,Crescimento moderado,Crescimento moderado
+4318507,São José do Norte,RS,2023,95.43856364325585,Forte crescimento,Forte crescimento,Forte retração,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento
+4318606,São José do Ouro,RS,2023,0.8348532915078755,Estabilidade,Forte crescimento,Forte retração,Estabilidade,Retração,Crescimento moderado,Forte crescimento
+4318614,São José do Sul,RS,2023,20.141350370075095,Forte crescimento,Forte crescimento,Retração,Estabilidade,Forte crescimento,Forte crescimento,Forte crescimento
+4318622,São José dos Ausentes,RS,2023,17.98664153908649,Forte crescimento,Forte crescimento,Retração,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento
+4318705,São Leopoldo,RS,2023,5.691151979979647,Forte crescimento,Forte crescimento,Crescimento moderado,Estabilidade,Crescimento moderado,Crescimento moderado,Forte crescimento
+4318804,São Lourenço do Sul,RS,2023,5.8109391142651345,Forte crescimento,Forte crescimento,Retração,Estabilidade,Retração,Retração,Estabilidade
+4318903,São Luiz Gonzaga,RS,2023,-1.285087795123585,Retração,Forte crescimento,Forte retração,Estabilidade,Retração,Retração,Estabilidade
+4319000,São Marcos,RS,2023,22.443663842628037,Forte crescimento,Forte crescimento,Forte crescimento,Estabilidade,Crescimento moderado,Crescimento moderado,Forte crescimento
+4319109,São Martinho,RS,2023,3.4656035287132125,Crescimento moderado,Forte crescimento,Forte retração,Estabilidade,Crescimento moderado,Forte crescimento,Forte crescimento
+4319125,São Martinho da Serra,RS,2023,-15.090774599192757,Forte retração,Forte crescimento,Forte retração,Forte retração,Forte retração,Forte retração,Forte retração
+4319158,São Miguel das Missões,RS,2023,0.8201179394707436,Estabilidade,Forte crescimento,Forte retração,Retração,Forte retração,Forte retração,Forte retração
+4319208,São Nicolau,RS,2023,4.243233628617915,Crescimento moderado,Forte crescimento,Forte retração,Retração,Retração,Forte retração,Retração
+4319307,São Paulo das Missões,RS,2023,18.58113332596929,Forte crescimento,Forte crescimento,Forte retração,Forte crescimento,Crescimento moderado,Retração,Forte crescimento
+4319356,São Pedro da Serra,RS,2023,17.226910835635167,Forte crescimento,Forte crescimento,Forte retração,Estabilidade,Crescimento moderado,Crescimento moderado,Forte crescimento
+4319364,São Pedro das Missões,RS,2023,-28.61031420430623,Forte retração,Forte crescimento,Forte retração,Forte retração,Forte retração,Forte retração,Forte retração
+4319372,São Pedro do Butiá,RS,2023,8.687351951128285,Forte crescimento,Forte crescimento,Forte retração,Retração,Retração,Retração,Crescimento moderado
+4319406,São Pedro do Sul,RS,2023,10.492823907202297,Forte crescimento,Forte crescimento,Forte retração,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento
+4319505,São Sebastião do Caí,RS,2023,13.715357374553804,Forte crescimento,Forte crescimento,Forte crescimento,Estabilidade,Crescimento moderado,Retração,Crescimento moderado
+4319604,São Sepé,RS,2023,18.256295322358685,Forte crescimento,Forte crescimento,Forte retração,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento
+4319703,São Valentim,RS,2023,6.430415995499983,Forte crescimento,Forte crescimento,Forte retração,Estabilidade,Crescimento moderado,Crescimento moderado,Forte crescimento
+4319711,São Valentim do Sul,RS,2023,10.176709643075089,Forte crescimento,Forte crescimento,Forte retração,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento
+4319737,São Valério do Sul,RS,2023,19.921868094960303,Forte crescimento,Forte crescimento,Forte retração,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento
+4319752,São Vendelino,RS,2023,18.18620519381411,Forte crescimento,Forte crescimento,Forte retração,Estabilidade,Crescimento moderado,Retração,Forte crescimento
+4319802,São Vicente do Sul,RS,2023,-27.314886429026654,Forte retração,Forte crescimento,Forte retração,Forte retração,Forte retração,Forte retração,Retração
+4319901,Sapiranga,RS,2023,26.80049742983732,Forte crescimento,Forte crescimento,Crescimento moderado,Estabilidade,Crescimento moderado,Crescimento moderado,Forte crescimento
+4320008,Sapucaia do Sul,RS,2023,8.004845982481834,Forte crescimento,Forte crescimento,Crescimento moderado,Estabilidade,Crescimento moderado,Crescimento moderado,Forte crescimento
+4320107,Sarandi,RS,2023,2.819344997601747,Crescimento moderado,Forte crescimento,Forte crescimento,Estabilidade,Retração,Crescimento moderado,Retração
+4320206,Seberi,RS,2023,26.71715980680709,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento
+4320230,Sede Nova,RS,2023,9.000462337292836,Forte crescimento,Forte crescimento,Forte retração,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento
+4320263,Segredo,RS,2023,37.99111381156723,Forte crescimento,Forte crescimento,Forte retração,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento
+4320305,Selbach,RS,2023,-9.121442852752082,Forte retração,Forte crescimento,Forte retração,Retração,Retração,Crescimento moderado,Crescimento moderado
+4320321,Senador Salgado Filho,RS,2023,-14.005137979613824,Forte retração,Forte crescimento,Forte retração,Estabilidade,Retração,Crescimento moderado,Crescimento moderado
+4320354,Sentinela do Sul,RS,2023,19.88977154586411,Forte crescimento,Forte crescimento,Forte crescimento,Estabilidade,Retração,Retração,Retração
+4320404,Serafina Corrêa,RS,2023,19.07880154577082,Forte crescimento,Forte crescimento,Forte crescimento,Estabilidade,Crescimento moderado,Retração,Forte crescimento
+4320453,Sério,RS,2023,19.529895645671157,Forte crescimento,Forte crescimento,Retração,Estabilidade,Crescimento moderado,Crescimento moderado,Forte crescimento
+4320503,Sertão,RS,2023,-1.9718182252881022,Retração,Forte crescimento,Forte retração,Forte retração,Forte retração,Forte retração,Forte retração
+4320552,Sertão Santana,RS,2023,1.7793688911731609,Crescimento moderado,Forte crescimento,Forte crescimento,Estabilidade,Retração,Crescimento moderado,Crescimento moderado
+4320578,Sete de Setembro,RS,2023,26.43286540320071,Forte crescimento,Forte crescimento,Forte retração,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento
+4320602,Severiano de Almeida,RS,2023,12.698035864077362,Forte crescimento,Forte crescimento,Forte retração,Estabilidade,Estabilidade,Crescimento moderado,Crescimento moderado
+4320651,Silveira Martins,RS,2023,4.535912322103353,Crescimento moderado,Forte crescimento,Forte retração,Estabilidade,Crescimento moderado,Crescimento moderado,Crescimento moderado
+4320677,Sinimbu,RS,2023,25.668541231138352,Forte crescimento,Forte crescimento,Forte retração,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento
+4320701,Sobradinho,RS,2023,10.776135834356616,Forte crescimento,Forte crescimento,Forte crescimento,Crescimento moderado,Forte crescimento,Forte crescimento,Forte crescimento
+4320800,Soledade,RS,2023,7.71082439463826,Forte crescimento,Forte crescimento,Forte retração,Estabilidade,Crescimento moderado,Retração,Crescimento moderado
+4320859,Tabaí,RS,2023,11.629468244116236,Forte crescimento,Forte crescimento,Forte crescimento,Estabilidade,Crescimento moderado,Retração,Crescimento moderado
+4320909,Tapejara,RS,2023,10.63787376201315,Forte crescimento,Forte crescimento,Crescimento moderado,Estabilidade,Retração,Retração,Estabilidade
+4321006,Tapera,RS,2023,-0.7278666014084889,Estabilidade,Forte crescimento,Forte retração,Estabilidade,Crescimento moderado,Crescimento moderado,Forte crescimento
+4321105,Tapes,RS,2023,15.111191794499401,Forte crescimento,Forte crescimento,Forte retração,Estabilidade,Forte retração,Retração,Retração
+4321204,Taquara,RS,2023,10.027764850741194,Forte crescimento,Forte crescimento,Forte crescimento,Crescimento moderado,Forte crescimento,Forte crescimento,Forte crescimento
+4321303,Taquari,RS,2023,10.346767794999101,Forte crescimento,Forte crescimento,Forte retração,Estabilidade,Crescimento moderado,Crescimento moderado,Forte crescimento
+4321329,Taquaruçu do Sul,RS,2023,9.118877391395031,Forte crescimento,Forte crescimento,Forte retração,Estabilidade,Crescimento moderado,Forte crescimento,Forte crescimento
+4321352,Tavares,RS,2023,10.359274144440377,Forte crescimento,Forte crescimento,Estabilidade,Estabilidade,Crescimento moderado,Crescimento moderado,Crescimento moderado
+4321402,Tenente Portela,RS,2023,15.614894033061088,Forte crescimento,Forte crescimento,Forte retração,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento
+4321436,Terra de Areia,RS,2023,7.926656375035446,Forte crescimento,Forte crescimento,Forte crescimento,Estabilidade,Crescimento moderado,Crescimento moderado,Forte crescimento
+4321451,Teutônia,RS,2023,12.584304013154824,Forte crescimento,Forte crescimento,Forte crescimento,Estabilidade,Crescimento moderado,Crescimento moderado,Forte crescimento
+4321469,Tio Hugo,RS,2023,-6.806954616722871,Forte retração,Forte crescimento,Forte crescimento,Estabilidade,Retração,Retração,Retração
+4321477,Tiradentes do Sul,RS,2023,4.070216665283111,Crescimento moderado,Forte crescimento,Forte retração,Forte crescimento,Crescimento moderado,Crescimento moderado,Forte crescimento
+4321493,Toropi,RS,2023,9.62465702336237,Forte crescimento,Forte crescimento,Forte retração,Estabilidade,Estabilidade,Estabilidade,Crescimento moderado
+4321501,Torres,RS,2023,18.8190780743263,Forte crescimento,Forte crescimento,Forte crescimento,Estabilidade,Crescimento moderado,Crescimento moderado,Forte crescimento
+4321600,Tramandaí,RS,2023,18.819287276075023,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento
+4321626,Travesseiro,RS,2023,13.971347615390716,Forte crescimento,Forte crescimento,Retração,Estabilidade,Crescimento moderado,Retração,Forte crescimento
+4321634,Três Arroios,RS,2023,9.638731273217127,Forte crescimento,Forte crescimento,Forte retração,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento
+4321667,Três Cachoeiras,RS,2023,10.403845356489194,Forte crescimento,Forte crescimento,Forte crescimento,Estabilidade,Crescimento moderado,Crescimento moderado,Crescimento moderado
+4321709,Três Coroas,RS,2023,11.171416273891953,Forte crescimento,Forte crescimento,Forte crescimento,Estabilidade,Crescimento moderado,Forte crescimento,Forte crescimento
+4321808,Três de Maio,RS,2023,10.306962345759384,Forte crescimento,Forte crescimento,Crescimento moderado,Crescimento moderado,Forte crescimento,Forte crescimento,Forte crescimento
+4321832,Três Forquilhas,RS,2023,20.846875715266645,Forte crescimento,Forte crescimento,Crescimento moderado,Estabilidade,Crescimento moderado,Crescimento moderado,Crescimento moderado
+4321857,Três Palmeiras,RS,2023,-0.7893745402790309,Estabilidade,Forte crescimento,Forte retração,Retração,Retração,Retração,Retração
+4321907,Três Passos,RS,2023,17.752670221528422,Forte crescimento,Forte crescimento,Estabilidade,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento
+4321956,Trindade do Sul,RS,2023,15.2234620919661,Forte crescimento,Forte crescimento,Estabilidade,Crescimento moderado,Crescimento moderado,Retração,Forte crescimento
+4322004,Triunfo,RS,2023,-6.527570800905124,Forte retração,Forte crescimento,Forte retração,Estabilidade,Forte retração,Forte retração,Forte crescimento
+4322103,Tucunduva,RS,2023,-0.2821203023087304,Estabilidade,Forte crescimento,Forte retração,Retração,Forte retração,Retração,Retração
+4322152,Tunas,RS,2023,0.02122466305847226,Estabilidade,Forte crescimento,Forte retração,Estabilidade,Forte retração,Forte retração,Retração
+4322186,Tupanci do Sul,RS,2023,15.090502632148262,Forte crescimento,Forte crescimento,Forte retração,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento
+4322202,Tupanciretã,RS,2023,-7.370058813744851,Forte retração,Forte crescimento,Forte retração,Estabilidade,Retração,Retração,Retração
+4322251,Tupandi,RS,2023,22.782376870963937,Forte crescimento,Forte crescimento,Forte retração,Estabilidade,Forte retração,Forte retração,Crescimento moderado
+4322301,Tuparendi,RS,2023,11.053660270078169,Forte crescimento,Forte crescimento,Forte retração,Estabilidade,Retração,Crescimento moderado,Crescimento moderado
+4322327,Turuçu,RS,2023,3.7112752566649254,Crescimento moderado,Forte crescimento,Retração,Forte retração,Forte retração,Forte retração,Forte retração
+4322343,Ubiretama,RS,2023,10.897271534365993,Forte crescimento,Forte crescimento,Forte retração,Estabilidade,Crescimento moderado,Forte crescimento,Forte crescimento
+4322350,União da Serra,RS,2023,5.165647382019167,Forte crescimento,Forte crescimento,Forte retração,Retração,Forte retração,Forte retração,Forte retração
+4322376,Unistalda,RS,2023,-2.2941710450306685,Retração,Forte crescimento,Forte retração,Retração,Forte retração,Forte retração,Retração
+4322400,Uruguaiana,RS,2023,13.222060806825088,Forte crescimento,Forte crescimento,Forte retração,Crescimento moderado,Crescimento moderado,Crescimento moderado,Crescimento moderado
+4322509,Vacaria,RS,2023,18.496311129679512,Forte crescimento,Forte crescimento,Retração,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento
+4322525,Vale Verde,RS,2023,26.024359674775855,Forte crescimento,Forte crescimento,Retração,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento
+4322533,Vale do Sol,RS,2023,23.139583805301143,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento
+4322541,Vale Real,RS,2023,25.966540316003428,Forte crescimento,Forte crescimento,Forte crescimento,Crescimento moderado,Crescimento moderado,Retração,Forte crescimento
+4322558,Vanini,RS,2023,22.047161780738044,Forte crescimento,Forte crescimento,Forte retração,Forte crescimento,Crescimento moderado,Forte crescimento,Forte crescimento
+4322608,Venâncio Aires,RS,2023,20.819370792372325,Forte crescimento,Forte crescimento,Crescimento moderado,Estabilidade,Crescimento moderado,Crescimento moderado,Forte crescimento
+4322707,Vera Cruz,RS,2023,28.045166099969098,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento,Crescimento moderado,Crescimento moderado,Forte crescimento
+4322806,Veranópolis,RS,2023,11.239399848332088,Forte crescimento,Forte crescimento,Forte crescimento,Estabilidade,Crescimento moderado,Crescimento moderado,Crescimento moderado
+4322855,Vespasiano Corrêa,RS,2023,7.981580172815228,Forte crescimento,Forte crescimento,Forte retração,Estabilidade,Retração,Crescimento moderado,Estabilidade
+4322905,Viadutos,RS,2023,6.074120916609815,Forte crescimento,Forte crescimento,Forte retração,Retração,Retração,Retração,Estabilidade
+4323002,Viamão,RS,2023,19.31120666209949,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento,Crescimento moderado,Forte crescimento
+4323101,Vicente Dutra,RS,2023,26.493006544334662,Forte crescimento,Forte crescimento,Forte retração,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento
+4323200,Victor Graeff,RS,2023,28.723921221750825,Forte crescimento,Forte crescimento,Forte retração,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento
+4323309,Vila Flores,RS,2023,13.797676371611377,Forte crescimento,Forte crescimento,Forte crescimento,Forte retração,Retração,Crescimento moderado,Crescimento moderado
+4323358,Vila Lângaro,RS,2023,-2.812273102826668,Retração,Forte crescimento,Forte retração,Forte retração,Forte retração,Forte retração,Forte retração
+4323408,Vila Maria,RS,2023,20.488566443199563,Forte crescimento,Forte crescimento,Forte retração,Forte crescimento,Forte crescimento,Forte crescimento,Forte crescimento
+4323457,Vila Nova do Sul,RS,2023,36.8910651796279,Forte crescimento,Forte crescimento,Forte retração,Estabilidade,Crescimento moderado,Crescimento moderado,Crescimento moderado
+4323507,Vista Alegre,RS,2023,13.922105962464704,Forte crescimento,Forte crescimento,Forte retração,Estabilidade,Crescimento moderado,Forte crescimento,Forte crescimento
+4323606,Vista Alegre do Prata,RS,2023,2.599688306104908,Crescimento moderado,Forte crescimento,Forte retração,Retração,Retração,Retração,Estabilidade
+4323705,Vista Gaúcha,RS,2023,7.949378686365449,Forte crescimento,Forte crescimento,Forte retração,Estabilidade,Crescimento moderado,Crescimento moderado,Forte crescimento
+4323754,Vitória das Missões,RS,2023,11.217800641802045,Forte crescimento,Forte crescimento,Forte retração,Forte crescimento,Crescimento moderado,Crescimento moderado,Forte crescimento
+4323770,Westfália,RS,2023,-8.274085684022092,Forte retração,Forte crescimento,Retração,Estabilidade,Crescimento moderado,Crescimento moderado,Forte crescimento
+4323804,Xangri-lá,RS,2023,15.66013997509026,Forte crescimento,Forte crescimento,Forte crescimento,Estabilidade,Crescimento moderado,Crescimento moderado,Forte crescimento

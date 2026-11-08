@@ -137,3 +137,52 @@ def barras_categorias_por_ano(tabela_pct, ax=None, titulo=None):
     if titulo:
         ax.set_title(titulo)
     return ax
+
+
+# Classificação: mesma cor por família de modelo usada na regressão
+CORES_CLASSIFICADORES = {
+    "Classe majoritária do treino": EIXO,
+    "Categoria do ano anterior": TINTA_SUAVE,
+    "Regressão Logística": CATEGORICA_8[0],
+    "Random Forest (clf)": CATEGORICA_8[2],
+    "LightGBM (clf)": CATEGORICA_8[3],
+    "Regressão → categoria (Ensemble)": CATEGORICA_8[4],
+}
+
+
+def matriz_confusao(contagens, rotulos, ax=None, titulo=None):
+    """Matriz de confusão: linhas = categoria real, colunas = prevista.
+
+    A cor é a **% da linha** (recall de cada categoria real), em rampa sequencial;
+    cada célula mostra a contagem e a % da linha. ``contagens`` é um array k × k.
+    """
+    import numpy as np
+    contagens = np.asarray(contagens)
+    k = len(rotulos)
+    if ax is None:
+        _, ax = plt.subplots(figsize=(7.4, 6.0))
+    tot_linha = contagens.sum(axis=1, keepdims=True)
+    pct = np.divide(contagens, tot_linha, out=np.zeros_like(contagens, float), where=tot_linha > 0) * 100
+    ax.imshow(pct, cmap=CMAP_SEQUENCIAL, vmin=0, vmax=100, aspect="equal")
+    for i in range(k):
+        for j in range(k):
+            claro = pct[i, j] < 55
+            ax.text(j, i - 0.12, f"{contagens[i, j]:,}".replace(",", "."), ha="center", va="center",
+                    fontsize=10, fontweight="semibold", color=TINTA if claro else "#ffffff")
+            ax.text(j, i + 0.2, f"{pct[i, j]:.0f}%", ha="center", va="center", fontsize=8,
+                    color=TINTA_SECUNDARIA if claro else "#ffffff")
+    rot_quebra = [r.replace(" ", "\n", 1) for r in rotulos]
+    ax.set_xticks(range(k), rot_quebra, fontsize=8.5)
+    ax.set_yticks(range(k), [f"{r}  (n={n})" for r, n in zip(rotulos, tot_linha.ravel())], fontsize=8.5)
+    ax.set_xticks(np.arange(-0.5, k), minor=True)
+    ax.set_yticks(np.arange(-0.5, k), minor=True)
+    ax.grid(False)
+    ax.grid(which="minor", color=SUPERFICIE, linewidth=2)
+    ax.tick_params(which="both", length=0)
+    for s in ax.spines.values():
+        s.set_visible(False)
+    ax.set_xlabel("Categoria prevista")
+    ax.set_ylabel("Categoria real")
+    if titulo:
+        ax.set_title(titulo)
+    return ax
