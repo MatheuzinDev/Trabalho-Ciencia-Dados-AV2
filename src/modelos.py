@@ -255,14 +255,14 @@ def valida_temporal(nome: str, params: dict, dataset: pd.DataFrame, inicio: int,
 
 
 def busca_hiperparametros(nome: str, dataset: pd.DataFrame, inicio: int, grade: dict | None = None,
-                          criterio: str = "MAPE_%", clip_treino: tuple | None = None, verbose: bool = True
-                          ) -> pd.DataFrame:
+                          criterio: str = "MAPE_%", clip_treino: tuple | None = None, verbose: bool = True,
+                          anos_validacao: list[int] = ANOS_VALIDACAO) -> pd.DataFrame:
     """Avalia todas as combinações da grade na validação temporal e ordena pelo critério (média dos anos)."""
     grade = GRADES_REGRESSAO[nome] if grade is None else grade
     linhas = []
     for params in combinacoes(grade):
         t0 = time.time()
-        res = valida_temporal(nome, params, dataset, inicio, clip_treino=clip_treino)
+        res = valida_temporal(nome, params, dataset, inicio, anos_validacao, clip_treino=clip_treino)
         linhas.append({"modelo": nome, "params": params, **res.media.drop("n_treino").to_dict(),
                        "MAPE_pior_ano_%": res.por_ano["MAPE_%"].max(), "segundos": time.time() - t0})
         if verbose:

@@ -1,0 +1,1192 @@
+cod_ibge,municipio,uf,pib_2023_oficial_mil_reais,pib_2023_previsto_mil_reais,erro_pct,categoria_2023_oficial,categoria_2023_prevista,categoria_2023_pelo_pib_previsto
+4100103,Abatiá,PR,297166.0,266923.0,-10.18,Forte crescimento,Forte retração,Forte retração
+4100202,Adrianópolis,PR,467129.0,444117.0,-4.93,Forte crescimento,Forte retração,Estabilidade
+4100301,Agudos do Sul,PR,279388.0,246945.0,-11.61,Forte crescimento,Crescimento moderado,Crescimento moderado
+4100400,Almirante Tamandaré,PR,2242620.0,2202014.0,-1.81,Forte crescimento,Forte crescimento,Forte crescimento
+4100459,Altamira do Paraná,PR,115509.0,108782.0,-5.82,Forte crescimento,Crescimento moderado,Crescimento moderado
+4100509,Altônia,PR,546401.0,539086.0,-1.34,Forte crescimento,Forte crescimento,Forte crescimento
+4100608,Alto Paraná,PR,562667.0,444078.0,-21.08,Forte crescimento,Forte crescimento,Forte crescimento
+4100707,Alto Piquiri,PR,488594.0,490202.0,0.33,Forte crescimento,Forte crescimento,Forte crescimento
+4100806,Alvorada do Sul,PR,436443.0,411449.0,-5.73,Retração,Forte retração,Forte retração
+4100905,Amaporã,PR,163899.0,156639.0,-4.43,Forte crescimento,Forte crescimento,Forte crescimento
+4101002,Ampére,PR,1001174.0,931128.0,-7.0,Forte crescimento,Forte crescimento,Forte crescimento
+4101051,Anahy,PR,124323.0,126220.0,1.53,Forte crescimento,Forte crescimento,Forte crescimento
+4101101,Andirá,PR,861173.0,881703.0,2.38,Crescimento moderado,Crescimento moderado,Crescimento moderado
+4101150,Ângulo,PR,179778.0,191003.0,6.24,Forte crescimento,Forte crescimento,Forte crescimento
+4101200,Antonina,PR,1001675.0,993125.0,-0.85,Forte crescimento,Forte retração,Crescimento moderado
+4101309,Antônio Olinto,PR,282611.0,261867.0,-7.34,Forte crescimento,Forte crescimento,Forte crescimento
+4101408,Apucarana,PR,4834013.0,4596603.0,-4.91,Forte crescimento,Forte crescimento,Forte crescimento
+4101507,Arapongas,PR,5715471.0,5483817.0,-4.05,Forte crescimento,Forte crescimento,Forte crescimento
+4101606,Arapoti,PR,1632919.0,1639600.0,0.41,Retração,Forte retração,Retração
+4101655,Arapuã,PR,154285.0,145936.0,-5.41,Forte crescimento,Forte crescimento,Forte crescimento
+4101705,Araruna,PR,630796.0,592454.0,-6.08,Forte crescimento,Forte crescimento,Forte crescimento
+4101804,Araucária,PR,34075052.0,32271531.0,-5.29,Forte crescimento,Forte retração,Crescimento moderado
+4101853,Ariranha do Ivaí,PR,144973.0,134787.0,-7.03,Forte crescimento,Forte crescimento,Forte crescimento
+4101903,Assaí,PR,637194.0,611280.0,-4.07,Crescimento moderado,Crescimento moderado,Estabilidade
+4102000,Assis Chateaubriand,PR,2033731.0,1954033.0,-3.92,Forte crescimento,Forte crescimento,Forte crescimento
+4102109,Astorga,PR,1164816.0,1097804.0,-5.75,Crescimento moderado,Crescimento moderado,Retração
+4102208,Atalaia,PR,254752.0,223624.0,-12.22,Forte crescimento,Forte crescimento,Forte crescimento
+4102307,Balsa Nova,PR,1302016.0,1297819.0,-0.32,Crescimento moderado,Forte retração,Crescimento moderado
+4102406,Bandeirantes,PR,1362233.0,1166834.0,-14.34,Forte crescimento,Crescimento moderado,Crescimento moderado
+4102505,Barbosa Ferraz,PR,342155.0,338486.0,-1.07,Forte crescimento,Forte crescimento,Forte crescimento
+4102604,Barracão,PR,323297.0,325307.0,0.62,Forte crescimento,Forte crescimento,Forte crescimento
+4102703,Barra do Jacaré,PR,187138.0,168342.0,-10.04,Estabilidade,Forte retração,Forte retração
+4102752,Bela Vista da Caroba,PR,126095.0,121557.0,-3.6,Forte crescimento,Forte crescimento,Forte crescimento
+4102802,Bela Vista do Paraíso,PR,564054.0,612504.0,8.59,Forte retração,Forte retração,Retração
+4102901,Bituruna,PR,656377.0,559767.0,-14.72,Forte crescimento,Crescimento moderado,Forte crescimento
+4103008,Boa Esperança,PR,342930.0,331261.0,-3.4,Forte crescimento,Forte crescimento,Forte crescimento
+4103024,Boa Esperança do Iguaçu,PR,165031.0,157582.0,-4.51,Forte crescimento,Forte crescimento,Forte crescimento
+4103040,Boa Ventura de São Roque,PR,449414.0,436334.0,-2.91,Forte crescimento,Forte retração,Crescimento moderado
+4103057,Boa Vista da Aparecida,PR,222437.0,210062.0,-5.56,Forte crescimento,Forte crescimento,Forte crescimento
+4103107,Bocaiúva do Sul,PR,305498.0,303970.0,-0.5,Forte crescimento,Crescimento moderado,Forte crescimento
+4103156,Bom Jesus do Sul,PR,142418.0,144406.0,1.4,Forte crescimento,Forte crescimento,Forte crescimento
+4103206,Bom Sucesso,PR,221658.0,205259.0,-7.4,Forte crescimento,Forte crescimento,Forte crescimento
+4103222,Bom Sucesso do Sul,PR,331505.0,336586.0,1.53,Forte crescimento,Forte retração,Forte crescimento
+4103305,Borrazópolis,PR,296465.0,292079.0,-1.48,Forte crescimento,Forte crescimento,Forte crescimento
+4103354,Braganey,PR,261007.0,259956.0,-0.4,Crescimento moderado,Forte retração,Crescimento moderado
+4103370,Brasilândia do Sul,PR,298634.0,299343.0,0.24,Forte crescimento,Forte crescimento,Forte crescimento
+4103404,Cafeara,PR,121532.0,111200.0,-8.5,Forte crescimento,Forte crescimento,Forte crescimento
+4103453,Cafelândia,PR,2697734.0,2608473.0,-3.31,Forte crescimento,Forte crescimento,Forte crescimento
+4103479,Cafezal do Sul,PR,199026.0,184943.0,-7.08,Forte crescimento,Forte crescimento,Forte crescimento
+4103503,Califórnia,PR,250999.0,249059.0,-0.77,Crescimento moderado,Crescimento moderado,Crescimento moderado
+4103602,Cambará,PR,985512.0,956230.0,-2.97,Crescimento moderado,Retração,Retração
+4103701,Cambé,PR,6771173.0,6417581.0,-5.22,Forte crescimento,Crescimento moderado,Crescimento moderado
+4103800,Cambira,PR,349367.0,334218.0,-4.34,Forte crescimento,Forte crescimento,Forte crescimento
+4103909,Campina da Lagoa,PR,674422.0,655117.0,-2.86,Forte crescimento,Forte crescimento,Forte crescimento
+4103958,Campina do Simão,PR,195120.0,170316.0,-12.71,Forte crescimento,Forte retração,Crescimento moderado
+4104006,Campina Grande do Sul,PR,2871767.0,2727765.0,-5.01,Forte crescimento,Forte crescimento,Forte crescimento
+4104055,Campo Bonito,PR,237197.0,228292.0,-3.75,Forte crescimento,Forte crescimento,Forte crescimento
+4104105,Campo do Tenente,PR,306673.0,299619.0,-2.3,Retração,Forte retração,Retração
+4104204,Campo Largo,PR,7070393.0,6544664.0,-7.44,Forte crescimento,Forte crescimento,Forte crescimento
+4104253,Campo Magro,PR,700583.0,620867.0,-11.38,Forte crescimento,Crescimento moderado,Crescimento moderado
+4104303,Campo Mourão,PR,5991908.0,6188361.0,3.28,Forte crescimento,Forte crescimento,Forte crescimento
+4104402,Cândido de Abreu,PR,475235.0,465857.0,-1.97,Crescimento moderado,Estabilidade,Estabilidade
+4104428,Candói,PR,901449.0,858986.0,-4.71,Retração,Forte retração,Forte retração
+4104451,Cantagalo,PR,386335.0,385094.0,-0.32,Forte crescimento,Forte crescimento,Crescimento moderado
+4104501,Capanema,PR,1592681.0,1399261.0,-12.14,Forte crescimento,Forte crescimento,Forte crescimento
+4104600,Capitão Leônidas Marques,PR,1300220.0,1178303.0,-9.38,Forte crescimento,Forte retração,Crescimento moderado
+4104659,Carambeí,PR,1989896.0,1905138.0,-4.26,Forte crescimento,Crescimento moderado,Crescimento moderado
+4104709,Carlópolis,PR,575814.0,559444.0,-2.84,Forte crescimento,Forte crescimento,Crescimento moderado
+4104808,Cascavel,PR,19204178.0,19258289.0,0.28,Forte crescimento,Forte crescimento,Forte crescimento
+4104907,Castro,PR,4517501.0,4388390.0,-2.86,Forte crescimento,Crescimento moderado,Crescimento moderado
+4105003,Catanduvas,PR,413685.0,402856.0,-2.62,Crescimento moderado,Forte retração,Retração
+4105102,Centenário do Sul,PR,376525.0,355980.0,-5.46,Forte crescimento,Crescimento moderado,Forte crescimento
+4105201,Cerro Azul,PR,374010.0,362850.0,-2.98,Forte crescimento,Forte crescimento,Forte crescimento
+4105300,Céu Azul,PR,1070583.0,1014122.0,-5.27,Forte crescimento,Forte crescimento,Forte crescimento
+4105409,Chopinzinho,PR,1196360.0,1161433.0,-2.92,Forte crescimento,Forte crescimento,Forte crescimento
+4105508,Cianorte,PR,3986697.0,3758835.0,-5.72,Forte crescimento,Forte crescimento,Forte crescimento
+4105607,Cidade Gaúcha,PR,620524.0,552463.0,-10.97,Forte crescimento,Forte crescimento,Forte crescimento
+4105706,Clevelândia,PR,915575.0,878142.0,-4.09,Forte crescimento,Forte crescimento,Forte crescimento
+4105805,Colombo,PR,7628975.0,6799184.0,-10.88,Forte crescimento,Forte crescimento,Forte crescimento
+4105904,Colorado,PR,1171688.0,997346.0,-14.88,Forte crescimento,Forte crescimento,Forte crescimento
+4106001,Congonhinhas,PR,309517.0,297751.0,-3.8,Forte retração,Forte retração,Forte retração
+4106100,Conselheiro Mairinck,PR,168785.0,159462.0,-5.52,Forte retração,Forte retração,Forte retração
+4106209,Contenda,PR,627818.0,659004.0,4.97,Crescimento moderado,Forte crescimento,Forte crescimento
+4106308,Corbélia,PR,993480.0,992094.0,-0.14,Retração,Retração,Retração
+4106407,Cornélio Procópio,PR,2382241.0,2262746.0,-5.02,Forte crescimento,Crescimento moderado,Crescimento moderado
+4106456,Coronel Domingos Soares,PR,328942.0,346014.0,5.19,Retração,Forte retração,Crescimento moderado
+4106506,Coronel Vivida,PR,1109441.0,1047047.0,-5.62,Forte crescimento,Forte crescimento,Forte crescimento
+4106555,Corumbataí do Sul,PR,104935.0,103747.0,-1.13,Forte crescimento,Forte crescimento,Forte crescimento
+4106571,Cruzeiro do Iguaçu,PR,206651.0,201587.0,-2.45,Forte crescimento,Forte crescimento,Forte crescimento
+4106605,Cruzeiro do Oeste,PR,1089269.0,1016930.0,-6.64,Forte crescimento,Forte crescimento,Forte crescimento
+4106704,Cruzeiro do Sul,PR,281275.0,230609.0,-18.01,Forte crescimento,Crescimento moderado,Forte crescimento
+4106803,Cruz Machado,PR,507964.0,514666.0,1.32,Forte crescimento,Forte crescimento,Forte crescimento
+4106852,Cruzmaltina,PR,189224.0,192892.0,1.94,Retração,Forte retração,Estabilidade
+4106902,Curitiba,PR,120065276.0,118111145.0,-1.63,Forte crescimento,Forte crescimento,Forte crescimento
+4107009,Curiúva,PR,332954.0,324496.0,-2.54,Crescimento moderado,Crescimento moderado,Crescimento moderado
+4107108,Diamante do Norte,PR,413933.0,408091.0,-1.41,Forte crescimento,Forte retração,Forte crescimento
+4107124,Diamante do Sul,PR,85754.0,81572.0,-4.88,Forte crescimento,Forte crescimento,Forte crescimento
+4107157,Diamante D'Oeste,PR,134493.0,125847.0,-6.43,Forte crescimento,Forte crescimento,Forte crescimento
+4107207,Dois Vizinhos,PR,2609173.0,2464611.0,-5.54,Forte crescimento,Forte crescimento,Forte crescimento
+4107256,Douradina,PR,859150.0,853882.0,-0.61,Forte crescimento,Forte crescimento,Forte crescimento
+4107306,Doutor Camargo,PR,242635.0,229458.0,-5.43,Forte crescimento,Forte crescimento,Forte crescimento
+4107405,Enéas Marques,PR,389460.0,362321.0,-6.97,Forte crescimento,Forte crescimento,Forte crescimento
+4107504,Engenheiro Beltrão,PR,698650.0,665429.0,-4.76,Forte crescimento,Forte crescimento,Forte crescimento
+4107520,Esperança Nova,PR,75224.0,66650.0,-11.4,Forte crescimento,Forte retração,Crescimento moderado
+4107538,Entre Rios do Oeste,PR,420778.0,410715.0,-2.39,Forte crescimento,Forte crescimento,Forte crescimento
+4107546,Espigão Alto do Iguaçu,PR,201752.0,195063.0,-3.32,Retração,Forte retração,Retração
+4107553,Farol,PR,255636.0,239556.0,-6.29,Forte crescimento,Forte crescimento,Forte crescimento
+4107603,Faxinal,PR,625079.0,613643.0,-1.83,Forte crescimento,Crescimento moderado,Crescimento moderado
+4107652,Fazenda Rio Grande,PR,4139461.0,4331360.0,4.64,Crescimento moderado,Forte crescimento,Forte crescimento
+4107702,Fênix,PR,243624.0,235527.0,-3.32,Forte crescimento,Forte crescimento,Forte crescimento
+4107736,Fernandes Pinheiro,PR,323922.0,289796.0,-10.54,Forte crescimento,Crescimento moderado,Forte crescimento
+4107751,Figueira,PR,191682.0,173882.0,-9.29,Forte crescimento,Crescimento moderado,Crescimento moderado
+4107801,Floraí,PR,310640.0,302468.0,-2.63,Forte crescimento,Forte crescimento,Forte crescimento
+4107850,Flor da Serra do Sul,PR,206357.0,205195.0,-0.56,Forte crescimento,Forte crescimento,Forte crescimento
+4107900,Floresta,PR,364240.0,337547.0,-7.33,Forte crescimento,Forte crescimento,Forte crescimento
+4108007,Florestópolis,PR,623832.0,498339.0,-20.12,Forte crescimento,Forte retração,Forte crescimento
+4108106,Flórida,PR,101261.0,92488.0,-8.66,Forte crescimento,Forte crescimento,Forte crescimento
+4108205,Formosa do Oeste,PR,405549.0,402032.0,-0.87,Retração,Forte retração,Retração
+4108304,Foz do Iguaçu,PR,16973251.0,18220377.0,7.35,Retração,Forte retração,Crescimento moderado
+4108320,Francisco Alves,PR,254090.0,250793.0,-1.3,Forte crescimento,Forte crescimento,Forte crescimento
+4108403,Francisco Beltrão,PR,4525403.0,4391709.0,-2.95,Forte crescimento,Forte crescimento,Forte crescimento
+4108452,Foz do Jordão,PR,187782.0,180937.0,-3.64,Forte crescimento,Estabilidade,Crescimento moderado
+4108502,General Carneiro,PR,437294.0,450130.0,2.94,Crescimento moderado,Crescimento moderado,Forte crescimento
+4108551,Godoy Moreira,PR,96133.0,87796.0,-8.67,Forte crescimento,Forte crescimento,Forte crescimento
+4108601,Goioerê,PR,1335666.0,1311583.0,-1.8,Forte crescimento,Forte crescimento,Forte crescimento
+4108650,Goioxim,PR,308612.0,312732.0,1.34,Forte retração,Forte retração,Forte retração
+4108700,Grandes Rios,PR,177555.0,168109.0,-5.32,Forte crescimento,Crescimento moderado,Crescimento moderado
+4108809,Guaíra,PR,1438846.0,1396225.0,-2.96,Forte crescimento,Forte crescimento,Forte crescimento
+4108908,Guairaçá,PR,404827.0,351251.0,-13.23,Forte crescimento,Forte crescimento,Forte crescimento
+4108957,Guamiranga,PR,357064.0,311529.0,-12.75,Forte crescimento,Forte crescimento,Forte crescimento
+4109005,Guapirama,PR,228919.0,204442.0,-10.69,Crescimento moderado,Forte retração,Forte retração
+4109104,Guaporema,PR,106183.0,94447.0,-11.05,Forte crescimento,Forte crescimento,Forte crescimento
+4109203,Guaraci,PR,192291.0,184949.0,-3.82,Forte crescimento,Forte crescimento,Forte crescimento
+4109302,Guaraniaçu,PR,604224.0,570356.0,-5.61,Forte crescimento,Forte crescimento,Forte crescimento
+4109401,Guarapuava,PR,9864113.0,9810797.0,-0.54,Forte crescimento,Crescimento moderado,Crescimento moderado
+4109500,Guaraqueçaba,PR,146081.0,139052.0,-4.81,Forte crescimento,Forte crescimento,Forte crescimento
+4109609,Guaratuba,PR,1220949.0,1136281.0,-6.93,Forte crescimento,Forte crescimento,Forte crescimento
+4109658,Honório Serpa,PR,386521.0,354876.0,-8.19,Forte crescimento,Forte crescimento,Forte crescimento
+4109708,Ibaiti,PR,1236457.0,983280.0,-20.48,Forte crescimento,Retração,Estabilidade
+4109757,Ibema,PR,208091.0,205773.0,-1.11,Crescimento moderado,Crescimento moderado,Crescimento moderado
+4109807,Ibiporã,PR,4037855.0,4776928.0,18.3,Forte retração,Forte crescimento,Forte crescimento
+4109906,Icaraíma,PR,329106.0,297057.0,-9.74,Forte crescimento,Forte crescimento,Forte crescimento
+4110003,Iguaraçu,PR,267158.0,264188.0,-1.11,Forte crescimento,Forte crescimento,Forte crescimento
+4110052,Iguatu,PR,94791.0,87448.0,-7.75,Crescimento moderado,Forte retração,Retração
+4110078,Imbaú,PR,320471.0,311404.0,-2.83,Forte crescimento,Crescimento moderado,Forte crescimento
+4110102,Imbituva,PR,1503418.0,1458972.0,-2.96,Forte crescimento,Forte crescimento,Forte crescimento
+4110201,Inácio Martins,PR,249949.0,243982.0,-2.39,Estabilidade,Retração,Retração
+4110300,Inajá,PR,76239.0,64226.0,-15.76,Forte crescimento,Forte crescimento,Forte crescimento
+4110409,Indianópolis,PR,772540.0,711140.0,-7.95,Forte crescimento,Forte retração,Crescimento moderado
+4110508,Ipiranga,PR,776104.0,780839.0,0.61,Forte retração,Forte retração,Forte retração
+4110607,Iporã,PR,850007.0,668177.0,-21.39,Forte crescimento,Forte crescimento,Forte crescimento
+4110656,Iracema do Oeste,PR,126065.0,128146.0,1.65,Forte crescimento,Forte crescimento,Forte crescimento
+4110706,Irati,PR,2816144.0,2789288.0,-0.95,Forte crescimento,Forte crescimento,Forte crescimento
+4110805,Iretama,PR,409528.0,391891.0,-4.31,Forte crescimento,Forte crescimento,Forte crescimento
+4110904,Itaguajé,PR,164295.0,146534.0,-10.81,Forte crescimento,Forte crescimento,Forte crescimento
+4110953,Itaipulândia,PR,566776.0,550671.0,-2.84,Forte crescimento,Forte crescimento,Forte crescimento
+4111001,Itambaracá,PR,279453.0,234418.0,-16.12,Forte crescimento,Forte retração,Forte retração
+4111100,Itambé,PR,276022.0,257871.0,-6.58,Forte crescimento,Forte crescimento,Forte crescimento
+4111209,Itapejara d'Oeste,PR,970545.0,910460.0,-6.19,Forte crescimento,Crescimento moderado,Crescimento moderado
+4111258,Itaperuçu,PR,799718.0,717004.0,-10.34,Forte crescimento,Forte crescimento,Forte crescimento
+4111308,Itaúna do Sul,PR,151825.0,135031.0,-11.06,Forte crescimento,Forte crescimento,Forte crescimento
+4111407,Ivaí,PR,711073.0,546901.0,-23.09,Forte crescimento,Forte crescimento,Forte crescimento
+4111506,Ivaiporã,PR,1142266.0,1114602.0,-2.42,Forte crescimento,Forte crescimento,Forte crescimento
+4111555,Ivaté,PR,280430.0,235650.0,-15.97,Forte crescimento,Forte crescimento,Forte crescimento
+4111605,Ivatuba,PR,167215.0,164690.0,-1.51,Forte crescimento,Forte crescimento,Forte crescimento
+4111704,Jaboti,PR,156576.0,146724.0,-6.29,Retração,Forte retração,Forte retração
+4111803,Jacarezinho,PR,1956993.0,1887273.0,-3.56,Forte crescimento,Forte crescimento,Crescimento moderado
+4111902,Jaguapitã,PR,1452483.0,1364572.0,-6.05,Forte crescimento,Forte crescimento,Forte crescimento
+4112009,Jaguariaíva,PR,2062535.0,1965735.0,-4.69,Forte crescimento,Crescimento moderado,Crescimento moderado
+4112108,Jandaia do Sul,PR,962904.0,949460.0,-1.4,Forte crescimento,Forte crescimento,Forte crescimento
+4112207,Janiópolis,PR,336925.0,320296.0,-4.94,Forte crescimento,Forte crescimento,Forte crescimento
+4112306,Japira,PR,169940.0,161256.0,-5.11,Forte retração,Forte retração,Forte retração
+4112405,Japurá,PR,441907.0,388884.0,-12.0,Forte crescimento,Forte crescimento,Forte crescimento
+4112504,Jardim Alegre,PR,424449.0,429280.0,1.14,Forte crescimento,Forte crescimento,Forte crescimento
+4112603,Jardim Olinda,PR,78979.0,67619.0,-14.38,Forte crescimento,Forte crescimento,Forte crescimento
+4112702,Jataizinho,PR,301470.0,292356.0,-3.02,Estabilidade,Forte retração,Retração
+4112751,Jesuítas,PR,556586.0,546987.0,-1.72,Forte crescimento,Forte crescimento,Forte crescimento
+4112801,Joaquim Távora,PR,872246.0,878564.0,0.72,Crescimento moderado,Crescimento moderado,Crescimento moderado
+4112900,Jundiaí do Sul,PR,157361.0,141441.0,-10.12,Retração,Forte retração,Forte retração
+4112959,Juranda,PR,497087.0,494256.0,-0.57,Forte crescimento,Forte crescimento,Forte crescimento
+4113007,Jussara,PR,370465.0,411936.0,11.19,Retração,Forte crescimento,Forte crescimento
+4113106,Kaloré,PR,201236.0,197036.0,-2.09,Forte crescimento,Forte crescimento,Forte crescimento
+4113205,Lapa,PR,2647566.0,2514057.0,-5.04,Crescimento moderado,Retração,Retração
+4113254,Laranjal,PR,125483.0,118000.0,-5.96,Forte crescimento,Forte crescimento,Forte crescimento
+4113304,Laranjeiras do Sul,PR,1230924.0,1209021.0,-1.78,Forte crescimento,Forte crescimento,Forte crescimento
+4113403,Leópolis,PR,226118.0,204840.0,-9.41,Forte crescimento,Forte crescimento,Forte crescimento
+4113429,Lidianópolis,PR,146837.0,136605.0,-6.97,Forte crescimento,Crescimento moderado,Forte crescimento
+4113452,Lindoeste,PR,249057.0,242244.0,-2.74,Forte crescimento,Crescimento moderado,Crescimento moderado
+4113502,Loanda,PR,909384.0,862695.0,-5.13,Forte crescimento,Forte crescimento,Forte crescimento
+4113601,Lobato,PR,333368.0,286349.0,-14.1,Forte crescimento,Forte crescimento,Forte crescimento
+4113700,Londrina,PR,27999537.0,27915061.0,-0.3,Forte crescimento,Forte crescimento,Forte crescimento
+4113734,Luiziana,PR,599341.0,609255.0,1.65,Forte crescimento,Forte crescimento,Forte crescimento
+4113759,Lunardelli,PR,147290.0,133160.0,-9.59,Forte crescimento,Crescimento moderado,Forte crescimento
+4113809,Lupionópolis,PR,164846.0,157497.0,-4.46,Forte crescimento,Forte crescimento,Forte crescimento
+4113908,Mallet,PR,973316.0,845478.0,-13.13,Forte crescimento,Forte retração,Estabilidade
+4114005,Mamborê,PR,859221.0,853609.0,-0.65,Forte crescimento,Forte crescimento,Forte crescimento
+4114104,Mandaguaçu,PR,995410.0,916444.0,-7.93,Forte crescimento,Forte crescimento,Forte crescimento
+4114203,Mandaguari,PR,2916500.0,2734024.0,-6.26,Forte crescimento,Forte retração,Crescimento moderado
+4114302,Mandirituba,PR,801433.0,778841.0,-2.82,Forte crescimento,Crescimento moderado,Forte crescimento
+4114351,Manfrinópolis,PR,104399.0,97504.0,-6.6,Forte crescimento,Forte crescimento,Forte crescimento
+4114401,Mangueirinha,PR,1869715.0,1779368.0,-4.83,Forte crescimento,Forte retração,Crescimento moderado
+4114500,Manoel Ribas,PR,656196.0,650353.0,-0.89,Crescimento moderado,Crescimento moderado,Crescimento moderado
+4114609,Marechal Cândido Rondon,PR,3919007.0,3954507.0,0.91,Forte crescimento,Forte crescimento,Forte crescimento
+4114708,Maria Helena,PR,176407.0,150114.0,-14.9,Forte crescimento,Crescimento moderado,Forte crescimento
+4114807,Marialva,PR,2964620.0,2957598.0,-0.24,Forte crescimento,Forte crescimento,Forte crescimento
+4114906,Marilândia do Sul,PR,510268.0,492982.0,-3.39,Crescimento moderado,Forte retração,Estabilidade
+4115002,Marilena,PR,237237.0,228506.0,-3.68,Forte crescimento,Forte crescimento,Forte crescimento
+4115101,Mariluz,PR,403957.0,370816.0,-8.2,Forte crescimento,Forte crescimento,Forte crescimento
+4115200,Maringá,PR,27817346.0,28807082.0,3.56,Crescimento moderado,Forte crescimento,Forte crescimento
+4115309,Mariópolis,PR,554034.0,633780.0,14.39,Forte retração,Forte retração,Estabilidade
+4115358,Maripá,PR,535683.0,548814.0,2.45,Forte crescimento,Forte crescimento,Forte crescimento
+4115408,Marmeleiro,PR,738403.0,750406.0,1.63,Forte crescimento,Forte crescimento,Forte crescimento
+4115457,Marquinho,PR,134982.0,135713.0,0.54,Forte crescimento,Forte crescimento,Forte crescimento
+4115507,Marumbi,PR,134313.0,118511.0,-11.76,Forte crescimento,Forte crescimento,Forte crescimento
+4115606,Matelândia,PR,1440815.0,1401315.0,-2.74,Forte crescimento,Forte crescimento,Forte crescimento
+4115705,Matinhos,PR,1148205.0,1134758.0,-1.17,Forte crescimento,Forte crescimento,Forte crescimento
+4115739,Mato Rico,PR,157348.0,147121.0,-6.5,Forte crescimento,Forte crescimento,Forte crescimento
+4115754,Mauá da Serra,PR,527212.0,549408.0,4.21,Retração,Forte retração,Estabilidade
+4115804,Medianeira,PR,3007596.0,2914988.0,-3.08,Forte crescimento,Forte crescimento,Forte crescimento
+4115853,Mercedes,PR,311869.0,301604.0,-3.29,Forte crescimento,Forte crescimento,Forte crescimento
+4115903,Mirador,PR,178999.0,154875.0,-13.48,Forte crescimento,Forte crescimento,Forte crescimento
+4116000,Miraselva,PR,69394.0,61052.0,-12.02,Forte crescimento,Crescimento moderado,Estabilidade
+4116059,Missal,PR,496708.0,474005.0,-4.57,Forte crescimento,Forte crescimento,Forte crescimento
+4116109,Moreira Sales,PR,382098.0,356507.0,-6.7,Forte crescimento,Forte crescimento,Forte crescimento
+4116208,Morretes,PR,534712.0,446644.0,-16.47,Forte crescimento,Forte crescimento,Forte crescimento
+4116307,Munhoz de Melo,PR,176663.0,149002.0,-15.66,Forte crescimento,Estabilidade,Estabilidade
+4116406,Nossa Senhora das Graças,PR,126913.0,110688.0,-12.78,Forte crescimento,Forte crescimento,Forte crescimento
+4116505,Nova Aliança do Ivaí,PR,71238.0,61848.0,-13.18,Forte crescimento,Forte crescimento,Forte crescimento
+4116604,Nova América da Colina,PR,108097.0,104741.0,-3.1,Forte crescimento,Crescimento moderado,Crescimento moderado
+4116703,Nova Aurora,PR,1040813.0,970296.0,-6.78,Forte crescimento,Forte crescimento,Forte crescimento
+4116802,Nova Cantu,PR,341725.0,344788.0,0.9,Crescimento moderado,Forte retração,Crescimento moderado
+4116901,Nova Esperança,PR,1253498.0,1207705.0,-3.65,Forte crescimento,Forte crescimento,Forte crescimento
+4116950,Nova Esperança do Sudoeste,PR,198770.0,200287.0,0.76,Forte crescimento,Forte crescimento,Forte crescimento
+4117008,Nova Fátima,PR,327433.0,337863.0,3.19,Forte retração,Forte retração,Forte retração
+4117057,Nova Laranjeiras,PR,378372.0,370335.0,-2.12,Forte crescimento,Forte crescimento,Forte crescimento
+4117107,Nova Londrina,PR,718418.0,660145.0,-8.11,Forte crescimento,Forte crescimento,Forte crescimento
+4117206,Nova Olímpia,PR,132741.0,124084.0,-6.52,Forte crescimento,Forte crescimento,Forte crescimento
+4117214,Nova Santa Bárbara,PR,131609.0,124346.0,-5.52,Crescimento moderado,Forte retração,Retração
+4117222,Nova Santa Rosa,PR,484275.0,465593.0,-3.86,Forte crescimento,Forte crescimento,Forte crescimento
+4117255,Nova Prata do Iguaçu,PR,560124.0,531753.0,-5.07,Forte crescimento,Forte crescimento,Forte crescimento
+4117271,Nova Tebas,PR,237202.0,227683.0,-4.01,Forte crescimento,Forte retração,Crescimento moderado
+4117297,Novo Itacolomi,PR,124923.0,110032.0,-11.92,Forte crescimento,Forte crescimento,Forte crescimento
+4117305,Ortigueira,PR,3592270.0,3206489.0,-10.74,Forte crescimento,Forte retração,Crescimento moderado
+4117404,Ourizona,PR,186573.0,184709.0,-1.0,Forte crescimento,Forte crescimento,Forte crescimento
+4117453,Ouro Verde do Oeste,PR,297137.0,297957.0,0.28,Forte crescimento,Forte crescimento,Forte crescimento
+4117503,Paiçandu,PR,1342362.0,1323703.0,-1.39,Forte crescimento,Forte crescimento,Forte crescimento
+4117602,Palmas,PR,1728162.0,1711456.0,-0.97,Forte crescimento,Crescimento moderado,Forte crescimento
+4117701,Palmeira,PR,2220003.0,2114674.0,-4.74,Forte crescimento,Forte crescimento,Forte crescimento
+4117800,Palmital,PR,406781.0,393869.0,-3.17,Forte crescimento,Crescimento moderado,Crescimento moderado
+4117909,Palotina,PR,3698095.0,3495006.0,-5.49,Forte crescimento,Forte crescimento,Forte crescimento
+4118006,Paraíso do Norte,PR,533427.0,466815.0,-12.49,Forte crescimento,Forte crescimento,Forte crescimento
+4118105,Paranacity,PR,517609.0,406028.0,-21.56,Forte crescimento,Forte crescimento,Forte crescimento
+4118204,Paranaguá,PR,15291703.0,17382289.0,13.67,Forte retração,Forte crescimento,Forte crescimento
+4118303,Paranapoema,PR,88781.0,88430.0,-0.4,Forte crescimento,Forte crescimento,Forte crescimento
+4118402,Paranavaí,PR,4189765.0,3872088.0,-7.58,Forte crescimento,Forte crescimento,Forte crescimento
+4118451,Pato Bragado,PR,269744.0,247243.0,-8.34,Forte crescimento,Forte crescimento,Forte crescimento
+4118501,Pato Branco,PR,5817896.0,5822624.0,0.08,Forte crescimento,Forte crescimento,Forte crescimento
+4118600,Paula Freitas,PR,488532.0,511794.0,4.76,Retração,Forte retração,Crescimento moderado
+4118709,Paulo Frontin,PR,473855.0,451710.0,-4.67,Crescimento moderado,Forte retração,Retração
+4118808,Peabiru,PR,530693.0,532424.0,0.33,Forte crescimento,Forte crescimento,Forte crescimento
+4118857,Perobal,PR,354948.0,366452.0,3.24,Forte crescimento,Forte crescimento,Forte crescimento
+4118907,Pérola,PR,364026.0,368367.0,1.19,Forte crescimento,Forte crescimento,Forte crescimento
+4119004,Pérola d'Oeste,PR,270487.0,269354.0,-0.42,Forte crescimento,Forte crescimento,Forte crescimento
+4119103,Piên,PR,853225.0,929939.0,8.99,Forte retração,Retração,Estabilidade
+4119152,Pinhais,PR,9852601.0,9545540.0,-3.12,Forte crescimento,Crescimento moderado,Forte crescimento
+4119202,Pinhalão,PR,251911.0,245646.0,-2.49,Forte retração,Forte retração,Forte retração
+4119251,Pinhal de São Bento,PR,82104.0,82643.0,0.66,Forte crescimento,Forte crescimento,Forte crescimento
+4119301,Pinhão,PR,1851108.0,1810491.0,-2.19,Crescimento moderado,Estabilidade,Estabilidade
+4119400,Piraí do Sul,PR,1441276.0,1327352.0,-7.9,Forte crescimento,Forte retração,Retração
+4119509,Piraquara,PR,1901529.0,1819717.0,-4.3,Forte crescimento,Forte crescimento,Forte crescimento
+4119608,Pitanga,PR,1448744.0,1438257.0,-0.72,Forte crescimento,Forte crescimento,Crescimento moderado
+4119657,Pitangueiras,PR,160573.0,151370.0,-5.73,Crescimento moderado,Forte retração,Retração
+4119707,Planaltina do Paraná,PR,149540.0,136027.0,-9.04,Forte crescimento,Forte crescimento,Forte crescimento
+4119806,Planalto,PR,526048.0,513546.0,-2.38,Forte crescimento,Forte crescimento,Forte crescimento
+4119905,Ponta Grossa,PR,25583325.0,24552232.0,-4.03,Forte crescimento,Forte crescimento,Forte crescimento
+4119954,Pontal do Paraná,PR,809708.0,797588.0,-1.5,Forte crescimento,Forte crescimento,Forte crescimento
+4120002,Porecatu,PR,732948.0,716591.0,-2.23,Forte crescimento,Forte retração,Forte crescimento
+4120101,Porto Amazonas,PR,391662.0,232782.0,-40.57,Forte crescimento,Forte retração,Retração
+4120150,Porto Barreiro,PR,169168.0,172724.0,2.1,Forte retração,Forte retração,Forte retração
+4120200,Porto Rico,PR,152980.0,130922.0,-14.42,Forte crescimento,Forte crescimento,Forte crescimento
+4120309,Porto Vitória,PR,98341.0,97479.0,-0.88,Forte crescimento,Forte crescimento,Forte crescimento
+4120333,Prado Ferreira,PR,207955.0,199882.0,-3.88,Crescimento moderado,Forte retração,Estabilidade
+4120358,Pranchita,PR,378687.0,375279.0,-0.9,Forte crescimento,Forte crescimento,Forte crescimento
+4120408,Presidente Castelo Branco,PR,197136.0,185002.0,-6.16,Forte crescimento,Retração,Estabilidade
+4120507,Primeiro de Maio,PR,462476.0,441119.0,-4.62,Estabilidade,Forte retração,Retração
+4120606,Prudentópolis,PR,1905943.0,1799970.0,-5.56,Forte crescimento,Forte crescimento,Forte crescimento
+4120655,Quarto Centenário,PR,409019.0,383955.0,-6.13,Forte crescimento,Forte crescimento,Forte crescimento
+4120705,Quatiguá,PR,244507.0,244688.0,0.07,Forte crescimento,Crescimento moderado,Forte crescimento
+4120804,Quatro Barras,PR,2336181.0,2275011.0,-2.62,Forte crescimento,Forte crescimento,Forte crescimento
+4120853,Quatro Pontes,PR,307122.0,287798.0,-6.29,Forte crescimento,Forte crescimento,Forte crescimento
+4120903,Quedas do Iguaçu,PR,1927945.0,1928189.0,0.01,Forte crescimento,Forte crescimento,Forte crescimento
+4121000,Querência do Norte,PR,342244.0,327095.0,-4.43,Forte crescimento,Forte crescimento,Forte crescimento
+4121109,Quinta do Sol,PR,314953.0,309814.0,-1.63,Forte crescimento,Forte crescimento,Forte crescimento
+4121208,Quitandinha,PR,594459.0,580879.0,-2.28,Forte crescimento,Crescimento moderado,Crescimento moderado
+4121257,Ramilândia,PR,126585.0,123638.0,-2.33,Forte crescimento,Forte crescimento,Forte crescimento
+4121307,Rancho Alegre,PR,197170.0,183562.0,-6.9,Forte crescimento,Forte retração,Forte crescimento
+4121356,Rancho Alegre D'Oeste,PR,235642.0,218797.0,-7.15,Forte crescimento,Forte crescimento,Forte crescimento
+4121406,Realeza,PR,958987.0,907323.0,-5.39,Forte crescimento,Forte crescimento,Forte crescimento
+4121505,Rebouças,PR,635752.0,565262.0,-11.09,Forte crescimento,Crescimento moderado,Crescimento moderado
+4121604,Renascença,PR,460072.0,457597.0,-0.54,Forte crescimento,Forte crescimento,Forte crescimento
+4121703,Reserva,PR,764371.0,757780.0,-0.86,Retração,Retração,Retração
+4121752,Reserva do Iguaçu,PR,257839.0,249829.0,-3.11,Retração,Forte retração,Forte retração
+4121802,Ribeirão Claro,PR,609741.0,508019.0,-16.68,Forte crescimento,Crescimento moderado,Crescimento moderado
+4121901,Ribeirão do Pinhal,PR,487933.0,460756.0,-5.57,Forte crescimento,Forte retração,Estabilidade
+4122008,Rio Azul,PR,996992.0,903569.0,-9.37,Forte crescimento,Forte retração,Retração
+4122107,Rio Bom,PR,118815.0,110191.0,-7.26,Crescimento moderado,Forte retração,Retração
+4122156,Rio Bonito do Iguaçu,PR,514285.0,504974.0,-1.81,Crescimento moderado,Estabilidade,Estabilidade
+4122172,Rio Branco do Ivaí,PR,174700.0,164177.0,-6.02,Forte crescimento,Forte crescimento,Forte crescimento
+4122206,Rio Branco do Sul,PR,1850826.0,1697216.0,-8.3,Forte crescimento,Forte crescimento,Crescimento moderado
+4122305,Rio Negro,PR,1456165.0,1423956.0,-2.21,Forte crescimento,Crescimento moderado,Crescimento moderado
+4122404,Rolândia,PR,4602704.0,4404369.0,-4.31,Forte crescimento,Forte crescimento,Forte crescimento
+4122503,Roncador,PR,639474.0,641111.0,0.26,Crescimento moderado,Forte retração,Crescimento moderado
+4122602,Rondon,PR,538736.0,447529.0,-16.93,Forte crescimento,Forte crescimento,Forte crescimento
+4122651,Rosário do Ivaí,PR,166638.0,151539.0,-9.06,Forte crescimento,Forte crescimento,Forte crescimento
+4122701,Sabáudia,PR,741345.0,755571.0,1.92,Forte crescimento,Forte crescimento,Forte crescimento
+4122800,Salgado Filho,PR,144581.0,145061.0,0.33,Forte crescimento,Forte crescimento,Forte crescimento
+4122909,Salto do Itararé,PR,124160.0,110533.0,-10.98,Forte crescimento,Estabilidade,Retração
+4123006,Salto do Lontra,PR,628454.0,620137.0,-1.32,Forte crescimento,Forte crescimento,Forte crescimento
+4123105,Santa Amélia,PR,141542.0,114961.0,-18.78,Forte crescimento,Forte retração,Retração
+4123204,Santa Cecília do Pavão,PR,179166.0,180216.0,0.59,Retração,Forte retração,Retração
+4123303,Santa Cruz de Monte Castelo,PR,387175.0,413782.0,6.87,Forte crescimento,Forte crescimento,Forte crescimento
+4123402,Santa Fé,PR,449906.0,404064.0,-10.19,Forte crescimento,Forte crescimento,Forte crescimento
+4123501,Santa Helena,PR,1641044.0,1706088.0,3.96,Forte crescimento,Forte crescimento,Forte crescimento
+4123600,Santa Inês,PR,85155.0,68934.0,-19.05,Forte crescimento,Forte crescimento,Forte crescimento
+4123709,Santa Isabel do Ivaí,PR,293692.0,290360.0,-1.13,Forte crescimento,Forte crescimento,Forte crescimento
+4123808,Santa Izabel do Oeste,PR,514079.0,518674.0,0.89,Forte crescimento,Forte crescimento,Forte crescimento
+4123824,Santa Lúcia,PR,158188.0,156753.0,-0.91,Crescimento moderado,Retração,Estabilidade
+4123857,Santa Maria do Oeste,PR,353046.0,334981.0,-5.12,Forte crescimento,Forte retração,Crescimento moderado
+4123907,Santa Mariana,PR,497961.0,515997.0,3.62,Forte crescimento,Forte crescimento,Forte crescimento
+4123956,Santa Mônica,PR,115471.0,112709.0,-2.39,Forte crescimento,Forte crescimento,Forte crescimento
+4124004,Santana do Itararé,PR,184042.0,174327.0,-5.28,Forte retração,Forte retração,Forte retração
+4124020,Santa Tereza do Oeste,PR,713315.0,687837.0,-3.57,Forte crescimento,Crescimento moderado,Crescimento moderado
+4124053,Santa Terezinha de Itaipu,PR,765144.0,810203.0,5.89,Forte crescimento,Forte crescimento,Forte crescimento
+4124103,Santo Antônio da Platina,PR,1837884.0,1811736.0,-1.42,Crescimento moderado,Crescimento moderado,Crescimento moderado
+4124202,Santo Antônio do Caiuá,PR,70027.0,66427.0,-5.14,Forte crescimento,Forte crescimento,Forte crescimento
+4124301,Santo Antônio do Paraíso,PR,114799.0,110604.0,-3.65,Forte retração,Forte retração,Forte retração
+4124400,Santo Antônio do Sudoeste,PR,804866.0,825847.0,2.61,Forte crescimento,Forte crescimento,Forte crescimento
+4124509,Santo Inácio,PR,836727.0,753544.0,-9.94,Forte crescimento,Forte crescimento,Forte crescimento
+4124608,São Carlos do Ivaí,PR,567836.0,488539.0,-13.96,Forte crescimento,Forte crescimento,Forte crescimento
+4124707,São Jerônimo da Serra,PR,349306.0,341229.0,-2.31,Forte retração,Forte retração,Forte retração
+4124806,São João,PR,1220178.0,1200890.0,-1.58,Forte crescimento,Forte crescimento,Forte crescimento
+4124905,São João do Caiuá,PR,191656.0,165215.0,-13.8,Forte crescimento,Forte crescimento,Forte crescimento
+4125001,São João do Ivaí,PR,410617.0,387086.0,-5.73,Forte crescimento,Forte crescimento,Forte crescimento
+4125100,São João do Triunfo,PR,875907.0,775592.0,-11.45,Forte crescimento,Forte crescimento,Forte crescimento
+4125209,São Jorge d'Oeste,PR,531521.0,532633.0,0.21,Forte crescimento,Forte crescimento,Forte crescimento
+4125308,São Jorge do Ivaí,PR,417316.0,433751.0,3.94,Forte crescimento,Forte crescimento,Forte crescimento
+4125357,São Jorge do Patrocínio,PR,183232.0,176080.0,-3.9,Forte crescimento,Forte retração,Crescimento moderado
+4125407,São José da Boa Vista,PR,232641.0,212917.0,-8.48,Forte retração,Forte retração,Forte retração
+4125456,São José das Palmeiras,PR,109674.0,104437.0,-4.77,Forte crescimento,Forte crescimento,Forte crescimento
+4125506,São José dos Pinhais,PR,33957964.0,34160098.0,0.6,Forte crescimento,Forte crescimento,Forte crescimento
+4125555,São Manoel do Paraná,PR,83030.0,72096.0,-13.17,Forte crescimento,Forte crescimento,Forte crescimento
+4125605,São Mateus do Sul,PR,1934142.0,1865496.0,-3.55,Crescimento moderado,Crescimento moderado,Estabilidade
+4125704,São Miguel do Iguaçu,PR,1484412.0,1576375.0,6.2,Crescimento moderado,Forte crescimento,Forte crescimento
+4125753,São Pedro do Iguaçu,PR,267877.0,261287.0,-2.46,Forte crescimento,Forte crescimento,Forte crescimento
+4125803,São Pedro do Ivaí,PR,453058.0,437981.0,-3.33,Forte crescimento,Forte crescimento,Forte crescimento
+4125902,São Pedro do Paraná,PR,111291.0,100880.0,-9.35,Forte crescimento,Forte crescimento,Forte crescimento
+4126009,São Sebastião da Amoreira,PR,277569.0,284846.0,2.62,Forte retração,Forte retração,Forte retração
+4126108,São Tomé,PR,221194.0,196805.0,-11.03,Forte crescimento,Forte crescimento,Forte crescimento
+4126207,Sapopema,PR,183023.0,154268.0,-15.71,Forte crescimento,Retração,Retração
+4126256,Sarandi,PR,2398690.0,2492824.0,3.92,Forte crescimento,Forte crescimento,Forte crescimento
+4126272,Saudade do Iguaçu,PR,1143427.0,1081331.0,-5.43,Retração,Forte retração,Forte retração
+4126306,Sengés,PR,690924.0,642909.0,-6.95,Forte crescimento,Retração,Retração
+4126355,Serranópolis do Iguaçu,PR,272573.0,282486.0,3.64,Forte crescimento,Forte crescimento,Forte crescimento
+4126405,Sertaneja,PR,465712.0,398026.0,-14.53,Forte crescimento,Crescimento moderado,Forte crescimento
+4126504,Sertanópolis,PR,863931.0,857670.0,-0.72,Retração,Forte retração,Retração
+4126603,Siqueira Campos,PR,851121.0,817301.0,-3.97,Forte crescimento,Crescimento moderado,Crescimento moderado
+4126652,Sulina,PR,190979.0,179250.0,-6.14,Forte crescimento,Forte retração,Forte crescimento
+4126678,Tamarana,PR,474596.0,436086.0,-8.11,Forte crescimento,Forte retração,Retração
+4126702,Tamboara,PR,184145.0,163607.0,-11.15,Forte crescimento,Forte crescimento,Forte crescimento
+4126801,Tapejara,PR,731143.0,605499.0,-17.18,Forte crescimento,Forte crescimento,Forte crescimento
+4126900,Tapira,PR,187714.0,164541.0,-12.34,Forte crescimento,Crescimento moderado,Forte crescimento
+4127007,Teixeira Soares,PR,633083.0,631103.0,-0.31,Forte crescimento,Forte retração,Forte crescimento
+4127106,Telêmaco Borba,PR,6409425.0,5392943.0,-15.86,Forte crescimento,Forte retração,Forte crescimento
+4127205,Terra Boa,PR,709922.0,666892.0,-6.06,Forte crescimento,Forte crescimento,Forte crescimento
+4127304,Terra Rica,PR,539546.0,488713.0,-9.42,Forte crescimento,Forte crescimento,Forte crescimento
+4127403,Terra Roxa,PR,921400.0,962376.0,4.45,Forte crescimento,Forte crescimento,Forte crescimento
+4127502,Tibagi,PR,1448624.0,1468221.0,1.35,Forte retração,Forte retração,Forte retração
+4127601,Tijucas do Sul,PR,554175.0,645422.0,16.47,Forte retração,Crescimento moderado,Crescimento moderado
+4127700,Toledo,PR,9508572.0,9331013.0,-1.87,Forte crescimento,Forte crescimento,Forte crescimento
+4127809,Tomazina,PR,350465.0,332092.0,-5.24,Forte retração,Forte retração,Forte retração
+4127858,Três Barras do Paraná,PR,453550.0,452715.0,-0.18,Estabilidade,Retração,Estabilidade
+4127882,Tunas do Paraná,PR,142467.0,142737.0,0.19,Forte crescimento,Crescimento moderado,Forte crescimento
+4127908,Tuneiras do Oeste,PR,297521.0,283353.0,-4.76,Forte crescimento,Forte crescimento,Forte crescimento
+4127957,Tupãssi,PR,520417.0,497682.0,-4.37,Forte crescimento,Forte crescimento,Forte crescimento
+4127965,Turvo,PR,697870.0,648010.0,-7.14,Forte crescimento,Crescimento moderado,Crescimento moderado
+4128005,Ubiratã,PR,2129922.0,1970299.0,-7.49,Forte crescimento,Forte crescimento,Forte crescimento
+4128104,Umuarama,PR,5096996.0,4810873.0,-5.61,Forte crescimento,Forte crescimento,Forte crescimento
+4128203,União da Vitória,PR,2223373.0,2112004.0,-5.01,Forte crescimento,Forte crescimento,Forte crescimento
+4128302,Uniflor,PR,131665.0,105667.0,-19.75,Forte crescimento,Retração,Crescimento moderado
+4128401,Uraí,PR,395053.0,365747.0,-7.42,Forte crescimento,Crescimento moderado,Forte crescimento
+4128500,Wenceslau Braz,PR,767256.0,783087.0,2.06,Forte retração,Forte retração,Forte retração
+4128534,Ventania,PR,378784.0,359361.0,-5.13,Retração,Forte retração,Forte retração
+4128559,Vera Cruz do Oeste,PR,335607.0,321928.0,-4.08,Forte crescimento,Forte crescimento,Forte crescimento
+4128609,Verê,PR,606828.0,613443.0,1.09,Forte crescimento,Forte crescimento,Forte crescimento
+4128625,Alto Paraíso,PR,147760.0,145265.0,-1.69,Forte crescimento,Forte crescimento,Forte crescimento
+4128633,Doutor Ulysses,PR,116147.0,123268.0,6.13,Forte crescimento,Forte crescimento,Forte crescimento
+4128658,Virmond,PR,241579.0,215954.0,-10.61,Forte crescimento,Forte crescimento,Forte crescimento
+4128708,Vitorino,PR,631025.0,636751.0,0.91,Forte crescimento,Forte crescimento,Forte crescimento
+4128807,Xambrê,PR,138498.0,139212.0,0.52,Forte crescimento,Forte crescimento,Forte crescimento
+4200051,Abdon Batista,SC,115985.0,102111.0,-11.96,Forte crescimento,Forte retração,Forte retração
+4200101,Abelardo Luz,SC,1085858.0,978510.0,-9.89,Forte crescimento,Forte retração,Retração
+4200200,Agrolândia,SC,496110.0,476003.0,-4.05,Forte crescimento,Crescimento moderado,Forte crescimento
+4200309,Agronômica,SC,279406.0,249135.0,-10.83,Forte crescimento,Crescimento moderado,Forte crescimento
+4200408,Água Doce,SC,747812.0,744992.0,-0.38,Estabilidade,Forte retração,Retração
+4200507,Águas de Chapecó,SC,240633.0,185566.0,-22.88,Forte crescimento,Forte crescimento,Forte crescimento
+4200556,Águas Frias,SC,183332.0,221922.0,21.05,Forte retração,Forte retração,Forte crescimento
+4200606,Águas Mornas,SC,281792.0,229952.0,-18.4,Forte crescimento,Forte crescimento,Forte crescimento
+4200705,Alfredo Wagner,SC,414787.0,370748.0,-10.62,Forte crescimento,Estabilidade,Forte crescimento
+4200754,Alto Bela Vista,SC,94012.0,85215.0,-9.36,Forte crescimento,Retração,Crescimento moderado
+4200804,Anchieta,SC,261385.0,231617.0,-11.39,Forte crescimento,Forte crescimento,Crescimento moderado
+4200903,Angelina,SC,192262.0,166754.0,-13.27,Forte crescimento,Forte crescimento,Forte crescimento
+4201000,Anita Garibaldi,SC,251491.0,236048.0,-6.14,Forte crescimento,Forte crescimento,Forte crescimento
+4201109,Anitápolis,SC,117403.0,101060.0,-13.92,Forte crescimento,Forte crescimento,Forte crescimento
+4201208,Antônio Carlos,SC,1163092.0,918362.0,-21.04,Forte crescimento,Forte crescimento,Forte crescimento
+4201257,Apiúna,SC,510610.0,524318.0,2.68,Forte crescimento,Crescimento moderado,Forte crescimento
+4201273,Arabutã,SC,400561.0,359056.0,-10.36,Forte crescimento,Forte retração,Crescimento moderado
+4201307,Araquari,SC,9900040.0,8909685.0,-10.0,Forte crescimento,Forte retração,Forte crescimento
+4201406,Araranguá,SC,3023100.0,2939205.0,-2.78,Forte crescimento,Forte crescimento,Forte crescimento
+4201505,Armazém,SC,343668.0,316717.0,-7.84,Forte crescimento,Forte crescimento,Forte crescimento
+4201604,Arroio Trinta,SC,154297.0,137802.0,-10.69,Forte crescimento,Retração,Estabilidade
+4201653,Arvoredo,SC,194588.0,197425.0,1.46,Forte crescimento,Forte retração,Forte crescimento
+4201703,Ascurra,SC,315202.0,301023.0,-4.5,Forte crescimento,Forte crescimento,Forte crescimento
+4201802,Atalanta,SC,146755.0,145735.0,-0.7,Crescimento moderado,Forte retração,Crescimento moderado
+4201901,Aurora,SC,468008.0,435618.0,-6.92,Forte crescimento,Forte crescimento,Forte crescimento
+4201950,Balneário Arroio do Silva,SC,302101.0,272378.0,-9.84,Forte crescimento,Forte crescimento,Forte crescimento
+4202008,Balneário Camboriú,SC,9004373.0,8342924.0,-7.35,Forte crescimento,Forte crescimento,Crescimento moderado
+4202057,Balneário Barra do Sul,SC,321609.0,308047.0,-4.22,Forte crescimento,Forte crescimento,Forte crescimento
+4202073,Balneário Gaivota,SC,308869.0,287823.0,-6.81,Forte crescimento,Forte crescimento,Forte crescimento
+4202081,Bandeirante,SC,130220.0,121341.0,-6.82,Forte crescimento,Forte crescimento,Forte crescimento
+4202099,Barra Bonita,SC,66206.0,55824.0,-15.68,Forte crescimento,Crescimento moderado,Estabilidade
+4202107,Barra Velha,SC,2468505.0,2880753.0,16.7,Retração,Forte crescimento,Forte crescimento
+4202131,Bela Vista do Toldo,SC,277735.0,235348.0,-15.26,Forte crescimento,Forte crescimento,Forte crescimento
+4202156,Belmonte,SC,86050.0,79804.0,-7.26,Forte crescimento,Forte crescimento,Forte crescimento
+4202206,Benedito Novo,SC,496824.0,497270.0,0.09,Forte crescimento,Crescimento moderado,Forte crescimento
+4202305,Biguaçu,SC,3523318.0,3238334.0,-8.09,Forte crescimento,Forte crescimento,Forte crescimento
+4202404,Blumenau,SC,24871920.0,24501492.0,-1.49,Forte crescimento,Forte crescimento,Forte crescimento
+4202438,Bocaina do Sul,SC,145084.0,130290.0,-10.2,Forte crescimento,Retração,Retração
+4202453,Bombinhas,SC,1178868.0,1027747.0,-12.82,Forte crescimento,Forte crescimento,Forte crescimento
+4202503,Bom Jardim da Serra,SC,338788.0,326160.0,-3.73,Forte crescimento,Forte crescimento,Forte crescimento
+4202537,Bom Jesus,SC,187852.0,191442.0,1.91,Crescimento moderado,Forte crescimento,Forte crescimento
+4202578,Bom Jesus do Oeste,SC,103572.0,89435.0,-13.65,Forte crescimento,Forte crescimento,Forte crescimento
+4202602,Bom Retiro,SC,454470.0,436179.0,-4.02,Forte crescimento,Crescimento moderado,Crescimento moderado
+4202701,Botuverá,SC,554189.0,489326.0,-11.7,Forte crescimento,Forte retração,Forte crescimento
+4202800,Braço do Norte,SC,2195935.0,2127659.0,-3.11,Forte crescimento,Forte crescimento,Forte crescimento
+4202859,Braço do Trombudo,SC,273816.0,281001.0,2.62,Forte crescimento,Forte crescimento,Forte crescimento
+4202875,Brunópolis,SC,143766.0,137897.0,-4.08,Forte crescimento,Forte crescimento,Forte crescimento
+4202909,Brusque,SC,11071535.0,10669632.0,-3.63,Forte crescimento,Forte crescimento,Forte crescimento
+4203006,Caçador,SC,5375161.0,5383074.0,0.15,Forte crescimento,Forte crescimento,Forte crescimento
+4203105,Caibi,SC,382027.0,360632.0,-5.6,Forte crescimento,Forte retração,Forte crescimento
+4203154,Calmon,SC,135173.0,122076.0,-9.69,Forte crescimento,Forte crescimento,Forte crescimento
+4203204,Camboriú,SC,2703378.0,2803237.0,3.69,Forte crescimento,Forte crescimento,Forte crescimento
+4203253,Capão Alto,SC,281798.0,251291.0,-10.83,Forte crescimento,Forte crescimento,Forte crescimento
+4203303,Campo Alegre,SC,872665.0,820117.0,-6.02,Forte crescimento,Forte retração,Forte crescimento
+4203402,Campo Belo do Sul,SC,401476.0,345410.0,-13.96,Forte crescimento,Forte crescimento,Forte crescimento
+4203501,Campo Erê,SC,532119.0,500850.0,-5.88,Forte crescimento,Crescimento moderado,Crescimento moderado
+4203600,Campos Novos,SC,3456854.0,3299963.0,-4.54,Forte crescimento,Crescimento moderado,Crescimento moderado
+4203709,Canelinha,SC,412708.0,388999.0,-5.74,Forte crescimento,Forte crescimento,Forte crescimento
+4203808,Canoinhas,SC,2759648.0,2603679.0,-5.65,Forte crescimento,Forte crescimento,Forte crescimento
+4203907,Capinzal,SC,1482554.0,1357447.0,-8.44,Forte crescimento,Crescimento moderado,Forte crescimento
+4203956,Capivari de Baixo,SC,689019.0,663009.0,-3.77,Forte crescimento,Crescimento moderado,Forte crescimento
+4204004,Catanduvas,SC,676611.0,666477.0,-1.5,Forte crescimento,Crescimento moderado,Forte crescimento
+4204103,Caxambu do Sul,SC,248344.0,217844.0,-12.28,Forte crescimento,Forte retração,Crescimento moderado
+4204152,Celso Ramos,SC,96487.0,85307.0,-11.59,Forte crescimento,Crescimento moderado,Crescimento moderado
+4204178,Cerro Negro,SC,152293.0,139901.0,-8.14,Forte crescimento,Forte crescimento,Forte crescimento
+4204194,Chapadão do Lageado,SC,147115.0,126973.0,-13.69,Forte crescimento,Forte crescimento,Forte crescimento
+4204202,Chapecó,SC,17619284.0,17069484.0,-3.12,Forte crescimento,Forte crescimento,Forte crescimento
+4204251,Cocal do Sul,SC,1084930.0,1072122.0,-1.18,Forte crescimento,Crescimento moderado,Forte crescimento
+4204301,Concórdia,SC,5510392.0,5482199.0,-0.51,Forte crescimento,Forte crescimento,Forte crescimento
+4204350,Cordilheira Alta,SC,529198.0,488151.0,-7.76,Forte crescimento,Forte crescimento,Forte crescimento
+4204400,Coronel Freitas,SC,484593.0,451124.0,-6.91,Forte crescimento,Forte crescimento,Forte crescimento
+4204459,Coronel Martins,SC,74761.0,74335.0,-0.57,Forte crescimento,Forte crescimento,Forte crescimento
+4204509,Corupá,SC,1055553.0,918700.0,-12.97,Forte crescimento,Forte crescimento,Forte crescimento
+4204558,Correia Pinto,SC,763282.0,702717.0,-7.93,Forte crescimento,Forte crescimento,Forte crescimento
+4204608,Criciúma,SC,12339548.0,12031724.0,-2.49,Forte crescimento,Forte crescimento,Forte crescimento
+4204707,Cunha Porã,SC,1090031.0,1104599.0,1.34,Forte crescimento,Forte crescimento,Forte crescimento
+4204756,Cunhataí,SC,106831.0,86866.0,-18.69,Forte crescimento,Forte crescimento,Forte crescimento
+4204806,Curitibanos,SC,2003888.0,2127433.0,6.17,Estabilidade,Crescimento moderado,Forte crescimento
+4204905,Descanso,SC,382121.0,361620.0,-5.36,Forte crescimento,Forte crescimento,Forte crescimento
+4205001,Dionísio Cerqueira,SC,674813.0,635093.0,-5.89,Forte crescimento,Forte crescimento,Forte crescimento
+4205100,Dona Emma,SC,184448.0,189306.0,2.63,Crescimento moderado,Crescimento moderado,Forte crescimento
+4205159,Doutor Pedrinho,SC,184032.0,179703.0,-2.35,Forte crescimento,Crescimento moderado,Forte crescimento
+4205175,Entre Rios,SC,75981.0,73231.0,-3.62,Forte crescimento,Forte crescimento,Forte crescimento
+4205191,Ermo,SC,241247.0,193524.0,-19.78,Forte crescimento,Forte crescimento,Forte crescimento
+4205209,Erval Velho,SC,253179.0,244796.0,-3.31,Forte crescimento,Forte retração,Crescimento moderado
+4205308,Faxinal dos Guedes,SC,845387.0,810081.0,-4.18,Forte crescimento,Forte retração,Estabilidade
+4205357,Flor do Sertão,SC,95653.0,88302.0,-7.69,Forte crescimento,Forte crescimento,Forte crescimento
+4205407,Florianópolis,SC,31190132.0,27486513.0,-11.87,Forte crescimento,Forte crescimento,Crescimento moderado
+4205431,Formosa do Sul,SC,104803.0,98302.0,-6.2,Forte crescimento,Forte crescimento,Forte crescimento
+4205456,Forquilhinha,SC,1525924.0,1444973.0,-5.31,Forte crescimento,Forte crescimento,Forte crescimento
+4205506,Fraiburgo,SC,1596213.0,1482618.0,-7.12,Forte crescimento,Forte crescimento,Forte crescimento
+4205555,Frei Rogério,SC,114310.0,93479.0,-18.22,Forte crescimento,Forte retração,Retração
+4205605,Galvão,SC,159894.0,148959.0,-6.84,Forte crescimento,Forte crescimento,Forte crescimento
+4205704,Garopaba,SC,1005308.0,954997.0,-5.0,Forte crescimento,Forte crescimento,Forte crescimento
+4205803,Garuva,SC,1982039.0,1956274.0,-1.3,Forte crescimento,Forte retração,Forte crescimento
+4205902,Gaspar,SC,5058949.0,5315083.0,5.06,Crescimento moderado,Forte crescimento,Forte crescimento
+4206009,Governador Celso Ramos,SC,661697.0,596124.0,-9.91,Forte crescimento,Forte crescimento,Forte crescimento
+4206108,Grão-Pará,SC,406387.0,378578.0,-6.84,Forte crescimento,Forte crescimento,Forte crescimento
+4206207,Gravatal,SC,456981.0,415948.0,-8.98,Forte crescimento,Forte crescimento,Forte crescimento
+4206306,Guabiruba,SC,1492565.0,1445469.0,-3.16,Forte crescimento,Forte crescimento,Forte crescimento
+4206405,Guaraciaba,SC,615278.0,563815.0,-8.36,Forte crescimento,Forte crescimento,Forte crescimento
+4206504,Guaramirim,SC,3136750.0,3196143.0,1.89,Forte crescimento,Forte crescimento,Forte crescimento
+4206603,Guarujá do Sul,SC,262918.0,248177.0,-5.61,Forte crescimento,Forte crescimento,Forte crescimento
+4206652,Guatambú,SC,617585.0,507177.0,-17.88,Forte crescimento,Forte retração,Forte crescimento
+4206702,Herval d'Oeste,SC,723522.0,704248.0,-2.66,Forte crescimento,Crescimento moderado,Forte crescimento
+4206751,Ibiam,SC,90693.0,79948.0,-11.85,Forte crescimento,Crescimento moderado,Forte crescimento
+4206801,Ibicaré,SC,174344.0,153684.0,-11.85,Forte crescimento,Retração,Estabilidade
+4206900,Ibirama,SC,774395.0,729601.0,-5.78,Forte crescimento,Forte crescimento,Forte crescimento
+4207007,Içara,SC,4878274.0,4636483.0,-4.96,Forte crescimento,Forte crescimento,Forte crescimento
+4207106,Ilhota,SC,1190605.0,1381727.0,16.05,Retração,Forte crescimento,Forte crescimento
+4207205,Imaruí,SC,320780.0,289168.0,-9.85,Forte crescimento,Crescimento moderado,Crescimento moderado
+4207304,Imbituba,SC,3250688.0,3044308.0,-6.35,Forte crescimento,Forte crescimento,Forte crescimento
+4207403,Imbuia,SC,319441.0,306034.0,-4.2,Forte crescimento,Crescimento moderado,Forte crescimento
+4207502,Indaial,SC,4484718.0,4382917.0,-2.27,Forte crescimento,Forte crescimento,Forte crescimento
+4207577,Iomerê,SC,381384.0,290955.0,-23.71,Forte crescimento,Forte retração,Forte crescimento
+4207601,Ipira,SC,134995.0,122977.0,-8.9,Forte crescimento,Crescimento moderado,Crescimento moderado
+4207650,Iporã do Oeste,SC,486274.0,440920.0,-9.33,Forte crescimento,Forte crescimento,Forte crescimento
+4207684,Ipuaçu,SC,435900.0,411403.0,-5.62,Forte crescimento,Forte crescimento,Forte crescimento
+4207700,Ipumirim,SC,564808.0,555853.0,-1.59,Forte crescimento,Forte crescimento,Forte crescimento
+4207759,Iraceminha,SC,258923.0,203660.0,-21.34,Forte crescimento,Forte crescimento,Crescimento moderado
+4207809,Irani,SC,339803.0,342478.0,0.79,Forte crescimento,Forte crescimento,Forte crescimento
+4207858,Irati,SC,78560.0,75494.0,-3.9,Forte crescimento,Forte crescimento,Forte crescimento
+4207908,Irineópolis,SC,636426.0,569499.0,-10.52,Forte crescimento,Forte crescimento,Forte crescimento
+4208005,Itá,SC,550222.0,514570.0,-6.48,Forte crescimento,Forte retração,Forte crescimento
+4208104,Itaiópolis,SC,1404662.0,1258648.0,-10.39,Forte crescimento,Forte crescimento,Forte crescimento
+4208203,Itajaí,SC,48195909.0,54720787.0,13.54,Forte retração,Forte crescimento,Forte crescimento
+4208302,Itapema,SC,3799730.0,3446883.0,-9.29,Forte crescimento,Forte crescimento,Forte crescimento
+4208401,Itapiranga,SC,1369949.0,1309296.0,-4.43,Forte crescimento,Forte crescimento,Forte crescimento
+4208450,Itapoá,SC,1990651.0,2280460.0,14.56,Estabilidade,Forte crescimento,Forte crescimento
+4208500,Ituporanga,SC,1565743.0,1493614.0,-4.61,Forte crescimento,Crescimento moderado,Forte crescimento
+4208609,Jaborá,SC,236970.0,219735.0,-7.27,Forte crescimento,Retração,Crescimento moderado
+4208708,Jacinto Machado,SC,733562.0,650774.0,-11.29,Forte crescimento,Forte crescimento,Forte crescimento
+4208807,Jaguaruna,SC,887386.0,899535.0,1.37,Forte crescimento,Forte crescimento,Forte crescimento
+4208906,Jaraguá do Sul,SC,15509263.0,14895041.0,-3.96,Forte crescimento,Forte crescimento,Forte crescimento
+4208955,Jardinópolis,SC,82849.0,76610.0,-7.53,Forte crescimento,Crescimento moderado,Forte crescimento
+4209003,Joaçaba,SC,2754514.0,2786320.0,1.15,Forte crescimento,Forte crescimento,Forte crescimento
+4209102,Joinville,SC,49815877.0,49616930.0,-0.4,Forte crescimento,Forte crescimento,Forte crescimento
+4209151,José Boiteux,SC,171772.0,156913.0,-8.65,Forte crescimento,Forte crescimento,Forte crescimento
+4209177,Jupiá,SC,109999.0,107019.0,-2.71,Forte crescimento,Forte crescimento,Forte crescimento
+4209201,Lacerdópolis,SC,186584.0,163107.0,-12.58,Forte crescimento,Forte retração,Estabilidade
+4209300,Lages,SC,8341650.0,8270620.0,-0.85,Forte crescimento,Forte crescimento,Forte crescimento
+4209409,Laguna,SC,1404150.0,1241755.0,-11.57,Forte crescimento,Forte crescimento,Forte crescimento
+4209458,Lajeado Grande,SC,108719.0,86467.0,-20.47,Forte crescimento,Forte crescimento,Forte crescimento
+4209508,Laurentino,SC,536261.0,566107.0,5.57,Crescimento moderado,Forte retração,Forte crescimento
+4209607,Lauro Müller,SC,481730.0,446227.0,-7.37,Forte crescimento,Forte crescimento,Forte crescimento
+4209706,Lebon Régis,SC,466724.0,423067.0,-9.35,Forte crescimento,Forte crescimento,Forte crescimento
+4209805,Leoberto Leal,SC,169622.0,154677.0,-8.81,Forte crescimento,Retração,Estabilidade
+4209854,Lindóia do Sul,SC,201026.0,177262.0,-11.82,Forte crescimento,Forte crescimento,Forte crescimento
+4209904,Lontras,SC,579987.0,573477.0,-1.12,Forte crescimento,Forte crescimento,Forte crescimento
+4210001,Luiz Alves,SC,1138042.0,1066368.0,-6.3,Forte crescimento,Forte crescimento,Forte crescimento
+4210035,Luzerna,SC,346309.0,337352.0,-2.59,Forte crescimento,Forte retração,Crescimento moderado
+4210050,Macieira,SC,70008.0,65191.0,-6.88,Crescimento moderado,Forte retração,Retração
+4210100,Mafra,SC,3296812.0,3179657.0,-3.55,Forte crescimento,Forte crescimento,Forte crescimento
+4210209,Major Gercino,SC,86474.0,77524.0,-10.35,Forte crescimento,Crescimento moderado,Forte crescimento
+4210308,Major Vieira,SC,417209.0,367730.0,-11.86,Forte crescimento,Forte retração,Crescimento moderado
+4210407,Maracajá,SC,355365.0,348804.0,-1.85,Forte crescimento,Forte crescimento,Forte crescimento
+4210506,Maravilha,SC,2499223.0,2458244.0,-1.64,Forte crescimento,Forte crescimento,Forte crescimento
+4210555,Marema,SC,111255.0,98177.0,-11.76,Forte crescimento,Forte crescimento,Retração
+4210605,Massaranduba,SC,1050211.0,933393.0,-11.12,Forte crescimento,Crescimento moderado,Forte crescimento
+4210704,Matos Costa,SC,77764.0,70445.0,-9.41,Forte crescimento,Crescimento moderado,Forte crescimento
+4210803,Meleiro,SC,469316.0,413757.0,-11.84,Forte crescimento,Forte crescimento,Forte crescimento
+4210852,Mirim Doce,SC,106937.0,97443.0,-8.88,Forte crescimento,Retração,Crescimento moderado
+4210902,Modelo,SC,203356.0,192379.0,-5.4,Forte crescimento,Crescimento moderado,Forte crescimento
+4211009,Mondaí,SC,1249317.0,1219057.0,-2.42,Forte crescimento,Forte retração,Forte crescimento
+4211058,Monte Carlo,SC,325033.0,293242.0,-9.78,Forte crescimento,Forte crescimento,Forte crescimento
+4211108,Monte Castelo,SC,285959.0,272464.0,-4.72,Forte crescimento,Crescimento moderado,Crescimento moderado
+4211207,Morro da Fumaça,SC,1019641.0,1003361.0,-1.6,Forte crescimento,Forte crescimento,Forte crescimento
+4211256,Morro Grande,SC,194418.0,185660.0,-4.5,Forte crescimento,Forte crescimento,Forte crescimento
+4211306,Navegantes,SC,7939674.0,8005257.0,0.83,Forte crescimento,Forte crescimento,Forte crescimento
+4211405,Nova Erechim,SC,266502.0,270510.0,1.5,Crescimento moderado,Crescimento moderado,Forte crescimento
+4211454,Nova Itaberaba,SC,191952.0,187140.0,-2.51,Forte crescimento,Forte crescimento,Forte crescimento
+4211504,Nova Trento,SC,972888.0,855649.0,-12.05,Forte crescimento,Forte retração,Crescimento moderado
+4211603,Nova Veneza,SC,1333549.0,1255526.0,-5.85,Forte crescimento,Forte crescimento,Forte crescimento
+4211652,Novo Horizonte,SC,160908.0,164168.0,2.03,Forte crescimento,Forte crescimento,Forte crescimento
+4211702,Orleans,SC,1408944.0,1373551.0,-2.51,Forte crescimento,Forte crescimento,Forte crescimento
+4211751,Otacílio Costa,SC,1267788.0,1163291.0,-8.24,Forte crescimento,Crescimento moderado,Forte crescimento
+4211801,Ouro,SC,307202.0,278766.0,-9.26,Forte crescimento,Forte crescimento,Forte crescimento
+4211850,Ouro Verde,SC,170820.0,156239.0,-8.54,Retração,Forte retração,Forte retração
+4211876,Paial,SC,73788.0,77441.0,4.95,Estabilidade,Forte retração,Crescimento moderado
+4211892,Painel,SC,111006.0,98887.0,-10.92,Forte crescimento,Crescimento moderado,Forte crescimento
+4211900,Palhoça,SC,10294550.0,10199956.0,-0.92,Forte crescimento,Forte crescimento,Forte crescimento
+4212007,Palma Sola,SC,361215.0,379366.0,5.02,Forte crescimento,Forte crescimento,Forte crescimento
+4212056,Palmeira,SC,205053.0,195365.0,-4.72,Forte crescimento,Forte crescimento,Forte crescimento
+4212106,Palmitos,SC,1211264.0,1090906.0,-9.94,Forte crescimento,Forte crescimento,Forte crescimento
+4212205,Papanduva,SC,1183058.0,1094183.0,-7.51,Forte crescimento,Forte retração,Crescimento moderado
+4212239,Paraíso,SC,194244.0,201297.0,3.63,Forte crescimento,Forte crescimento,Forte crescimento
+4212254,Passo de Torres,SC,301934.0,306837.0,1.62,Forte crescimento,Forte crescimento,Forte crescimento
+4212270,Passos Maia,SC,218824.0,192557.0,-12.0,Forte crescimento,Forte crescimento,Forte crescimento
+4212304,Paulo Lopes,SC,417795.0,321124.0,-23.14,Forte crescimento,Forte crescimento,Forte crescimento
+4212403,Pedras Grandes,SC,305366.0,304670.0,-0.23,Forte crescimento,Forte crescimento,Forte crescimento
+4212502,Penha,SC,1340663.0,1254691.0,-6.41,Forte crescimento,Forte crescimento,Forte crescimento
+4212601,Peritiba,SC,166701.0,148894.0,-10.68,Forte crescimento,Forte retração,Crescimento moderado
+4212650,Pescaria Brava,SC,164483.0,154322.0,-6.18,Forte crescimento,Forte crescimento,Forte crescimento
+4212700,Petrolândia,SC,265682.0,241168.0,-9.23,Forte crescimento,Retração,Retração
+4212809,Balneário Piçarras,SC,2097521.0,1746246.0,-16.75,Forte crescimento,Forte crescimento,Forte crescimento
+4212908,Pinhalzinho,SC,1941701.0,1909097.0,-1.68,Forte crescimento,Forte crescimento,Forte crescimento
+4213005,Pinheiro Preto,SC,323209.0,273394.0,-15.41,Forte crescimento,Forte crescimento,Forte crescimento
+4213104,Piratuba,SC,953671.0,478050.0,-49.87,Forte crescimento,Forte retração,Forte crescimento
+4213153,Planalto Alegre,SC,144007.0,153186.0,6.37,Forte retração,Retração,Estabilidade
+4213203,Pomerode,SC,3184672.0,3248621.0,2.01,Forte crescimento,Forte crescimento,Forte crescimento
+4213302,Ponte Alta,SC,205504.0,180741.0,-12.05,Forte crescimento,Crescimento moderado,Forte crescimento
+4213351,Ponte Alta do Norte,SC,158355.0,164719.0,4.02,Crescimento moderado,Crescimento moderado,Forte crescimento
+4213401,Ponte Serrada,SC,390492.0,331948.0,-14.99,Forte crescimento,Crescimento moderado,Crescimento moderado
+4213500,Porto Belo,SC,2090678.0,1916329.0,-8.34,Forte crescimento,Forte crescimento,Forte crescimento
+4213609,Porto União,SC,1314938.0,1425796.0,8.43,Retração,Forte crescimento,Forte crescimento
+4213708,Pouso Redondo,SC,912670.0,848958.0,-6.98,Forte crescimento,Crescimento moderado,Crescimento moderado
+4213807,Praia Grande,SC,312294.0,269182.0,-13.81,Forte crescimento,Forte crescimento,Forte crescimento
+4213906,Presidente Castello Branco,SC,88879.0,83837.0,-5.67,Forte crescimento,Forte retração,Crescimento moderado
+4214003,Presidente Getúlio,SC,1091871.0,1079109.0,-1.17,Forte crescimento,Forte crescimento,Forte crescimento
+4214102,Presidente Nereu,SC,81283.0,72228.0,-11.14,Forte crescimento,Estabilidade,Estabilidade
+4214151,Princesa,SC,134567.0,167751.0,24.66,Forte retração,Forte crescimento,Forte crescimento
+4214201,Quilombo,SC,670409.0,633587.0,-5.49,Forte crescimento,Forte crescimento,Forte crescimento
+4214300,Rancho Queimado,SC,227902.0,176247.0,-22.67,Forte crescimento,Forte crescimento,Forte crescimento
+4214409,Rio das Antas,SC,328940.0,316613.0,-3.75,Forte crescimento,Crescimento moderado,Forte crescimento
+4214508,Rio do Campo,SC,265323.0,248890.0,-6.19,Forte crescimento,Crescimento moderado,Crescimento moderado
+4214607,Rio do Oeste,SC,348708.0,314725.0,-9.75,Forte crescimento,Crescimento moderado,Forte crescimento
+4214706,Rio dos Cedros,SC,565977.0,546091.0,-3.51,Forte crescimento,Forte crescimento,Forte crescimento
+4214805,Rio do Sul,SC,4621903.0,4593072.0,-0.62,Forte crescimento,Forte crescimento,Forte crescimento
+4214904,Rio Fortuna,SC,373208.0,345099.0,-7.53,Forte crescimento,Forte crescimento,Forte crescimento
+4215000,Rio Negrinho,SC,1731868.0,1823503.0,5.29,Crescimento moderado,Crescimento moderado,Forte crescimento
+4215059,Rio Rufino,SC,96784.0,85007.0,-12.17,Forte crescimento,Retração,Retração
+4215075,Riqueza,SC,198674.0,177915.0,-10.45,Forte crescimento,Crescimento moderado,Crescimento moderado
+4215109,Rodeio,SC,456660.0,491080.0,7.54,Estabilidade,Forte crescimento,Forte crescimento
+4215208,Romelândia,SC,132525.0,126585.0,-4.48,Forte crescimento,Forte crescimento,Forte crescimento
+4215307,Salete,SC,383453.0,361736.0,-5.66,Forte crescimento,Forte retração,Forte crescimento
+4215356,Saltinho,SC,115351.0,109500.0,-5.07,Forte crescimento,Forte crescimento,Forte crescimento
+4215406,Salto Veloso,SC,347636.0,326676.0,-6.03,Forte crescimento,Forte retração,Forte crescimento
+4215455,Sangão,SC,701076.0,625738.0,-10.75,Forte crescimento,Forte crescimento,Forte crescimento
+4215505,Santa Cecília,SC,672250.0,705943.0,5.01,Estabilidade,Crescimento moderado,Crescimento moderado
+4215554,Santa Helena,SC,128409.0,127992.0,-0.32,Forte crescimento,Forte crescimento,Crescimento moderado
+4215604,Santa Rosa de Lima,SC,108834.0,96195.0,-11.61,Forte crescimento,Forte crescimento,Forte crescimento
+4215653,Santa Rosa do Sul,SC,277594.0,256139.0,-7.73,Forte crescimento,Forte crescimento,Forte crescimento
+4215679,Santa Terezinha,SC,342769.0,285297.0,-16.77,Forte crescimento,Forte crescimento,Forte crescimento
+4215687,Santa Terezinha do Progresso,SC,89006.0,90894.0,2.12,Retração,Forte retração,Retração
+4215695,Santiago do Sul,SC,62417.0,59272.0,-5.04,Forte crescimento,Forte crescimento,Forte crescimento
+4215703,Santo Amaro da Imperatriz,SC,1749916.0,1484186.0,-15.19,Forte crescimento,Forte crescimento,Forte crescimento
+4215752,São Bernardino,SC,110781.0,110164.0,-0.56,Forte crescimento,Forte crescimento,Forte crescimento
+4215802,São Bento do Sul,SC,5038223.0,5186814.0,2.95,Crescimento moderado,Forte crescimento,Forte crescimento
+4215901,São Bonifácio,SC,265330.0,198832.0,-25.06,Forte crescimento,Forte retração,Forte retração
+4216008,São Carlos,SC,794990.0,661302.0,-16.82,Forte crescimento,Forte retração,Estabilidade
+4216057,São Cristóvão do Sul,SC,197299.0,205425.0,4.12,Crescimento moderado,Forte crescimento,Forte crescimento
+4216107,São Domingos,SC,536174.0,522703.0,-2.51,Forte crescimento,Crescimento moderado,Crescimento moderado
+4216206,São Francisco do Sul,SC,7396332.0,8493747.0,14.84,Retração,Forte crescimento,Forte crescimento
+4216255,São João do Oeste,SC,463168.0,426950.0,-7.82,Forte crescimento,Forte crescimento,Crescimento moderado
+4216305,São João Batista,SC,1303724.0,1357425.0,4.12,Crescimento moderado,Forte crescimento,Forte crescimento
+4216354,São João do Itaperiú,SC,455830.0,437250.0,-4.08,Forte crescimento,Forte crescimento,Forte crescimento
+4216404,São João do Sul,SC,434705.0,377432.0,-13.18,Forte crescimento,Forte crescimento,Forte crescimento
+4216503,São Joaquim,SC,1484851.0,1295908.0,-12.72,Forte crescimento,Forte crescimento,Forte crescimento
+4216602,São José,SC,15575672.0,15816973.0,1.55,Forte crescimento,Forte crescimento,Forte crescimento
+4216701,São José do Cedro,SC,681891.0,658921.0,-3.37,Forte crescimento,Forte crescimento,Forte crescimento
+4216800,São José do Cerrito,SC,355894.0,338969.0,-4.76,Forte crescimento,Forte crescimento,Forte crescimento
+4216909,São Lourenço do Oeste,SC,1843473.0,1705573.0,-7.48,Forte crescimento,Forte crescimento,Forte crescimento
+4217006,São Ludgero,SC,1241478.0,1149814.0,-7.38,Forte crescimento,Forte crescimento,Forte crescimento
+4217105,São Martinho,SC,148541.0,132827.0,-10.58,Forte crescimento,Forte crescimento,Forte crescimento
+4217154,São Miguel da Boa Vista,SC,73871.0,61786.0,-16.36,Forte crescimento,Forte crescimento,Forte crescimento
+4217204,São Miguel do Oeste,SC,3105098.0,2798672.0,-9.87,Forte crescimento,Forte crescimento,Forte crescimento
+4217253,São Pedro de Alcântara,SC,148311.0,126611.0,-14.63,Forte crescimento,Forte crescimento,Forte crescimento
+4217303,Saudades,SC,718463.0,635981.0,-11.48,Forte crescimento,Crescimento moderado,Crescimento moderado
+4217402,Schroeder,SC,906591.0,887309.0,-2.13,Forte crescimento,Crescimento moderado,Forte crescimento
+4217501,Seara,SC,1506648.0,1414767.0,-6.1,Forte crescimento,Forte crescimento,Forte crescimento
+4217550,Serra Alta,SC,147398.0,134629.0,-8.66,Forte crescimento,Crescimento moderado,Forte crescimento
+4217600,Siderópolis,SC,804482.0,738193.0,-8.24,Forte crescimento,Crescimento moderado,Forte crescimento
+4217709,Sombrio,SC,1304359.0,1175989.0,-9.84,Forte crescimento,Forte crescimento,Forte crescimento
+4217758,Sul Brasil,SC,123620.0,103203.0,-16.52,Forte crescimento,Forte crescimento,Forte crescimento
+4217808,Taió,SC,1038273.0,991187.0,-4.54,Forte crescimento,Crescimento moderado,Forte crescimento
+4217907,Tangará,SC,760285.0,663785.0,-12.69,Forte crescimento,Forte crescimento,Forte crescimento
+4217956,Tigrinhos,SC,88349.0,85961.0,-2.7,Forte crescimento,Forte crescimento,Forte crescimento
+4218004,Tijucas,SC,3687049.0,3240889.0,-12.1,Forte crescimento,Forte crescimento,Forte crescimento
+4218103,Timbé do Sul,SC,197892.0,179287.0,-9.4,Forte crescimento,Forte crescimento,Forte crescimento
+4218202,Timbó,SC,2737817.0,2804024.0,2.42,Forte crescimento,Forte crescimento,Forte crescimento
+4218251,Timbó Grande,SC,304453.0,293161.0,-3.71,Forte crescimento,Crescimento moderado,Forte crescimento
+4218301,Três Barras,SC,2060110.0,1873307.0,-9.07,Forte crescimento,Forte retração,Crescimento moderado
+4218350,Treviso,SC,198900.0,194730.0,-2.1,Forte crescimento,Forte retração,Forte crescimento
+4218400,Treze de Maio,SC,255516.0,247040.0,-3.32,Forte crescimento,Forte crescimento,Forte crescimento
+4218509,Treze Tílias,SC,1194854.0,1066689.0,-10.73,Forte crescimento,Forte crescimento,Forte crescimento
+4218608,Trombudo Central,SC,433330.0,445132.0,2.72,Crescimento moderado,Forte retração,Forte crescimento
+4218707,Tubarão,SC,6007108.0,5548880.0,-7.63,Forte crescimento,Forte crescimento,Crescimento moderado
+4218756,Tunápolis,SC,229506.0,205881.0,-10.29,Forte crescimento,Forte crescimento,Forte crescimento
+4218806,Turvo,SC,992639.0,897772.0,-9.56,Forte crescimento,Forte crescimento,Forte crescimento
+4218855,União do Oeste,SC,116753.0,102828.0,-11.93,Forte crescimento,Retração,Estabilidade
+4218905,Urubici,SC,471776.0,411740.0,-12.73,Forte crescimento,Crescimento moderado,Forte crescimento
+4218954,Urupema,SC,131850.0,103803.0,-21.27,Forte crescimento,Forte crescimento,Forte crescimento
+4219002,Urussanga,SC,1222447.0,1341781.0,9.76,Retração,Crescimento moderado,Crescimento moderado
+4219101,Vargeão,SC,301834.0,263722.0,-12.63,Forte crescimento,Forte retração,Crescimento moderado
+4219150,Vargem,SC,100064.0,98737.0,-1.33,Forte crescimento,Forte crescimento,Forte crescimento
+4219176,Vargem Bonita,SC,661591.0,608423.0,-8.04,Forte crescimento,Forte retração,Crescimento moderado
+4219200,Vidal Ramos,SC,401953.0,394252.0,-1.92,Forte crescimento,Forte crescimento,Forte crescimento
+4219309,Videira,SC,4129523.0,4226838.0,2.36,Forte crescimento,Forte crescimento,Forte crescimento
+4219358,Vitor Meireles,SC,193745.0,180601.0,-6.78,Forte crescimento,Forte crescimento,Forte crescimento
+4219408,Witmarsum,SC,197839.0,199572.0,0.88,Crescimento moderado,Crescimento moderado,Forte crescimento
+4219507,Xanxerê,SC,3145565.0,3138624.0,-0.22,Forte crescimento,Forte crescimento,Forte crescimento
+4219606,Xavantina,SC,249450.0,218974.0,-12.22,Forte crescimento,Forte retração,Forte crescimento
+4219705,Xaxim,SC,1737477.0,1706705.0,-1.77,Forte crescimento,Forte crescimento,Forte crescimento
+4219853,Zortéa,SC,135060.0,126307.0,-6.48,Retração,Forte retração,Forte retração
+4220000,Balneário Rincão,SC,420208.0,394621.0,-6.09,Forte crescimento,Forte crescimento,Forte crescimento
+4300034,Aceguá,RS,382340.0,333481.0,-12.78,Forte crescimento,Forte crescimento,Forte crescimento
+4300059,Água Santa,RS,418738.0,446227.0,6.56,Forte retração,Forte retração,Forte retração
+4300109,Agudo,RS,780152.0,670391.0,-14.07,Forte crescimento,Crescimento moderado,Crescimento moderado
+4300208,Ajuricaba,RS,383525.0,392319.0,2.29,Crescimento moderado,Retração,Crescimento moderado
+4300307,Alecrim,RS,153719.0,150288.0,-2.23,Forte crescimento,Crescimento moderado,Forte crescimento
+4300406,Alegrete,RS,3102028.0,2862143.0,-7.73,Forte crescimento,Crescimento moderado,Forte crescimento
+4300455,Alegria,RS,136099.0,139378.0,2.41,Forte crescimento,Forte crescimento,Forte crescimento
+4300471,Almirante Tamandaré do Sul,RS,223167.0,216223.0,-3.11,Forte retração,Forte retração,Forte retração
+4300505,Alpestre,RS,302869.0,287235.0,-5.16,Forte crescimento,Forte crescimento,Forte crescimento
+4300554,Alto Alegre,RS,72442.0,71370.0,-1.48,Forte crescimento,Retração,Forte crescimento
+4300570,Alto Feliz,RS,203171.0,195389.0,-3.83,Forte crescimento,Crescimento moderado,Forte crescimento
+4300604,Alvorada,RS,4129934.0,3710015.0,-10.17,Forte crescimento,Crescimento moderado,Forte crescimento
+4300638,Amaral Ferrador,RS,174054.0,157373.0,-9.58,Forte crescimento,Forte crescimento,Forte crescimento
+4300646,Ametista do Sul,RS,203478.0,194863.0,-4.23,Forte crescimento,Crescimento moderado,Forte crescimento
+4300661,André da Rocha,RS,112013.0,114352.0,2.09,Forte crescimento,Retração,Forte crescimento
+4300703,Anta Gorda,RS,333257.0,322626.0,-3.19,Forte crescimento,Forte crescimento,Forte crescimento
+4300802,Antônio Prado,RS,926443.0,895760.0,-3.31,Forte crescimento,Forte crescimento,Forte crescimento
+4300851,Arambaré,RS,233582.0,199355.0,-14.65,Estabilidade,Forte retração,Forte retração
+4300877,Araricá,RS,322955.0,302050.0,-6.47,Forte crescimento,Crescimento moderado,Crescimento moderado
+4300901,Aratiba,RS,1185217.0,1125921.0,-5.0,Estabilidade,Forte retração,Retração
+4301008,Arroio do Meio,RS,1943138.0,1909465.0,-1.73,Forte crescimento,Crescimento moderado,Forte crescimento
+4301057,Arroio do Sal,RS,353687.0,330624.0,-6.52,Forte crescimento,Crescimento moderado,Forte crescimento
+4301073,Arroio do Padre,RS,96551.0,85463.0,-11.48,Forte crescimento,Forte crescimento,Forte crescimento
+4301107,Arroio dos Ratos,RS,404985.0,376550.0,-7.02,Forte crescimento,Crescimento moderado,Forte crescimento
+4301206,Arroio do Tigre,RS,472739.0,452455.0,-4.29,Forte crescimento,Forte crescimento,Forte crescimento
+4301305,Arroio Grande,RS,965508.0,912881.0,-5.45,Retração,Forte retração,Forte retração
+4301404,Arvorezinha,RS,404652.0,373360.0,-7.73,Forte crescimento,Forte crescimento,Forte crescimento
+4301503,Augusto Pestana,RS,350687.0,364488.0,3.94,Crescimento moderado,Retração,Forte crescimento
+4301552,Áurea,RS,177756.0,161223.0,-9.3,Forte crescimento,Retração,Crescimento moderado
+4301602,Bagé,RS,4414768.0,4277620.0,-3.11,Forte crescimento,Retração,Crescimento moderado
+4301636,Balneário Pinhal,RS,333149.0,347209.0,4.22,Estabilidade,Crescimento moderado,Crescimento moderado
+4301651,Barão,RS,462911.0,338964.0,-26.78,Forte crescimento,Crescimento moderado,Forte crescimento
+4301701,Barão de Cotegipe,RS,324769.0,342925.0,5.59,Forte crescimento,Forte crescimento,Forte crescimento
+4301750,Barão do Triunfo,RS,142447.0,141678.0,-0.54,Forte retração,Forte retração,Forte retração
+4301800,Barracão,RS,300015.0,305561.0,1.85,Forte crescimento,Forte crescimento,Forte crescimento
+4301859,Barra do Guarita,RS,63072.0,57819.0,-8.33,Forte crescimento,Forte crescimento,Forte crescimento
+4301875,Barra do Quaraí,RS,332590.0,274607.0,-17.43,Forte crescimento,Forte crescimento,Forte crescimento
+4301909,Barra do Ribeiro,RS,581054.0,511701.0,-11.94,Forte crescimento,Crescimento moderado,Crescimento moderado
+4301925,Barra do Rio Azul,RS,78571.0,67098.0,-14.6,Forte crescimento,Forte retração,Retração
+4301958,Barra Funda,RS,167382.0,157136.0,-6.12,Forte crescimento,Forte retração,Retração
+4302006,Barros Cassal,RS,274474.0,263556.0,-3.98,Forte crescimento,Forte crescimento,Forte crescimento
+4302055,Benjamin Constant do Sul,RS,49986.0,47629.0,-4.72,Forte crescimento,Crescimento moderado,Crescimento moderado
+4302105,Bento Gonçalves,RS,9062598.0,8234360.0,-9.14,Forte crescimento,Crescimento moderado,Forte crescimento
+4302154,Boa Vista das Missões,RS,173200.0,174410.0,0.7,Forte crescimento,Retração,Forte crescimento
+4302204,Boa Vista do Buricá,RS,354602.0,334692.0,-5.61,Forte crescimento,Crescimento moderado,Forte crescimento
+4302220,Boa Vista do Cadeado,RS,269991.0,289906.0,7.38,Forte crescimento,Forte crescimento,Forte crescimento
+4302238,Boa Vista do Incra,RS,196998.0,209480.0,6.34,Crescimento moderado,Retração,Forte crescimento
+4302253,Boa Vista do Sul,RS,134912.0,134790.0,-0.09,Forte crescimento,Crescimento moderado,Forte crescimento
+4302303,Bom Jesus,RS,593403.0,562208.0,-5.26,Forte crescimento,Forte crescimento,Forte crescimento
+4302352,Bom Princípio,RS,951019.0,934596.0,-1.73,Forte crescimento,Crescimento moderado,Forte crescimento
+4302378,Bom Progresso,RS,73593.0,77079.0,4.74,Forte crescimento,Forte crescimento,Forte crescimento
+4302402,Bom Retiro do Sul,RS,509725.0,460129.0,-9.73,Forte crescimento,Crescimento moderado,Forte crescimento
+4302451,Boqueirão do Leão,RS,199040.0,169910.0,-14.64,Forte crescimento,Forte crescimento,Forte crescimento
+4302501,Bossoroca,RS,250550.0,253858.0,1.32,Retração,Forte retração,Retração
+4302584,Bozano,RS,119425.0,139709.0,16.99,Forte retração,Retração,Crescimento moderado
+4302600,Braga,RS,109439.0,116684.0,6.62,Forte crescimento,Forte crescimento,Forte crescimento
+4302659,Brochier,RS,132265.0,125096.0,-5.42,Forte crescimento,Forte crescimento,Forte crescimento
+4302709,Butiá,RS,567081.0,552577.0,-2.56,Crescimento moderado,Retração,Crescimento moderado
+4302808,Caçapava do Sul,RS,1175802.0,1160692.0,-1.29,Forte crescimento,Crescimento moderado,Forte crescimento
+4302907,Cacequi,RS,566823.0,483871.0,-14.63,Forte crescimento,Forte crescimento,Forte crescimento
+4303004,Cachoeira do Sul,RS,3371237.0,3413547.0,1.26,Retração,Retração,Estabilidade
+4303103,Cachoeirinha,RS,7781824.0,7413087.0,-4.74,Forte crescimento,Crescimento moderado,Crescimento moderado
+4303202,Cacique Doble,RS,154022.0,148751.0,-3.42,Forte crescimento,Crescimento moderado,Forte crescimento
+4303301,Caibaté,RS,180412.0,181443.0,0.57,Crescimento moderado,Forte retração,Crescimento moderado
+4303400,Caiçara,RS,159894.0,155108.0,-2.99,Forte crescimento,Forte crescimento,Forte crescimento
+4303509,Camaquã,RS,3154677.0,2846418.0,-9.77,Forte crescimento,Forte retração,Estabilidade
+4303558,Camargo,RS,612435.0,657285.0,7.32,Crescimento moderado,Forte crescimento,Forte crescimento
+4303608,Cambará do Sul,RS,275332.0,270793.0,-1.65,Forte crescimento,Forte crescimento,Forte crescimento
+4303673,Campestre da Serra,RS,236802.0,203600.0,-14.02,Forte crescimento,Forte crescimento,Forte crescimento
+4303707,Campina das Missões,RS,203771.0,192396.0,-5.58,Forte crescimento,Crescimento moderado,Forte crescimento
+4303806,Campinas do Sul,RS,294875.0,299517.0,1.57,Forte retração,Forte retração,Forte retração
+4303905,Campo Bom,RS,4528757.0,4115337.0,-9.13,Forte crescimento,Crescimento moderado,Forte crescimento
+4304002,Campo Novo,RS,287302.0,312067.0,8.62,Forte crescimento,Forte crescimento,Forte crescimento
+4304101,Campos Borges,RS,105020.0,112471.0,7.1,Crescimento moderado,Crescimento moderado,Forte crescimento
+4304200,Candelária,RS,1234677.0,1122424.0,-9.09,Forte crescimento,Estabilidade,Crescimento moderado
+4304309,Cândido Godói,RS,375022.0,347744.0,-7.27,Forte crescimento,Retração,Forte crescimento
+4304358,Candiota,RS,1699384.0,2081253.0,22.47,Forte retração,Forte retração,Retração
+4304408,Canela,RS,1959719.0,1905139.0,-2.79,Forte crescimento,Forte crescimento,Forte crescimento
+4304507,Canguçu,RS,1825528.0,1697933.0,-6.99,Forte crescimento,Crescimento moderado,Crescimento moderado
+4304606,Canoas,RS,29166697.0,29235795.0,0.24,Crescimento moderado,Forte retração,Crescimento moderado
+4304614,Canudos do Vale,RS,66953.0,59264.0,-11.48,Forte crescimento,Crescimento moderado,Forte crescimento
+4304622,Capão Bonito do Sul,RS,223071.0,231942.0,3.98,Retração,Retração,Estabilidade
+4304630,Capão da Canoa,RS,2588161.0,2261970.0,-12.6,Forte crescimento,Forte crescimento,Forte crescimento
+4304655,Capão do Cipó,RS,220126.0,248785.0,13.02,Forte retração,Forte retração,Forte retração
+4304663,Capão do Leão,RS,854022.0,799981.0,-6.33,Forte crescimento,Forte retração,Crescimento moderado
+4304671,Capivari do Sul,RS,399405.0,380703.0,-4.68,Crescimento moderado,Retração,Retração
+4304689,Capela de Santana,RS,315947.0,293182.0,-7.21,Forte crescimento,Crescimento moderado,Forte crescimento
+4304697,Capitão,RS,88569.0,85375.0,-3.61,Forte crescimento,Crescimento moderado,Crescimento moderado
+4304705,Carazinho,RS,3744967.0,4503293.0,20.25,Forte retração,Retração,Forte crescimento
+4304713,Caraá,RS,158174.0,157628.0,-0.35,Forte crescimento,Forte crescimento,Forte crescimento
+4304804,Carlos Barbosa,RS,3815080.0,3621336.0,-5.08,Forte crescimento,Forte retração,Forte crescimento
+4304853,Carlos Gomes,RS,61763.0,63117.0,2.19,Forte crescimento,Forte crescimento,Forte crescimento
+4304903,Casca,RS,875949.0,829013.0,-5.36,Forte crescimento,Forte crescimento,Forte crescimento
+4304952,Caseiros,RS,177158.0,180067.0,1.64,Forte crescimento,Crescimento moderado,Forte crescimento
+4305009,Catuípe,RS,425026.0,425650.0,0.15,Estabilidade,Forte retração,Estabilidade
+4305108,Caxias do Sul,RS,37860602.0,36377663.0,-3.92,Forte crescimento,Crescimento moderado,Forte crescimento
+4305116,Centenário,RS,123347.0,110093.0,-10.75,Forte crescimento,Forte crescimento,Forte crescimento
+4305124,Cerrito,RS,131166.0,127362.0,-2.9,Forte retração,Forte retração,Forte retração
+4305132,Cerro Branco,RS,104220.0,89431.0,-14.19,Forte crescimento,Estabilidade,Crescimento moderado
+4305157,Cerro Grande,RS,61938.0,58660.0,-5.29,Forte retração,Forte retração,Forte retração
+4305173,Cerro Grande do Sul,RS,251120.0,211261.0,-15.87,Forte crescimento,Retração,Retração
+4305207,Cerro Largo,RS,807007.0,846014.0,4.83,Crescimento moderado,Crescimento moderado,Forte crescimento
+4305306,Chapada,RS,603053.0,565087.0,-6.3,Retração,Forte retração,Forte retração
+4305355,Charqueadas,RS,1857420.0,1946195.0,4.78,Crescimento moderado,Crescimento moderado,Forte crescimento
+4305371,Charrua,RS,125647.0,124619.0,-0.82,Retração,Forte retração,Retração
+4305405,Chiapetta,RS,265708.0,265082.0,-0.24,Forte crescimento,Retração,Forte crescimento
+4305439,Chuí,RS,522360.0,460599.0,-11.82,Forte crescimento,Crescimento moderado,Forte crescimento
+4305447,Chuvisca,RS,163415.0,136887.0,-16.23,Forte crescimento,Retração,Retração
+4305454,Cidreira,RS,406916.0,393114.0,-3.39,Forte crescimento,Forte crescimento,Forte crescimento
+4305504,Ciríaco,RS,233410.0,246482.0,5.6,Crescimento moderado,Forte crescimento,Forte crescimento
+4305587,Colinas,RS,90398.0,82155.0,-9.12,Forte crescimento,Crescimento moderado,Forte crescimento
+4305603,Colorado,RS,198977.0,218448.0,9.79,Forte retração,Forte retração,Forte retração
+4305702,Condor,RS,470592.0,469845.0,-0.16,Forte retração,Forte retração,Forte retração
+4305801,Constantina,RS,471925.0,441057.0,-6.54,Forte crescimento,Retração,Estabilidade
+4305835,Coqueiro Baixo,RS,56011.0,47293.0,-15.56,Forte crescimento,Retração,Crescimento moderado
+4305850,Coqueiros do Sul,RS,139283.0,140802.0,1.09,Forte retração,Forte retração,Forte retração
+4305871,Coronel Barros,RS,143058.0,169650.0,18.59,Forte retração,Forte retração,Forte retração
+4305900,Coronel Bicaco,RS,397095.0,415515.0,4.64,Forte crescimento,Forte crescimento,Forte crescimento
+4305934,Coronel Pilar,RS,58153.0,51302.0,-11.78,Forte crescimento,Forte crescimento,Forte crescimento
+4305959,Cotiporã,RS,205102.0,206010.0,0.44,Forte crescimento,Forte crescimento,Forte crescimento
+4305975,Coxilha,RS,349364.0,335607.0,-3.94,Forte crescimento,Forte crescimento,Forte crescimento
+4306007,Crissiumal,RS,500660.0,515171.0,2.9,Crescimento moderado,Crescimento moderado,Crescimento moderado
+4306056,Cristal,RS,300530.0,269518.0,-10.32,Forte retração,Forte retração,Forte retração
+4306072,Cristal do Sul,RS,98787.0,90401.0,-8.49,Forte crescimento,Crescimento moderado,Forte crescimento
+4306106,Cruz Alta,RS,4399886.0,4426531.0,0.61,Forte crescimento,Estabilidade,Forte crescimento
+4306130,Cruzaltense,RS,104945.0,106448.0,1.43,Retração,Forte retração,Estabilidade
+4306205,Cruzeiro do Sul,RS,685746.0,697501.0,1.71,Crescimento moderado,Forte retração,Forte crescimento
+4306304,David Canabarro,RS,206880.0,198338.0,-4.13,Forte crescimento,Retração,Crescimento moderado
+4306320,Derrubadas,RS,117581.0,117713.0,0.11,Forte crescimento,Forte crescimento,Forte crescimento
+4306353,Dezesseis de Novembro,RS,51412.0,48370.0,-5.92,Forte crescimento,Retração,Estabilidade
+4306379,Dilermando de Aguiar,RS,202939.0,203933.0,0.49,Forte crescimento,Forte crescimento,Forte crescimento
+4306403,Dois Irmãos,RS,2639523.0,2648565.0,0.34,Forte crescimento,Crescimento moderado,Forte crescimento
+4306429,Dois Irmãos das Missões,RS,125757.0,129297.0,2.81,Estabilidade,Retração,Crescimento moderado
+4306452,Dois Lajeados,RS,166002.0,164837.0,-0.7,Forte crescimento,Retração,Crescimento moderado
+4306502,Dom Feliciano,RS,418179.0,341421.0,-18.36,Forte crescimento,Retração,Estabilidade
+4306551,Dom Pedro de Alcântara,RS,83656.0,75427.0,-9.84,Forte crescimento,Forte crescimento,Forte crescimento
+4306601,Dom Pedrito,RS,2288172.0,2132647.0,-6.8,Forte crescimento,Crescimento moderado,Forte crescimento
+4306700,Dona Francisca,RS,112216.0,100301.0,-10.62,Forte crescimento,Forte crescimento,Forte crescimento
+4306734,Doutor Maurício Cardoso,RS,228266.0,223647.0,-2.02,Retração,Forte retração,Forte retração
+4306759,Doutor Ricardo,RS,89704.0,82308.0,-8.24,Forte crescimento,Crescimento moderado,Forte crescimento
+4306767,Eldorado do Sul,RS,2623491.0,2592080.0,-1.2,Forte crescimento,Crescimento moderado,Forte crescimento
+4306809,Encantado,RS,1411422.0,1308796.0,-7.27,Forte crescimento,Crescimento moderado,Forte crescimento
+4306908,Encruzilhada do Sul,RS,1189528.0,1140179.0,-4.15,Forte crescimento,Crescimento moderado,Crescimento moderado
+4306924,Engenho Velho,RS,50748.0,53395.0,5.22,Forte retração,Retração,Retração
+4306932,Entre-Ijuís,RS,478944.0,507697.0,6.0,Retração,Retração,Crescimento moderado
+4306957,Entre Rios do Sul,RS,209711.0,221180.0,5.47,Retração,Forte retração,Crescimento moderado
+4306973,Erebango,RS,152046.0,167252.0,10.0,Forte retração,Forte retração,Forte retração
+4307005,Erechim,RS,8497106.0,8111944.0,-4.53,Forte crescimento,Crescimento moderado,Forte crescimento
+4307054,Ernestina,RS,163434.0,182094.0,11.42,Forte retração,Forte retração,Retração
+4307104,Herval,RS,199383.0,176214.0,-11.62,Estabilidade,Forte retração,Forte retração
+4307203,Erval Grande,RS,161672.0,159327.0,-1.45,Forte crescimento,Crescimento moderado,Forte crescimento
+4307302,Erval Seco,RS,299811.0,304518.0,1.57,Forte crescimento,Crescimento moderado,Forte crescimento
+4307401,Esmeralda,RS,363781.0,370736.0,1.91,Forte crescimento,Forte crescimento,Forte crescimento
+4307450,Esperança do Sul,RS,101346.0,96587.0,-4.7,Forte crescimento,Retração,Crescimento moderado
+4307500,Espumoso,RS,861538.0,895170.0,3.9,Retração,Retração,Crescimento moderado
+4307559,Estação,RS,397872.0,424345.0,6.65,Forte retração,Forte retração,Retração
+4307609,Estância Velha,RS,2309196.0,2072927.0,-10.23,Forte crescimento,Crescimento moderado,Crescimento moderado
+4307708,Esteio,RS,3998587.0,4413460.0,10.38,Forte retração,Crescimento moderado,Crescimento moderado
+4307807,Estrela,RS,2376913.0,2298016.0,-3.32,Forte crescimento,Crescimento moderado,Crescimento moderado
+4307815,Estrela Velha,RS,145289.0,149308.0,2.77,Forte crescimento,Crescimento moderado,Forte crescimento
+4307831,Eugênio de Castro,RS,224862.0,238442.0,6.04,Forte retração,Forte retração,Retração
+4307864,Fagundes Varela,RS,189848.0,182513.0,-3.86,Forte crescimento,Retração,Crescimento moderado
+4307906,Farroupilha,RS,4960621.0,4896995.0,-1.28,Forte crescimento,Crescimento moderado,Forte crescimento
+4308003,Faxinal do Soturno,RS,298533.0,275732.0,-7.64,Forte crescimento,Crescimento moderado,Forte crescimento
+4308052,Faxinalzinho,RS,113640.0,105209.0,-7.42,Forte crescimento,Forte crescimento,Forte crescimento
+4308078,Fazenda Vilanova,RS,145766.0,140449.0,-3.65,Forte crescimento,Forte crescimento,Forte crescimento
+4308102,Feliz,RS,676581.0,620809.0,-8.24,Forte crescimento,Crescimento moderado,Forte crescimento
+4308201,Flores da Cunha,RS,3336288.0,3127957.0,-6.24,Forte crescimento,Crescimento moderado,Forte crescimento
+4308250,Floriano Peixoto,RS,77406.0,76785.0,-0.8,Forte retração,Forte retração,Forte retração
+4308300,Fontoura Xavier,RS,260495.0,254293.0,-2.38,Forte crescimento,Forte crescimento,Forte crescimento
+4308409,Formigueiro,RS,263216.0,245668.0,-6.67,Forte crescimento,Crescimento moderado,Forte crescimento
+4308433,Forquetinha,RS,64513.0,56218.0,-12.86,Forte crescimento,Crescimento moderado,Forte crescimento
+4308458,Fortaleza dos Valos,RS,330898.0,348534.0,5.33,Retração,Retração,Crescimento moderado
+4308508,Frederico Westphalen,RS,1792336.0,1687203.0,-5.87,Forte crescimento,Crescimento moderado,Forte crescimento
+4308607,Garibaldi,RS,3565442.0,3419489.0,-4.09,Forte crescimento,Crescimento moderado,Forte crescimento
+4308656,Garruchos,RS,134739.0,137901.0,2.35,Forte crescimento,Retração,Forte crescimento
+4308706,Gaurama,RS,349016.0,289158.0,-17.15,Forte crescimento,Retração,Retração
+4308805,General Câmara,RS,234058.0,207373.0,-11.4,Crescimento moderado,Forte retração,Forte retração
+4308854,Gentil,RS,152256.0,163079.0,7.11,Forte crescimento,Forte crescimento,Forte crescimento
+4308904,Getúlio Vargas,RS,879960.0,814977.0,-7.38,Forte crescimento,Retração,Estabilidade
+4309001,Giruá,RS,1017468.0,992264.0,-2.48,Forte crescimento,Estabilidade,Forte crescimento
+4309050,Glorinha,RS,595369.0,415790.0,-30.16,Forte crescimento,Crescimento moderado,Forte crescimento
+4309100,Gramado,RS,3565830.0,3282910.0,-7.93,Forte crescimento,Crescimento moderado,Crescimento moderado
+4309126,Gramado dos Loureiros,RS,87589.0,86080.0,-1.72,Forte crescimento,Forte crescimento,Forte crescimento
+4309159,Gramado Xavier,RS,124280.0,106882.0,-14.0,Forte crescimento,Retração,Retração
+4309209,Gravataí,RS,15545558.0,13549359.0,-12.84,Forte crescimento,Crescimento moderado,Crescimento moderado
+4309258,Guabiju,RS,107684.0,89081.0,-17.28,Forte crescimento,Forte retração,Retração
+4309308,Guaíba,RS,9001785.0,8953198.0,-0.54,Forte crescimento,Crescimento moderado,Forte crescimento
+4309407,Guaporé,RS,1264537.0,1197344.0,-5.31,Forte crescimento,Crescimento moderado,Forte crescimento
+4309506,Guarani das Missões,RS,295743.0,299061.0,1.12,Crescimento moderado,Retração,Forte crescimento
+4309555,Harmonia,RS,306941.0,274930.0,-10.43,Forte crescimento,Crescimento moderado,Forte crescimento
+4309571,Herveiras,RS,88439.0,76739.0,-13.23,Forte crescimento,Forte crescimento,Forte crescimento
+4309605,Horizontina,RS,1828050.0,3905994.0,113.67,Forte retração,Forte retração,Forte crescimento
+4309654,Hulha Negra,RS,228860.0,217745.0,-4.86,Estabilidade,Forte retração,Forte retração
+4309704,Humaitá,RS,218021.0,221475.0,1.58,Forte crescimento,Forte crescimento,Forte crescimento
+4309753,Ibarama,RS,105469.0,93535.0,-11.32,Forte crescimento,Forte retração,Forte retração
+4309803,Ibiaçá,RS,298761.0,296212.0,-0.85,Forte crescimento,Forte crescimento,Forte crescimento
+4309902,Ibiraiaras,RS,380199.0,390796.0,2.79,Forte crescimento,Forte crescimento,Forte crescimento
+4309951,Ibirapuitã,RS,188102.0,194915.0,3.62,Forte crescimento,Forte crescimento,Forte crescimento
+4310009,Ibirubá,RS,1708042.0,1793607.0,5.01,Estabilidade,Retração,Crescimento moderado
+4310108,Igrejinha,RS,2656127.0,2318181.0,-12.72,Forte crescimento,Forte crescimento,Forte crescimento
+4310207,Ijuí,RS,6105244.0,5710083.0,-6.47,Forte crescimento,Crescimento moderado,Crescimento moderado
+4310306,Ilópolis,RS,164900.0,155028.0,-5.99,Forte crescimento,Forte crescimento,Forte crescimento
+4310330,Imbé,RS,762866.0,713156.0,-6.52,Forte crescimento,Forte crescimento,Forte crescimento
+4310363,Imigrante,RS,590476.0,656904.0,11.25,Forte retração,Forte retração,Estabilidade
+4310405,Independência,RS,443606.0,444973.0,0.31,Forte crescimento,Forte crescimento,Forte crescimento
+4310413,Inhacorá,RS,76396.0,80282.0,5.09,Crescimento moderado,Retração,Forte crescimento
+4310439,Ipê,RS,392922.0,306696.0,-21.94,Forte crescimento,Forte crescimento,Forte crescimento
+4310462,Ipiranga do Sul,RS,122376.0,146455.0,19.68,Forte retração,Forte retração,Forte retração
+4310504,Iraí,RS,255785.0,267969.0,4.76,Forte crescimento,Forte crescimento,Forte crescimento
+4310538,Itaara,RS,304167.0,279277.0,-8.18,Forte crescimento,Retração,Crescimento moderado
+4310553,Itacurubi,RS,114342.0,114306.0,-0.03,Forte crescimento,Forte crescimento,Forte crescimento
+4310579,Itapuca,RS,93881.0,97628.0,3.99,Crescimento moderado,Forte crescimento,Forte crescimento
+4310603,Itaqui,RS,2068939.0,1836499.0,-11.23,Forte crescimento,Crescimento moderado,Crescimento moderado
+4310652,Itati,RS,103483.0,86139.0,-16.76,Forte crescimento,Crescimento moderado,Crescimento moderado
+4310702,Itatiba do Sul,RS,85113.0,79027.0,-7.15,Forte crescimento,Forte crescimento,Forte crescimento
+4310751,Ivorá,RS,53952.0,52880.0,-1.99,Forte crescimento,Crescimento moderado,Forte crescimento
+4310801,Ivoti,RS,1538878.0,1419123.0,-7.78,Forte crescimento,Crescimento moderado,Crescimento moderado
+4310850,Jaboticaba,RS,106763.0,103109.0,-3.42,Forte retração,Forte retração,Forte retração
+4310876,Jacuizinho,RS,125146.0,128823.0,2.94,Forte crescimento,Retração,Forte crescimento
+4310900,Jacutinga,RS,188689.0,199482.0,5.72,Forte retração,Forte retração,Forte retração
+4311007,Jaguarão,RS,1034802.0,948929.0,-8.3,Forte crescimento,Forte retração,Estabilidade
+4311106,Jaguari,RS,328937.0,322319.0,-2.01,Forte crescimento,Crescimento moderado,Forte crescimento
+4311122,Jaquirana,RS,101810.0,93950.0,-7.72,Forte crescimento,Forte crescimento,Forte crescimento
+4311130,Jari,RS,211635.0,224521.0,6.09,Forte retração,Forte retração,Forte retração
+4311155,Jóia,RS,345894.0,398647.0,15.25,Forte retração,Forte retração,Forte retração
+4311205,Júlio de Castilhos,RS,1306882.0,1480766.0,13.31,Forte retração,Estabilidade,Crescimento moderado
+4311239,Lagoa Bonita do Sul,RS,84224.0,74312.0,-11.77,Forte crescimento,Forte crescimento,Forte crescimento
+4311254,Lagoão,RS,149771.0,137490.0,-8.2,Forte crescimento,Forte crescimento,Forte crescimento
+4311270,Lagoa dos Três Cantos,RS,81864.0,87401.0,6.76,Forte retração,Forte retração,Forte retração
+4311304,Lagoa Vermelha,RS,1608163.0,1540161.0,-4.23,Forte crescimento,Retração,Crescimento moderado
+4311403,Lajeado,RS,6705227.0,6393831.0,-4.64,Forte crescimento,Crescimento moderado,Crescimento moderado
+4311429,Lajeado do Bugre,RS,65433.0,61507.0,-6.0,Forte crescimento,Retração,Crescimento moderado
+4311502,Lavras do Sul,RS,369845.0,367627.0,-0.6,Retração,Forte retração,Retração
+4311601,Liberato Salzano,RS,152571.0,142814.0,-6.4,Forte crescimento,Retração,Crescimento moderado
+4311627,Lindolfo Collor,RS,353109.0,327175.0,-7.34,Forte crescimento,Forte retração,Estabilidade
+4311643,Linha Nova,RS,76154.0,67996.0,-10.71,Forte crescimento,Crescimento moderado,Crescimento moderado
+4311700,Machadinho,RS,260895.0,265057.0,1.6,Crescimento moderado,Retração,Forte crescimento
+4311718,Maçambará,RS,367963.0,329401.0,-10.48,Forte crescimento,Forte crescimento,Forte crescimento
+4311734,Mampituba,RS,101220.0,80730.0,-20.24,Forte crescimento,Crescimento moderado,Crescimento moderado
+4311759,Manoel Viana,RS,303342.0,309380.0,1.99,Forte retração,Forte retração,Forte retração
+4311775,Maquiné,RS,228748.0,209575.0,-8.38,Forte crescimento,Crescimento moderado,Crescimento moderado
+4311791,Maratá,RS,104147.0,93591.0,-10.14,Forte crescimento,Forte crescimento,Forte crescimento
+4311809,Marau,RS,3738295.0,3625841.0,-3.01,Forte crescimento,Crescimento moderado,Forte crescimento
+4311908,Marcelino Ramos,RS,192535.0,174194.0,-9.53,Forte crescimento,Crescimento moderado,Forte crescimento
+4311981,Mariana Pimentel,RS,117787.0,108423.0,-7.95,Forte crescimento,Forte crescimento,Forte crescimento
+4312005,Mariano Moro,RS,71583.0,64373.0,-10.07,Forte crescimento,Forte retração,Retração
+4312054,Marques de Souza,RS,137495.0,131158.0,-4.61,Forte crescimento,Crescimento moderado,Forte crescimento
+4312104,Mata,RS,174006.0,164273.0,-5.59,Forte crescimento,Forte crescimento,Forte crescimento
+4312138,Mato Castelhano,RS,128502.0,129123.0,0.48,Forte crescimento,Forte crescimento,Forte crescimento
+4312153,Mato Leitão,RS,295044.0,242401.0,-17.84,Forte crescimento,Forte crescimento,Forte crescimento
+4312179,Mato Queimado,RS,61648.0,58406.0,-5.26,Forte crescimento,Forte retração,Estabilidade
+4312203,Maximiliano de Almeida,RS,159588.0,154972.0,-2.89,Crescimento moderado,Retração,Estabilidade
+4312252,Minas do Leão,RS,291061.0,285732.0,-1.83,Forte crescimento,Forte crescimento,Forte crescimento
+4312302,Miraguaí,RS,200597.0,197288.0,-1.65,Forte crescimento,Crescimento moderado,Forte crescimento
+4312351,Montauri,RS,73733.0,70038.0,-5.01,Forte crescimento,Forte crescimento,Forte crescimento
+4312377,Monte Alegre dos Campos,RS,117051.0,111204.0,-4.99,Forte crescimento,Forte crescimento,Forte crescimento
+4312385,Monte Belo do Sul,RS,126816.0,115607.0,-8.84,Forte crescimento,Forte crescimento,Forte crescimento
+4312401,Montenegro,RS,5259437.0,6880384.0,30.82,Forte retração,Crescimento moderado,Forte crescimento
+4312427,Mormaço,RS,102289.0,108443.0,6.02,Forte retração,Forte retração,Retração
+4312443,Morrinhos do Sul,RS,103248.0,94380.0,-8.59,Forte crescimento,Forte crescimento,Forte crescimento
+4312450,Morro Redondo,RS,153226.0,148544.0,-3.06,Forte crescimento,Retração,Crescimento moderado
+4312476,Morro Reuter,RS,304040.0,286044.0,-5.92,Forte crescimento,Crescimento moderado,Crescimento moderado
+4312500,Mostardas,RS,494341.0,454586.0,-8.04,Estabilidade,Forte retração,Forte retração
+4312609,Muçum,RS,273363.0,281932.0,3.13,Crescimento moderado,Crescimento moderado,Crescimento moderado
+4312617,Muitos Capões,RS,950302.0,818621.0,-13.86,Forte crescimento,Forte retração,Retração
+4312625,Muliterno,RS,71170.0,68606.0,-3.6,Forte crescimento,Forte crescimento,Forte crescimento
+4312658,Não-Me-Toque,RS,2951960.0,2889994.0,-2.1,Forte crescimento,Forte retração,Crescimento moderado
+4312674,Nicolau Vergueiro,RS,101823.0,111024.0,9.04,Crescimento moderado,Estabilidade,Forte crescimento
+4312708,Nonoai,RS,539374.0,565238.0,4.8,Crescimento moderado,Forte crescimento,Forte crescimento
+4312757,Nova Alvorada,RS,201942.0,217306.0,7.61,Crescimento moderado,Crescimento moderado,Forte crescimento
+4312807,Nova Araçá,RS,474775.0,374507.0,-21.12,Forte crescimento,Retração,Forte crescimento
+4312906,Nova Bassano,RS,765058.0,873820.0,14.22,Forte retração,Crescimento moderado,Forte crescimento
+4312955,Nova Boa Vista,RS,137786.0,131313.0,-4.7,Retração,Forte retração,Forte retração
+4313003,Nova Bréscia,RS,153973.0,137084.0,-10.97,Forte crescimento,Crescimento moderado,Forte crescimento
+4313011,Nova Candelária,RS,225892.0,210062.0,-7.01,Forte crescimento,Crescimento moderado,Forte crescimento
+4313037,Nova Esperança do Sul,RS,197238.0,144306.0,-26.84,Forte crescimento,Crescimento moderado,Forte crescimento
+4313060,Nova Hartz,RS,1054362.0,915973.0,-13.13,Forte crescimento,Crescimento moderado,Crescimento moderado
+4313086,Nova Pádua,RS,115884.0,104081.0,-10.19,Forte crescimento,Forte crescimento,Forte crescimento
+4313102,Nova Palma,RS,306852.0,334261.0,8.93,Estabilidade,Crescimento moderado,Forte crescimento
+4313201,Nova Petrópolis,RS,1103618.0,1114419.0,0.98,Forte crescimento,Crescimento moderado,Forte crescimento
+4313300,Nova Prata,RS,1559276.0,1568625.0,0.6,Forte crescimento,Crescimento moderado,Forte crescimento
+4313334,Nova Ramada,RS,204997.0,200835.0,-2.03,Crescimento moderado,Forte retração,Estabilidade
+4313359,Nova Roma do Sul,RS,206674.0,195223.0,-5.54,Forte crescimento,Forte crescimento,Forte crescimento
+4313375,Nova Santa Rita,RS,3229383.0,2968774.0,-8.07,Forte crescimento,Crescimento moderado,Forte crescimento
+4313391,Novo Cabrais,RS,131684.0,120308.0,-8.64,Estabilidade,Forte retração,Forte retração
+4313409,Novo Hamburgo,RS,11936582.0,11570237.0,-3.07,Forte crescimento,Crescimento moderado,Forte crescimento
+4313425,Novo Machado,RS,140899.0,140529.0,-0.26,Retração,Forte retração,Retração
+4313441,Novo Tiradentes,RS,73353.0,65683.0,-10.46,Forte crescimento,Forte retração,Estabilidade
+4313466,Novo Xingu,RS,67741.0,59021.0,-12.87,Crescimento moderado,Forte retração,Forte retração
+4313490,Novo Barreiro,RS,120313.0,120381.0,0.06,Forte crescimento,Crescimento moderado,Forte crescimento
+4313508,Osório,RS,2141950.0,2101409.0,-1.89,Forte crescimento,Crescimento moderado,Forte crescimento
+4313607,Paim Filho,RS,162821.0,160673.0,-1.32,Forte crescimento,Forte crescimento,Forte crescimento
+4313656,Palmares do Sul,RS,739855.0,728983.0,-1.47,Forte crescimento,Forte crescimento,Forte crescimento
+4313706,Palmeira das Missões,RS,1708324.0,1783984.0,4.43,Forte retração,Retração,Retração
+4313805,Palmitinho,RS,265325.0,263365.0,-0.74,Forte crescimento,Forte crescimento,Forte crescimento
+4313904,Panambi,RS,4011216.0,3889491.0,-3.03,Forte crescimento,Crescimento moderado,Forte crescimento
+4313953,Pantano Grande,RS,576614.0,541487.0,-6.09,Crescimento moderado,Forte retração,Retração
+4314001,Paraí,RS,488256.0,443645.0,-9.14,Forte crescimento,Crescimento moderado,Forte crescimento
+4314027,Paraíso do Sul,RS,230034.0,203518.0,-11.53,Forte crescimento,Forte crescimento,Forte crescimento
+4314035,Pareci Novo,RS,159254.0,146251.0,-8.17,Forte crescimento,Forte crescimento,Forte crescimento
+4314050,Parobé,RS,1725746.0,1583210.0,-8.26,Forte crescimento,Crescimento moderado,Forte crescimento
+4314068,Passa Sete,RS,144618.0,134716.0,-6.85,Forte crescimento,Forte crescimento,Forte crescimento
+4314076,Passo do Sobrado,RS,281871.0,246918.0,-12.4,Forte crescimento,Forte retração,Retração
+4314100,Passo Fundo,RS,14069540.0,14256499.0,1.33,Crescimento moderado,Crescimento moderado,Crescimento moderado
+4314134,Paulo Bento,RS,238558.0,204538.0,-14.26,Forte crescimento,Forte retração,Crescimento moderado
+4314159,Paverama,RS,301262.0,279018.0,-7.38,Forte crescimento,Crescimento moderado,Forte crescimento
+4314175,Pedras Altas,RS,172852.0,228885.0,32.42,Forte retração,Forte retração,Forte retração
+4314209,Pedro Osório,RS,242415.0,227701.0,-6.07,Retração,Forte retração,Forte retração
+4314308,Pejuçara,RS,293084.0,290346.0,-0.93,Estabilidade,Forte retração,Retração
+4314407,Pelotas,RS,12480919.0,12498495.0,0.14,Forte crescimento,Crescimento moderado,Forte crescimento
+4314423,Picada Café,RS,393452.0,393199.0,-0.06,Crescimento moderado,Forte retração,Crescimento moderado
+4314456,Pinhal,RS,154127.0,134492.0,-12.74,Forte crescimento,Retração,Estabilidade
+4314464,Pinhal da Serra,RS,249016.0,304025.0,22.09,Forte retração,Forte crescimento,Forte crescimento
+4314472,Pinhal Grande,RS,500998.0,692328.0,38.19,Forte retração,Forte retração,Retração
+4314498,Pinheirinho do Vale,RS,140566.0,128837.0,-8.34,Forte crescimento,Forte crescimento,Forte crescimento
+4314506,Pinheiro Machado,RS,357896.0,345475.0,-3.47,Forte crescimento,Retração,Crescimento moderado
+4314548,Pinto Bandeira,RS,93134.0,99008.0,6.31,Forte crescimento,Forte crescimento,Forte crescimento
+4314555,Pirapó,RS,72016.0,72414.0,0.55,Forte crescimento,Forte crescimento,Forte crescimento
+4314605,Piratini,RS,744361.0,718374.0,-3.49,Forte retração,Forte retração,Forte retração
+4314704,Planalto,RS,325778.0,313456.0,-3.78,Forte crescimento,Forte crescimento,Forte crescimento
+4314753,Poço das Antas,RS,100774.0,160725.0,59.49,Forte retração,Retração,Crescimento moderado
+4314779,Pontão,RS,271978.0,272068.0,0.03,Forte retração,Forte retração,Forte retração
+4314787,Ponte Preta,RS,78317.0,76018.0,-2.94,Forte crescimento,Retração,Forte crescimento
+4314803,Portão,RS,1816677.0,1645309.0,-9.43,Forte crescimento,Crescimento moderado,Forte crescimento
+4314902,Porto Alegre,RS,104743272.0,94765159.0,-9.53,Forte crescimento,Crescimento moderado,Forte crescimento
+4315008,Porto Lucena,RS,128972.0,118246.0,-8.32,Forte crescimento,Retração,Crescimento moderado
+4315057,Porto Mauá,RS,79557.0,71166.0,-10.55,Forte crescimento,Retração,Crescimento moderado
+4315073,Porto Vera Cruz,RS,48373.0,42774.0,-11.57,Forte crescimento,Crescimento moderado,Forte crescimento
+4315107,Porto Xavier,RS,230082.0,218414.0,-5.07,Forte crescimento,Crescimento moderado,Forte crescimento
+4315131,Pouso Novo,RS,57904.0,52209.0,-9.84,Forte crescimento,Retração,Crescimento moderado
+4315149,Presidente Lucena,RS,371734.0,296915.0,-20.13,Forte crescimento,Forte retração,Estabilidade
+4315156,Progresso,RS,181523.0,162186.0,-10.65,Forte crescimento,Crescimento moderado,Crescimento moderado
+4315172,Protásio Alves,RS,93358.0,85130.0,-8.81,Forte crescimento,Retração,Estabilidade
+4315206,Putinga,RS,153758.0,143806.0,-6.47,Forte crescimento,Forte crescimento,Forte crescimento
+4315305,Quaraí,RS,720057.0,628592.0,-12.7,Forte crescimento,Crescimento moderado,Forte crescimento
+4315313,Quatro Irmãos,RS,136523.0,132266.0,-3.12,Forte retração,Forte retração,Forte retração
+4315321,Quevedos,RS,156253.0,167606.0,7.27,Forte retração,Forte retração,Forte retração
+4315354,Quinze de Novembro,RS,172891.0,169559.0,-1.93,Forte crescimento,Retração,Crescimento moderado
+4315404,Redentora,RS,207604.0,203862.0,-1.8,Forte crescimento,Crescimento moderado,Forte crescimento
+4315453,Relvado,RS,75597.0,70306.0,-7.0,Forte crescimento,Forte crescimento,Forte crescimento
+4315503,Restinga Sêca,RS,643230.0,588998.0,-8.43,Forte crescimento,Crescimento moderado,Crescimento moderado
+4315552,Rio dos Índios,RS,116660.0,117468.0,0.69,Crescimento moderado,Crescimento moderado,Crescimento moderado
+4315602,Rio Grande,RS,14106680.0,14339357.0,1.65,Forte crescimento,Crescimento moderado,Forte crescimento
+4315701,Rio Pardo,RS,1248019.0,1284498.0,2.92,Forte retração,Forte retração,Forte retração
+4315750,Riozinho,RS,165772.0,156062.0,-5.86,Forte crescimento,Crescimento moderado,Forte crescimento
+4315800,Roca Sales,RS,626611.0,586356.0,-6.42,Forte crescimento,Crescimento moderado,Crescimento moderado
+4315909,Rodeio Bonito,RS,301150.0,280833.0,-6.75,Forte crescimento,Crescimento moderado,Forte crescimento
+4315958,Rolador,RS,91405.0,90475.0,-1.02,Crescimento moderado,Forte retração,Estabilidade
+4316006,Rolante,RS,951008.0,858486.0,-9.73,Forte crescimento,Crescimento moderado,Crescimento moderado
+4316105,Ronda Alta,RS,402816.0,397357.0,-1.36,Forte retração,Forte retração,Forte retração
+4316204,Rondinha,RS,227716.0,212526.0,-6.67,Retração,Forte retração,Forte retração
+4316303,Roque Gonzales,RS,396753.0,419845.0,5.82,Retração,Retração,Crescimento moderado
+4316402,Rosário do Sul,RS,1498313.0,1414952.0,-5.56,Forte crescimento,Forte crescimento,Forte crescimento
+4316428,Sagrada Família,RS,67102.0,63337.0,-5.61,Forte crescimento,Retração,Estabilidade
+4316436,Saldanha Marinho,RS,170089.0,172789.0,1.59,Retração,Forte retração,Retração
+4316451,Salto do Jacuí,RS,594921.0,847243.0,42.41,Forte retração,Forte retração,Estabilidade
+4316477,Salvador das Missões,RS,162260.0,157914.0,-2.68,Forte crescimento,Retração,Forte crescimento
+4316501,Salvador do Sul,RS,395636.0,338498.0,-14.44,Forte crescimento,Crescimento moderado,Crescimento moderado
+4316600,Sananduva,RS,877957.0,887458.0,1.08,Forte crescimento,Crescimento moderado,Forte crescimento
+4316709,Santa Bárbara do Sul,RS,875561.0,1024869.0,17.05,Forte retração,Retração,Crescimento moderado
+4316733,Santa Cecília do Sul,RS,91361.0,93812.0,2.68,Forte retração,Forte retração,Forte retração
+4316758,Santa Clara do Sul,RS,427744.0,378523.0,-11.51,Forte crescimento,Crescimento moderado,Crescimento moderado
+4316808,Santa Cruz do Sul,RS,13396618.0,12161572.0,-9.22,Forte crescimento,Crescimento moderado,Forte crescimento
+4316907,Santa Maria,RS,10932024.0,10472371.0,-4.2,Forte crescimento,Crescimento moderado,Forte crescimento
+4316956,Santa Maria do Herval,RS,271501.0,274302.0,1.03,Crescimento moderado,Crescimento moderado,Crescimento moderado
+4316972,Santa Margarida do Sul,RS,278310.0,275553.0,-0.99,Forte crescimento,Forte crescimento,Forte crescimento
+4317004,Santana da Boa Vista,RS,237629.0,247389.0,4.11,Forte retração,Forte retração,Forte retração
+4317103,Sant'Ana do Livramento,RS,3143614.0,3066510.0,-2.45,Forte crescimento,Crescimento moderado,Forte crescimento
+4317202,Santa Rosa,RS,4530356.0,4269796.0,-5.75,Forte crescimento,Crescimento moderado,Forte crescimento
+4317251,Santa Tereza,RS,53742.0,47823.0,-11.01,Forte crescimento,Crescimento moderado,Crescimento moderado
+4317301,Santa Vitória do Palmar,RS,1990739.0,1758252.0,-11.68,Forte crescimento,Forte crescimento,Forte crescimento
+4317400,Santiago,RS,1861691.0,1894372.0,1.76,Forte crescimento,Crescimento moderado,Forte crescimento
+4317509,Santo Ângelo,RS,3379818.0,3336042.0,-1.3,Forte crescimento,Crescimento moderado,Forte crescimento
+4317558,Santo Antônio do Palma,RS,112425.0,111243.0,-1.05,Forte crescimento,Forte crescimento,Forte crescimento
+4317608,Santo Antônio da Patrulha,RS,2178831.0,2016897.0,-7.43,Forte crescimento,Crescimento moderado,Forte crescimento
+4317707,Santo Antônio das Missões,RS,433323.0,423391.0,-2.29,Forte crescimento,Estabilidade,Forte crescimento
+4317756,Santo Antônio do Planalto,RS,166647.0,175570.0,5.35,Estabilidade,Retração,Forte crescimento
+4317806,Santo Augusto,RS,728450.0,716028.0,-1.71,Crescimento moderado,Retração,Crescimento moderado
+4317905,Santo Cristo,RS,766616.0,741105.0,-3.33,Forte crescimento,Crescimento moderado,Forte crescimento
+4317954,Santo Expedito do Sul,RS,105537.0,100177.0,-5.08,Forte crescimento,Retração,Crescimento moderado
+4318002,São Borja,RS,2550388.0,2513837.0,-1.43,Forte crescimento,Crescimento moderado,Forte crescimento
+4318051,São Domingos do Sul,RS,130564.0,121389.0,-7.03,Forte crescimento,Crescimento moderado,Forte crescimento
+4318101,São Francisco de Assis,RS,592569.0,502170.0,-15.26,Forte crescimento,Retração,Crescimento moderado
+4318200,São Francisco de Paula,RS,1202082.0,1138403.0,-5.3,Forte crescimento,Forte crescimento,Forte crescimento
+4318309,São Gabriel,RS,2682926.0,2629526.0,-1.99,Forte crescimento,Crescimento moderado,Forte crescimento
+4318408,São Jerônimo,RS,712278.0,679974.0,-4.54,Forte crescimento,Retração,Crescimento moderado
+4318424,São João da Urtiga,RS,198261.0,181022.0,-8.7,Forte crescimento,Forte crescimento,Forte crescimento
+4318432,São João do Polêsine,RS,117973.0,108855.0,-7.73,Forte crescimento,Crescimento moderado,Forte crescimento
+4318440,São Jorge,RS,113154.0,108999.0,-3.67,Forte crescimento,Retração,Crescimento moderado
+4318457,São José das Missões,RS,76281.0,74138.0,-2.81,Forte crescimento,Retração,Crescimento moderado
+4318465,São José do Herval,RS,55694.0,53732.0,-3.52,Forte crescimento,Retração,Crescimento moderado
+4318481,São José do Hortêncio,RS,149146.0,144805.0,-2.91,Forte crescimento,Forte crescimento,Forte crescimento
+4318499,São José do Inhacorá,RS,214097.0,193724.0,-9.52,Forte crescimento,Crescimento moderado,Crescimento moderado
+4318507,São José do Norte,RS,1273464.0,715974.0,-43.78,Forte crescimento,Forte crescimento,Forte crescimento
+4318606,São José do Ouro,RS,426238.0,447436.0,4.97,Estabilidade,Retração,Forte crescimento
+4318614,São José do Sul,RS,111514.0,100344.0,-10.02,Forte crescimento,Forte crescimento,Forte crescimento
+4318622,São José dos Ausentes,RS,177177.0,165418.0,-6.64,Forte crescimento,Forte crescimento,Forte crescimento
+4318705,São Leopoldo,RS,11740913.0,11793323.0,0.45,Forte crescimento,Crescimento moderado,Forte crescimento
+4318804,São Lourenço do Sul,RS,1719596.0,1630900.0,-5.16,Forte crescimento,Retração,Estabilidade
+4318903,São Luiz Gonzaga,RS,1712990.0,1730320.0,1.01,Retração,Retração,Estabilidade
+4319000,São Marcos,RS,1488757.0,1301638.0,-12.57,Forte crescimento,Crescimento moderado,Forte crescimento
+4319109,São Martinho,RS,304939.0,318523.0,4.45,Crescimento moderado,Crescimento moderado,Forte crescimento
+4319125,São Martinho da Serra,RS,211210.0,225769.0,6.89,Forte retração,Forte retração,Forte retração
+4319158,São Miguel das Missões,RS,517182.0,488141.0,-5.62,Estabilidade,Forte retração,Retração
+4319208,São Nicolau,RS,178749.0,174075.0,-2.61,Crescimento moderado,Retração,Crescimento moderado
+4319307,São Paulo das Missões,RS,214703.0,198441.0,-7.57,Forte crescimento,Crescimento moderado,Forte crescimento
+4319356,São Pedro da Serra,RS,122651.0,109376.0,-10.82,Forte crescimento,Crescimento moderado,Crescimento moderado
+4319364,São Pedro das Missões,RS,72911.0,86479.0,18.61,Forte retração,Forte retração,Forte retração
+4319372,São Pedro do Butiá,RS,139485.0,132833.0,-4.77,Forte crescimento,Retração,Crescimento moderado
+4319406,São Pedro do Sul,RS,505803.0,501067.0,-0.94,Forte crescimento,Forte crescimento,Forte crescimento
+4319505,São Sebastião do Caí,RS,1123568.0,1024554.0,-8.81,Forte crescimento,Crescimento moderado,Crescimento moderado
+4319604,São Sepé,RS,1059509.0,1083210.0,2.24,Forte crescimento,Forte crescimento,Forte crescimento
+4319703,São Valentim,RS,124878.0,125894.0,0.81,Forte crescimento,Crescimento moderado,Forte crescimento
+4319711,São Valentim do Sul,RS,84857.0,85405.0,0.65,Forte crescimento,Forte crescimento,Forte crescimento
+4319737,São Valério do Sul,RS,67841.0,68519.0,1.0,Forte crescimento,Forte crescimento,Forte crescimento
+4319752,São Vendelino,RS,105311.0,94370.0,-10.39,Forte crescimento,Crescimento moderado,Forte crescimento
+4319802,São Vicente do Sul,RS,469886.0,646458.0,37.58,Forte retração,Forte retração,Estabilidade
+4319901,Sapiranga,RS,4674054.0,3845258.0,-17.73,Forte crescimento,Crescimento moderado,Crescimento moderado
+4320008,Sapucaia do Sul,RS,4729408.0,4577715.0,-3.21,Forte crescimento,Crescimento moderado,Crescimento moderado
+4320107,Sarandi,RS,1427661.0,1388184.0,-2.77,Crescimento moderado,Retração,Estabilidade
+4320206,Seberi,RS,827496.0,723082.0,-12.62,Forte crescimento,Forte crescimento,Forte crescimento
+4320230,Sede Nova,RS,122595.0,130525.0,6.47,Forte crescimento,Forte crescimento,Forte crescimento
+4320263,Segredo,RS,181686.0,158773.0,-12.61,Forte crescimento,Forte crescimento,Forte crescimento
+4320305,Selbach,RS,286810.0,329669.0,14.94,Forte retração,Retração,Crescimento moderado
+4320321,Senador Salgado Filho,RS,93393.0,115898.0,24.1,Forte retração,Retração,Forte crescimento
+4320354,Sentinela do Sul,RS,179897.0,145279.0,-19.24,Forte crescimento,Retração,Retração
+4320404,Serafina Corrêa,RS,988516.0,877933.0,-11.19,Forte crescimento,Crescimento moderado,Forte crescimento
+4320453,Sério,RS,70329.0,61966.0,-11.89,Forte crescimento,Crescimento moderado,Forte crescimento
+4320503,Sertão,RS,389514.0,376918.0,-3.23,Retração,Forte retração,Forte retração
+4320552,Sertão Santana,RS,344571.0,351696.0,2.07,Crescimento moderado,Retração,Crescimento moderado
+4320578,Sete de Setembro,RS,77186.0,73911.0,-4.24,Forte crescimento,Forte crescimento,Forte crescimento
+4320602,Severiano de Almeida,RS,142412.0,132145.0,-7.21,Forte crescimento,Estabilidade,Crescimento moderado
+4320651,Silveira Martins,RS,72204.0,73452.0,1.73,Crescimento moderado,Crescimento moderado,Forte crescimento
+4320677,Sinimbu,RS,248267.0,222830.0,-10.25,Forte crescimento,Forte crescimento,Forte crescimento
+4320701,Sobradinho,RS,523240.0,511778.0,-2.19,Forte crescimento,Forte crescimento,Forte crescimento
+4320800,Soledade,RS,1312842.0,1289442.0,-1.78,Forte crescimento,Crescimento moderado,Forte crescimento
+4320859,Tabaí,RS,176254.0,163048.0,-7.49,Forte crescimento,Crescimento moderado,Crescimento moderado
+4320909,Tapejara,RS,1870497.0,1763569.0,-5.72,Forte crescimento,Retração,Crescimento moderado
+4321006,Tapera,RS,584149.0,630577.0,7.95,Estabilidade,Crescimento moderado,Forte crescimento
+4321105,Tapes,RS,634090.0,531796.0,-16.13,Forte crescimento,Forte retração,Retração
+4321204,Taquara,RS,1815775.0,1754780.0,-3.36,Forte crescimento,Forte crescimento,Forte crescimento
+4321303,Taquari,RS,1123745.0,1062255.0,-5.47,Forte crescimento,Crescimento moderado,Crescimento moderado
+4321329,Taquaruçu do Sul,RS,188337.0,185452.0,-1.53,Forte crescimento,Crescimento moderado,Forte crescimento
+4321352,Tavares,RS,135924.0,126559.0,-6.89,Forte crescimento,Crescimento moderado,Crescimento moderado
+4321402,Tenente Portela,RS,614914.0,610747.0,-0.68,Forte crescimento,Forte crescimento,Forte crescimento
+4321436,Terra de Areia,RS,342570.0,335677.0,-2.01,Forte crescimento,Crescimento moderado,Forte crescimento
+4321451,Teutônia,RS,2003351.0,1879829.0,-6.17,Forte crescimento,Crescimento moderado,Forte crescimento
+4321469,Tio Hugo,RS,173559.0,185214.0,6.72,Forte retração,Retração,Estabilidade
+4321477,Tiradentes do Sul,RS,162975.0,170125.0,4.39,Crescimento moderado,Crescimento moderado,Forte crescimento
+4321493,Toropi,RS,82304.0,81438.0,-1.05,Forte crescimento,Estabilidade,Forte crescimento
+4321501,Torres,RS,1835529.0,1632292.0,-11.07,Forte crescimento,Crescimento moderado,Forte crescimento
+4321600,Tramandaí,RS,1579725.0,1415724.0,-10.38,Forte crescimento,Forte crescimento,Forte crescimento
+4321626,Travesseiro,RS,86078.0,79640.0,-7.48,Forte crescimento,Crescimento moderado,Forte crescimento
+4321634,Três Arroios,RS,134291.0,134670.0,0.28,Forte crescimento,Forte crescimento,Forte crescimento
+4321667,Três Cachoeiras,RS,372783.0,354241.0,-4.97,Forte crescimento,Crescimento moderado,Crescimento moderado
+4321709,Três Coroas,RS,1046073.0,987325.0,-5.62,Forte crescimento,Crescimento moderado,Crescimento moderado
+4321808,Três de Maio,RS,1525082.0,1490300.0,-2.28,Forte crescimento,Forte crescimento,Forte crescimento
+4321832,Três Forquilhas,RS,79197.0,67504.0,-14.76,Forte crescimento,Crescimento moderado,Crescimento moderado
+4321857,Três Palmeiras,RS,165901.0,163849.0,-1.24,Estabilidade,Retração,Retração
+4321907,Três Passos,RS,1228032.0,1144068.0,-6.84,Forte crescimento,Forte crescimento,Forte crescimento
+4321956,Trindade do Sul,RS,403531.0,371684.0,-7.89,Forte crescimento,Crescimento moderado,Forte crescimento
+4322004,Triunfo,RS,7571335.0,8809156.0,16.35,Forte retração,Forte retração,Forte crescimento
+4322103,Tucunduva,RS,231162.0,228206.0,-1.28,Estabilidade,Forte retração,Retração
+4322152,Tunas,RS,94250.0,91689.0,-2.72,Estabilidade,Forte retração,Retração
+4322186,Tupanci do Sul,RS,79798.0,81238.0,1.8,Forte crescimento,Forte crescimento,Forte crescimento
+4322202,Tupanciretã,RS,1275254.0,1394630.0,9.36,Forte retração,Retração,Crescimento moderado
+4322251,Tupandi,RS,604244.0,502663.0,-16.81,Forte crescimento,Forte retração,Crescimento moderado
+4322301,Tuparendi,RS,375006.0,354176.0,-5.55,Forte crescimento,Retração,Crescimento moderado
+4322327,Turuçu,RS,161326.0,145194.0,-10.0,Crescimento moderado,Forte retração,Forte retração
+4322343,Ubiretama,RS,73526.0,74870.0,1.83,Forte crescimento,Crescimento moderado,Forte crescimento
+4322350,União da Serra,RS,64313.0,59705.0,-7.17,Forte crescimento,Forte retração,Retração
+4322376,Unistalda,RS,71038.0,72002.0,1.36,Retração,Forte retração,Estabilidade
+4322400,Uruguaiana,RS,3915554.0,3519073.0,-10.13,Forte crescimento,Crescimento moderado,Crescimento moderado
+4322509,Vacaria,RS,3701333.0,3512176.0,-5.11,Forte crescimento,Forte crescimento,Forte crescimento
+4322525,Vale Verde,RS,156860.0,153851.0,-1.92,Forte crescimento,Forte crescimento,Forte crescimento
+4322533,Vale do Sol,RS,380489.0,338232.0,-11.11,Forte crescimento,Forte crescimento,Forte crescimento
+4322541,Vale Real,RS,298091.0,248275.0,-16.71,Forte crescimento,Crescimento moderado,Crescimento moderado
+4322558,Vanini,RS,81724.0,73999.0,-9.45,Forte crescimento,Crescimento moderado,Forte crescimento
+4322608,Venâncio Aires,RS,4683134.0,4134616.0,-11.71,Forte crescimento,Crescimento moderado,Forte crescimento
+4322707,Vera Cruz,RS,1126736.0,957230.0,-15.04,Forte crescimento,Crescimento moderado,Forte crescimento
+4322806,Veranópolis,RS,2395417.0,2274753.0,-5.04,Forte crescimento,Crescimento moderado,Forte crescimento
+4322855,Vespasiano Corrêa,RS,104348.0,99326.0,-4.81,Forte crescimento,Retração,Crescimento moderado
+4322905,Viadutos,RS,191223.0,178821.0,-6.49,Forte crescimento,Retração,Estabilidade
+4323002,Viamão,RS,5545184.0,4961130.0,-10.53,Forte crescimento,Forte crescimento,Forte crescimento
+4323101,Vicente Dutra,RS,147864.0,142479.0,-3.64,Forte crescimento,Forte crescimento,Forte crescimento
+4323200,Victor Graeff,RS,235754.0,242150.0,2.71,Forte crescimento,Forte crescimento,Forte crescimento
+4323309,Vila Flores,RS,376709.0,351236.0,-6.76,Forte crescimento,Retração,Forte crescimento
+4323358,Vila Lângaro,RS,155271.0,149622.0,-3.64,Retração,Forte retração,Forte retração
+4323408,Vila Maria,RS,393600.0,369036.0,-6.24,Forte crescimento,Forte crescimento,Forte crescimento
+4323457,Vila Nova do Sul,RS,217498.0,171735.0,-21.04,Forte crescimento,Crescimento moderado,Forte crescimento
+4323507,Vista Alegre,RS,137185.0,127941.0,-6.74,Forte crescimento,Crescimento moderado,Forte crescimento
+4323606,Vista Alegre do Prata,RS,76367.0,75143.0,-1.6,Crescimento moderado,Retração,Estabilidade
+4323705,Vista Gaúcha,RS,94256.0,92847.0,-1.49,Forte crescimento,Crescimento moderado,Forte crescimento
+4323754,Vitória das Missões,RS,89071.0,90596.0,1.71,Forte crescimento,Crescimento moderado,Forte crescimento
+4323770,Westfália,RS,234678.0,277235.0,18.13,Forte retração,Crescimento moderado,Forte crescimento
+4323804,Xangri-lá,RS,914704.0,834373.0,-8.78,Forte crescimento,Crescimento moderado,Forte crescimento
