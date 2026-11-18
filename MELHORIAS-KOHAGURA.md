@@ -244,3 +244,174 @@ Acrescentar:
 - [ ] Corrigir a contribuição dos autores e as referências
 - [ ] Numerar as tabelas e passar as fórmulas para LaTeX
 - [ ] Salvar a versão final em `reports/relatorio.pdf`
+
+---
+
+# Rodada 2: revisão da versão de 18/11/2026
+
+**Arquivo revisado:** `Overleaf_Ciencia_de_Dados (1).pdf`, com 13 páginas numeradas mais a capa.
+
+## Resultado
+
+A versão nova **resolveu praticamente tudo o que foi pedido na rodada 1**. Conferi cada número no repositório e todos batem:
+
+- Tabelas 1, 4, 5, 6, 7, 8, 9, 10 e 11;
+- figuras 1 a 5;
+- números citados no texto:
+  - redução de 5,97 pontos sobre a persistência;
+  - município mediano do PR em −2,49%;
+  - concordância de 82,4%, 16,5% e 1,2%;
+  - validação: 7,18% e 9,99% (Etapa A), 0,347 do RF, e 7,16% e 0,354 na Etapa B.
+
+O texto sobre o tratamento de ausentes também confere com o código (`src/features.py` e `src/integracao.py`). A ressalva de que PAM, PPM, população e PIA/PAS usam o próprio ano t também está certa, conforme a coluna `disponibilidade` do `dicionario_dataset.csv`. É uma boa ressalva para manter.
+
+| Item da rodada 1 | Situação |
+|---|---|
+| Seções 1.1 e 4 a 9 com os números do repositório | ✅ |
+| Nomes reais de arquivos e colunas | ✅ |
+| Nova escolha da Etapa B e intervalo de 80% | ✅ |
+| Análise exploratória: choque agrícola e desbalanceamento | ✅ |
+| Importância das variáveis | ✅ |
+| Enchentes do RS, viés de 2023 e extremos | ✅ |
+| As 5 figuras | ✅ |
+| Contribuição dos autores e referências | ✅ |
+| Tabelas numeradas e fórmulas em LaTeX | ✅ |
+| Salvar em `reports/relatorio.pdf` | ❌ pendente |
+
+O que falta está listado abaixo, em ordem de prioridade.
+
+---
+
+## R2.1 Obrigatório: descrição das principais variáveis
+
+O enunciado pede, na seção **Dataset**, a "Descrição das principais variáveis". A primeira versão tinha uma tabela de variáveis, mas ela **saiu**. Hoje há só uma frase na seção 4 que lista os grupos.
+
+Sugestão: incluir a tabela abaixo no fim da seção 2 ou no início da seção 4. Há espaço, porque o relatório tem 13 páginas e o limite é 15. A coluna "Ano usado" reforça a explicação de tempo que você já fez na seção 2.
+
+**Tabela sugerida: Principais variáveis de entrada (42 no total)**
+
+| Grupo | Variáveis (exemplos) | Ano usado | O que mede |
+|---|---|---|---|
+| Histórico do PIB | `log_pib_l1`, `log_pib_l2`, `cresc_pib_l1`, `cresc_pib_l2`, `cresc_pib_media_3a`, `log_pib_pc_l1` | t−1 e t−2 | Tamanho, ritmo recente e reversão do crescimento |
+| PIB regional | `cresc_pib_uf_l1`, `cresc_pib_reg_imediata_l1` | t−1 | Crescimento do estado e da região imediata no ano anterior |
+| Estrutura setorial | `part_agro_l3`, `part_industria_l3`, `part_servicos_l3`, `part_adm_publica_l3`, `part_impostos_l3` | t−3 | Peso de cada setor no valor adicionado |
+| Choque agrícola (PAM) | `choque_pam`, `var_pam_valor`, `pam_valor_sobre_pib_l1`, `choque_soja`, `choque_milho`, `choque_trigo`, `choque_fumo`, `choque_arroz`, `perda_area` | t | Variação do valor das lavouras como fração do PIB de t−1 e quebra de safra |
+| Choque agrícola regional | `choque_pam_uf`, `choque_pam_reg_imediata`, `choque_ppm_uf`, `choque_ppm_reg_imediata` | t | O mesmo choque, agregado na UF e na região imediata |
+| Pecuária (PPM) | `choque_ppm`, `var_ppm_valor`, `var_reb_bovino`, `var_reb_suino_total`, `var_reb_galinaceos_total` | t | Produção de origem animal e rebanhos |
+| População | `log_populacao`, `var_populacao`, `porte` (7 faixas) | t | Tamanho e variação da população, corrigida nas quebras de série |
+| Contexto estadual (PIA/PAS) | `var_uf_pia_receita_liquida`, `var_uf_pia_valor_transformacao`, `var_uf_pia_pessoal_ocupado`, `var_uf_pas_receita_bruta`, `var_uf_pas_pessoal_ocupado` | t | Indústria e serviços da UF |
+| Localização | `uf`, `regiao_intermediaria` | fixa | Variáveis categóricas (one-hot) |
+| Controle | `agro_imputado` | t | 1 se algum dado de PAM/PPM do município foi imputado |
+
+**Variáveis-alvo** (também pedidas pelo enunciado). Cabem em uma frase ou como última linha da tabela:
+
+| Variável | Uso |
+|---|---|
+| `pib` | PIB do ano t, em mil R$ correntes |
+| `cresc_pib_log` | log(PIB_t / PIB_t−1), alvo do treino da regressão |
+| `cresc_pib_pct` | Crescimento em %, base das categorias |
+| `categoria_crescimento` | Uma das 5 faixas, alvo da classificação |
+
+A lista completa está em `data/processed/dicionario_dataset.csv`.
+
+---
+
+## R2.2 Recomendado: comparação dos modelos na validação, em números
+
+Hoje a comparação na validação aparece só no gráfico da Figura 2, e só para a regressão. Na classificação, apenas o RF tem o número de validação citado. Esta tabela mostra **como a escolha foi feita**: cada modelo testado com 3 janelas de início do treino. Ajuda no critério C2 ("comparação entre modelos").
+
+**Tabela sugerida: Validação temporal, média dos anos de validação por janela de início do treino**
+
+*Regressão: MAPE médio (%), quanto menor, melhor*
+
+| Modelo | Etapa A, início 2010 | Etapa A, início 2013 | Etapa A, início 2016 | Etapa B, início 2010 | Etapa B, início 2013 | Etapa B, início 2016 |
+|---|---:|---:|---:|---:|---:|---:|
+| **Ensemble (Ridge + RF + LightGBM)** | 7,77 | 7,79 | **7,18** | 7,53 | 7,58 | **7,16** |
+| LightGBM | 7,56 | 7,49 | 7,40 | 7,32 | 7,36 | 7,44 |
+| Random Forest | 7,87 | 7,80 | 7,57 | 7,70 | 7,61 | 7,47 |
+| Ridge | 8,98 | 9,73 | 8,74 | 8,55 | 9,15 | 8,45 |
+| Huber | 9,15 | 10,57 | 9,99 | 8,66 | 9,79 | 9,31 |
+
+*Classificação: F1 macro médio, quanto maior, melhor*
+
+| Modelo | Etapa A, início 2010 | Etapa A, início 2013 | Etapa A, início 2016 | Etapa B, início 2010 | Etapa B, início 2013 | Etapa B, início 2016 |
+|---|---:|---:|---:|---:|---:|---:|
+| **Random Forest (clf)** | **0,347** | 0,335 | 0,346 | 0,318 | 0,322 | 0,334 |
+| LightGBM (clf) | 0,338 | 0,342 | 0,332 | 0,331 | 0,335 | 0,329 |
+| **Regressão → categoria** | 0,323 | 0,344 | 0,343 | 0,330 | **0,354** | 0,349 |
+| Regressão Logística | 0,312 | 0,303 | 0,304 | 0,288 | 0,298 | 0,291 |
+
+- **Etapa A:** validação de 2019 a 2022.
+- **Etapa B:** validação de 2019 a 2023.
+- **Em negrito:** o par (modelo, janela) escolhido em cada etapa.
+- **Baselines na validação da Etapa A:**
+  - regressão: persistência 13,32%, média de 3 anos 14,20% e crescimento da UF 14,88%;
+  - classificação: categoria do ano anterior 0,171 e classe majoritária 0,149.
+
+Uma frase de leitura sugerida: *"Na Etapa A, os três primeiros classificadores ficaram praticamente empatados (0,347, 0,344 e 0,342), com diferença menor que a variação de um ano para outro."*
+
+**Fontes:**
+- notebook 03, seção da janela de treino (regressão, Etapa A);
+- notebook 04, seções 3 e 7 (classificação, Etapas A e B);
+- notebook 05, seção 1 (regressão, Etapa B).
+
+---
+
+## R2.3 Recomendado: completar a Tabela 4 e citar a busca de hiperparâmetros
+
+**Linhas que faltam na Tabela 4** (estão em `config_classificacao.json`). As duas aparecem na Tabela 6:
+
+| Modelo | Configuração escolhida na Etapa A |
+|---|---|
+| Regressão Logística | C = 0,01; pesos balanceados |
+| LightGBM (classificação) | 300 árvores; taxa 0,05; 31 folhas; mínimo de 60 amostras por folha; pesos balanceados |
+
+**Frase sugerida sobre a busca:** "Os hiperparâmetros foram escolhidos por busca em grade na validação temporal: 44 combinações na regressão e 22 na classificação. A grade completa e o resultado de cada combinação estão em `regressao_busca_hiperparametros.csv` e `classificacao_busca_hiperparametros.csv`."
+
+| Modelo | Grade testada |
+|---|---|
+| Ridge | α ∈ {0,1; 1; 10; 100; 1000} |
+| Huber | α ∈ {10⁻⁴; 10⁻²; 1} × ε ∈ {1,1; 1,35; 2} |
+| RF (regressão) | folha mínima ∈ {5; 20; 50} × variáveis por divisão ∈ {33%; 60%} |
+| LightGBM (regressão) | perda ∈ {L2; Huber; L1} × folhas ∈ {15; 31} × mínimo de amostras ∈ {20; 60} × L2 ∈ {0; 5} |
+| Logística | C ∈ {0,01; 0,1; 1} × pesos ∈ {nenhum; balanceados} |
+| RF (classificação) | folha mínima ∈ {5; 20} × variáveis ∈ {33%; 60%} × pesos ∈ {nenhum; balanceados} |
+| LightGBM (classificação) | folhas ∈ {15; 31} × mínimo de amostras ∈ {20; 60} × pesos ∈ {nenhum; balanceados} |
+
+Se faltar espaço, basta a frase. A tabela de grades é opcional.
+
+---
+
+## R2.4 Recomendado: o número que explica a "Estabilidade"
+
+Na seção 6, o texto diz que a faixa é "pequena perante erros usuais de crescimento". Vale colocar o número: **a faixa tem 2 pontos de largura (−1% a 1%), enquanto o erro típico do crescimento previsto é de 5 a 7 pontos** (MdAPE de 5,6% e MAPE de 7,0% do Ensemble no teste). Por isso nenhum modelo acerta essa classe.
+
+---
+
+## R2.5 Ajustes de formatação
+
+| Onde | Problema | Correção |
+|---|---|---|
+| Pág. 4 | `fig_heatmap_co` / `rrelacoes.png` quebrado no meio | `\path{fig_heatmap_correlacoes.png}` (pacote `url`) ou `\texttt{fig\_heatmap\_\allowbreak correlacoes.png}` |
+| Pág. 5 | `regiao_int` / `ermediaria` quebrado no meio | o mesmo: `\path{regiao_intermediaria}` |
+| Pág. 8 | F1 sem sinal de multiplicação ("2 precisão recall") | `F1 = \frac{2\cdot\text{precisão}\cdot\text{recall}}{\text{precisão}+\text{recall}}` |
+| Tabela 7 | "1834,42" e "1945,91" sem separador de milhar, enquanto o texto usa "1.945,91" | usar "1.834,42" e "1.945,91" |
+| Tabela 5 | "Crescimento da UF em t-1" em texto simples | `Crescimento da UF em $t-1$` |
+| Pág. 10 | "(arredondamentos independentes)" é confuso | "a soma dá 100,1% por arredondamento" |
+
+---
+
+## R2.6 Entrega
+
+- [ ] Salvar o PDF final como **`reports/relatorio.pdf`**. É o único PDF que o `.gitignore` deixa entrar; o arquivo da raiz não vai para o GitHub.
+- [ ] Depois da versão final, este arquivo (`MELHORIAS-KOHAGURA.md`) será apagado do repositório antes da entrega.
+- Nota: as Figuras 1 e 3 têm dois gráficos cada, mas cada uma é uma imagem só do repositório. Devem contar como uma figura cada, e o risco com o limite de 5 figuras é baixo.
+
+## Checklist da rodada 2
+
+- [ ] R2.1 Tabela das principais variáveis e das variáveis-alvo (**obrigatório pelo enunciado**)
+- [ ] R2.2 Tabela de validação por modelo e janela
+- [ ] R2.3 Logística e LightGBM classificador na Tabela 4, mais a frase da busca em grade
+- [ ] R2.4 Número do erro típico ao falar de "Estabilidade"
+- [ ] R2.5 Ajustes de formatação
+- [ ] R2.6 `reports/relatorio.pdf`
