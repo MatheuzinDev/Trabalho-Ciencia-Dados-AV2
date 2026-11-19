@@ -16,3 +16,6 @@ Thumbs.db
 PLANO.md
 *.pdf
 !reports/relatorio.pdf
+
+# Log do script executar.sh
+executar.log
