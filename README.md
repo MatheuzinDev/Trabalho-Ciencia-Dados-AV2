@@ -2,6 +2,11 @@
 
 Trabalho 2 de **T326 – Ciência de Dados** (UNIFOR, Prof. Rilder de Sousa Pires).
 
+## Equipe
+
+- Matheus Diógenes Amorim — 2310277
+- Lucas Kohagura Alencastro — 2320373
+
 ## Objetivo
 
 Prever, com aprendizado de máquina, a economia de 2024 dos **1.191 municípios da Região Sul** (Paraná, Santa Catarina e Rio Grande do Sul), usando dados públicos do IBGE. São duas abordagens:
@@ -158,8 +163,3 @@ As demais colunas são as variáveis explicativas: histórico do PIB, produção
 | `modelo` | Modelo usado |
 
 **Teste de 2023:** os arquivos `previsoes_2023_validacao.csv`, `regressao_teste_2023_todos_modelos.csv` e `classificacao_teste_2023_todos_modelos.csv` trazem as previsões de 2023 feitas com dados até 2022, ao lado dos valores oficiais. Os dois últimos incluem as previsões de todos os modelos comparados.
-
-## Equipe
-
-- Matheus Diógenes Amorim — 2310277
-- Lucas Kohagura Alencastro — 2320373
